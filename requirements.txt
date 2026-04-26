@@ -1,0 +1,11 @@
+fastapi>=0.110
+uvicorn[standard]>=0.27
+python-multipart>=0.0.9
+asyncpg>=0.29
+pgvector>=0.2.5
+openai>=1.40
+anthropic>=0.34
+llama-index-core>=0.10
+python-dotenv>=1.0
+pydantic>=2.5
+sse-starlette>=2.1

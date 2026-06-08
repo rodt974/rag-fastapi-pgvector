@@ -1,0 +1,69 @@
+# RODT — FANTÔME (grain cloud mélodique, ancré cité + dualité)
+
+Socle visé : cité-jungle, famille/solidarité, deal/débrouille, DUALITÉ rêve/cauchemar
+(paradis/enfer, soleil/lune, étoiles/béton), 1 ref pop discrète. L'étoile = échappatoire,
+pas le sujet. 1 voix qui alterne [sung] / [spoken rap].
+
+=== PAROLES (champ Lyrics Suno) ===
+
+[Intro]
+eyy... han...
+ohhh-oh-oh...
+
+[Hook: sung melodic, heavy autotune]
+j'vise les étoiles... les pieds dans l'béton
+masqué dans ma jungle... le paradis ou l'fond
+eyy...
+soleil dans la tête... la lune dans l'cœur
+han...
+j'plane pour pas sentir... que j'ai grandi dans la peur
+
+[Verse 1: spoken, laid-back rap]
+né dans la jungle... les cafards, l'ascenseur en panne
+hannn...
+papa charbonnait... maman j'ai jamais connu sa voix
+héééé...
+nous deux contre le monde... le sang ça s'achète pas
+j'ai vendu mes rêves au bât... pour nourrir les miens
+
+[Hook: sung melodic, heavy autotune]
+j'vise les étoiles... les pieds dans l'béton
+masqué dans ma jungle... le paradis ou l'fond
+eyy...
+soleil dans la tête... la lune dans l'cœur
+han...
+j'plane pour pas sentir... que j'ai grandi dans la peur
+
+[Verse 2: sung melodic]
+j'cherche un père dans le ciel... comme Simba dans les nuages
+si l'paradis existe... gardez-moi une place à l'ombre
+on rêvait d'décoller... loin d'la cité, loin d'la haine
+mais mon cœur traîne en bas... avec ceux qu'j'ai laissés
+
+[Bridge]
+eyy... ahhh...
+masqué... rien qu'pour les miens
+si j'brille c'est pour eux... pas pour la galerie
+
+[Verse 3: spoken rap] [double-time, rapid flow]
+jungle de béton, masque sur la gueule, j'compte les sous, j'compte les morts, j'compte plus mes nuits
+soleil en enfer, lune au paradis, frérot tiens ma main, on s'envole ou on s'enfuit
+
+[Hook: sung melodic, heavy autotune]
+j'vise les étoiles... les pieds dans l'béton
+masqué dans ma jungle... le paradis ou l'fond
+eyy...
+soleil dans la tête... la lune dans l'cœur
+han...
+j'plane pour pas sentir... que j'ai grandi dans la peur
+
+[Outro]
+eyy... han...
+le paradis ou l'fond... j'plane...
+ohhh-oh-oh...
+
+=== STYLE PROMPT (champ Style Suno) ===
+french rap, melodic cloud rap, trap beat, deep 808 bass, crisp hi-hats, heavy melodic autotune, dark melancholic, spacious, slow laid-back flow, half-time 130 BPM, masked mystery vibe
+
+=== EXCLUDE STYLES (champ Exclude Suno) ===
+EDM, electro, house, future bass, synthwave, dance

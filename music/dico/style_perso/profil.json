@@ -21,10 +21,14 @@
       "lignes": "courtes, aérées ; souvent 'image sombre... bascule positive' sur la même ligne",
       "exemple_patron": "le ciel était noir... j'ai appris à planer"
     },
+    "direction_creative": {
+      "signature": "PARADOXE = cloud rap planant (forme, mood, vocalises) MAIS bars chargés en punchlines à double sens. La combinaison que personne ne fait : des punchlines qui fument posées sur du coton.",
+      "regle": "Garder l'air, l'espace et les vocalises de la forme planante, mais que CHAQUE vers cache une 2e lecture (homophonie, métaphore filée, double sens). Le hook reste mantra/simple ; c'est dans les verses qu'on charge.",
+      "puiser_dans": ["jeux_de_mots", "wordplay", "hybrides", "antitheses", "metaphores", "references", "moteur_combinatoire", "champs_lexicaux (filé sur tout un couplet)"]
+    },
     "rimes": {
-      "type": "simples, assonance douce > rime riche",
-      "sons_favoris": ["-er / -é (aller, planer, sauver, envoler, toucher)"],
-      "note": "ne pas surcharger en multisyllabiques ; rester fluide et chantable"
+      "type": "libres — pas obligé de rester simple ; multisyllabique OK tant que ça reste chantable et planant",
+      "note": "la rime sert le double sens et la fluidité, pas la démonstration"
     },
     "themes": ["solitude", "blessure / douleur", "résilience douce", "élévation / prise de hauteur", "se reconstruire", "ça va aller"],
     "double_sens_recurrent": "planer / s'envoler = à la fois s'élever émotionnellement et planer (état second) ; saigner = souffrir",

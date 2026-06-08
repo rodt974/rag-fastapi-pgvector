@@ -1,0 +1,59 @@
+# RODT — FANTÔME (grain céleste / cloud autotune)
+
+1 voix (RODT) qui alterne [sung melodic] et [spoken rapped] => impression 2 registres.
+Imagerie céleste + autotune épais = parenté cloud/PNL sans cloner.
+
+=== PAROLES (champ Lyrics Suno) ===
+
+[Intro]
+eyy... han...
+ohhh-oh-oh...
+
+[Hook: sung melodic, heavy autotune]
+j'ai grandi sous les étoiles... eyy
+masqué dans la galaxie... han
+ils m'voient pas, j'suis trop haut...
+seul dans la lumière... eyy
+
+[Verse 1: spoken, laid-back rap]
+seul dans ma bulle... la lune pour témoin
+hannn...
+le ciel m'a adopté... quand la Terre m'a lâché
+héééé...
+la beuh comme un nuage... j'flotte au-d'ssus du vide
+ils parlent en bas... moi j'écoute les étoiles
+
+[Hook: sung melodic, heavy autotune]
+j'ai grandi sous les étoiles... eyy
+masqué dans la galaxie... han
+ils m'voient pas, j'suis trop haut...
+seul dans la lumière... eyy
+
+[Verse 2: sung melodic]
+si j'brille c'est de loin... comme une étoile déjà morte
+j'envoie d'la lumière... à des années d'mes peines
+on rêvait d'décoller... frérot, vise la galaxie
+si on s'crashe, on s'crashe ensemble... dans le même ciel
+
+[Bridge]
+eyy... ahhh...
+masqué dans les nuages...
+si l'monde s'éteint... moi j'éclaire encore
+
+[Verse 3: spoken rap] [double-time, rapid flow]
+masque sur la tête, étoiles dans les yeux, j'plane, j'fuis, j'reviens jamais, j'vis la nuit
+ils m'ont cru mort, j'suis dans l'cosmos, j'compte les astres, j'oublie c'qui m'a trahi
+
+[Hook: sung melodic, heavy autotune]
+j'ai grandi sous les étoiles... eyy
+masqué dans la galaxie... han
+ils m'voient pas, j'suis trop haut...
+seul dans la lumière... eyy
+
+[Outro]
+eyy... han...
+dans les étoiles... j'plane...
+ohhh-oh-oh...
+
+=== STYLE PROMPT (champ Style Suno) ===
+french cloud rap, heavy melodic autotune, celestial dreamy spatial beat, ambient atmospheric pads, slow laid-back melodic flow, melancholic, reverb, half-time 130 BPM, masked mystery vibe

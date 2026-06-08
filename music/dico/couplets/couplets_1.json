@@ -1,0 +1,281 @@
+{
+  "module": "couplets",
+  "langue_finale": "fr",
+  "entrees": [
+    {
+      "id": "coup-001",
+      "adaptation_fr": "J'ai grandi là où les réverbères lâchent avant minuit\nLe béton éduque, les profs n'ont pas tenu la nuit\nMa mère priait en arabe, moi j'apprenais le code de la rue\nCe qu'elle m'a donné de mieux, c'est la peur d'avoir perdu\nJ'ai vu des frères partir pour des billets froissés\nRien ne les a préparés, ni l'école ni le rosaire\nAujourd'hui je poses des syllabes là où ils posaient du shit\nLe micro remplace rien, mais au moins ma voix persiste\nOn m'a dit que la cité forme ou brise, j'ai choisi de plier sans rompre\nLe vent du bas des tours est froid mais il ne me corrompt plus",
+      "theme": ["rue", "ambition", "famille"],
+      "ton": "sombre, déterminé",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["minuit/nuit", "rue/perdu", "froissés/rosaire", "shit/persiste", "rompre/plus"],
+      "note_usage": "80–95 BPM, trap conscient ou boom bap mid-tempo. Setup narratif fort en ouverture d'album. Structure : tableau d'enfance → tournant → résolution."
+    },
+    {
+      "id": "coup-002",
+      "adaptation_fr": "Mon ambition est un couteau planté dans la table depuis l'enfance\nPersonne ne l'a sorti, moi j'ai attendu en silence\nJ'ai dessiné mes plans sur des cahiers d'école volés\nMes profs voyaient un problème, moi je voyais un projet\nIls ont ri le jour J, j'avais pas de costard ni de cravate\nJuste la rage dans la voix et une cassette dans la patte\nAujourd'hui le studio ressemble à la salle de délibération\nSauf que c'est moi qui rends le verdict, moi la décision\nDix ans de nuits blanches, deux divorces avec le doute\nJ'arrive au sommet tanné, sans GPS, j'ai tracé ma route",
+      "theme": ["ambition", "travail", "ego"],
+      "ton": "triomphal, froid",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["enfance/silence", "volés/projet", "cravate/patte", "délibération/décision", "doute/route"],
+      "note_usage": "90–100 BPM, instru sombre à cordes. Couplet de conclusion ou de réponse aux détracteurs. Structure : humiliation passée → travail → triomphe."
+    },
+    {
+      "id": "coup-003",
+      "adaptation_fr": "Le quartier m'a mis des lunettes noires dès l'âge de sept ans\nJ'ai appris à voir les dangers avant de voir les gens\nChaque sourire était un calcul, chaque poignée une analyse\nLa confiance est un luxe que le béton neutralise\nJ'ai trimé pour sortir, certains ont cru que je les quittais\nComme si grandir était une trahison que l'on commettait\nJ'emporte le code postal dans la gorge, gravé profond\nQuel que soit l'endroit où je dors, le bloc reste mon fond\nOn peut repeindre les tours, changer les noms des rues\nLe gamin qu'on a formé là, lui, il a pas disparu",
+      "theme": ["rue", "identité", "exil intérieur"],
+      "ton": "mélancolique, lucide",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["ans/gens", "analyse/neutralise", "quittais/commettait", "profond/fond", "rues/disparu"],
+      "note_usage": "75–85 BPM, boom bap introspectif. Couplet de milieu de projet, thème de l'identité préservée malgré l'ascension sociale."
+    },
+    {
+      "id": "coup-004",
+      "adaptation_fr": "On vendait du rêve emballé dans du papier alu\nMaintenant je vends du son, c'est moins risqué, plus vécu\nLa différence entre hier et demain c'est le micro\nMême matière première, la rue, juste un autre cargo\nJ'ai changé de terrain mais le jeu reste le même\nSéduire, convaincre, tenir debout quand tout penche et se démène\nLa scène c'est ma dalle de cité, le public c'est le bloc\nJe balance mes vers comme on balance les stocks\nRien ne se perd dans cette vie, tout se convertit\nLa galère d'avant alimente le feu de ce soir — c'est dit",
+      "theme": ["rue", "argent", "musique", "conversion"],
+      "ton": "froid, direct",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["alu/vécu", "micro/cargo", "même/démène", "bloc/stocks", "convertit/dit"],
+      "note_usage": "95–105 BPM, trap mid-tempo. Couplet sur la reconversion, la légitimité de rue transposée dans le rap."
+    },
+    {
+      "id": "coup-005",
+      "adaptation_fr": "T'as vendu mon nom pour un repas, t'avais même pas faim\nT'avais soif de ma chute depuis le début du chemin\nOn dormait sous le même toit, frères de galère jurés\nT'as gardé le couteau que je t'avais prêté\nLa trahison n'est pas un coup de tonnerre, c'est une moisissure\nElle s'installe en silence, ronge le mur, perfore la structure\nJe t'en veux pas, j'en veux à ma naïveté d'alors\nD'avoir cru que la misère partagée créait des accords\nAujourd'hui les ponts sont coupés, l'eau coule propre en dessous\nTon prénom n'est plus dans ma bouche — c'est tout",
+      "theme": ["trahison", "amitié brisée"],
+      "ton": "froid, amer",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["faim/chemin", "jurés/prêté", "moisissure/structure", "alors/accords", "dessous/tout"],
+      "note_usage": "70–80 BPM, instru épurée, piano ou cordes. Couplet de confrontation intériorisée. Setup : trahison → analyse → détachement."
+    },
+    {
+      "id": "coup-006",
+      "adaptation_fr": "J'aurais dû voir les signaux avant la chute\nLes yeux fuyants, les silences entre chaque dispute\nMais l'amour est une fièvre qui brouille le thermomètre\nTu mens, je crois, on tourne en rond dans le même périmètre\nTu es partie un mardi, sans claquer la porte\nComme si même la rupture méritait pas d'être forte\nJ'ai passé trois semaines à réapprendre le silence\nTon absence était plus bruyante que ta présence\nAujourd'hui je te garde dans une chanson fermée à clef\nC'est tout ce qui reste — et ça me suffit pour avancer",
+      "theme": ["amour", "rupture", "deuil amoureux"],
+      "ton": "mélancolique, apaisé",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["chute/dispute", "thermomètre/périmètre", "porte/forte", "silence/présence", "clef/avancer"],
+      "note_usage": "65–75 BPM, RnB ou soul rap. Couplet central d'un titre sur la rupture. Structure : tableau du passé → départ → reconstruction."
+    },
+    {
+      "id": "coup-007",
+      "adaptation_fr": "On s'est aimés comme deux incendies dans un appartement vide\nOn a tout consumé, les murs, les mots, le livide\nTu m'apprenais à brûler, j'apprenais à te souffler\nOn a confondu l'intensité avec quelque chose de réel\nTes yeux étaient un miroir et j'y cherchais mon visage\nMais le miroir était brisé depuis le premier voyage\nJ'ai ramassé les éclats, je me suis coupé les mains\nParce que la beauté des choses cassées attire les imbéciles sains\nOn refait pas le film, on efface pas les cicatrices\nMais dans chaque couplet que j'écris tu prends de la place — c'est ma justice",
+      "theme": ["amour toxique", "passion", "créativité"],
+      "ton": "sombre, poétique",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["vide/livide", "souffler/réel", "visage/voyage", "mains/sains", "cicatrices/justice"],
+      "note_usage": "70–80 BPM, instru atmosphérique, reverb profond. Couplet mid-project sur un amour destructeur sublimé en art."
+    },
+    {
+      "id": "coup-008",
+      "adaptation_fr": "Ma mère a élevé quatre enfants avec deux salaires d'emprunt\nElles se levait à cinq heures, dormait à deux heures du matin\nJe me souviens de ses mains rougies par l'eau de Javel\nSes mains qui repassaient les chemises pour que je paraisse honnête et réel\nJe suis monté sur scène un soir avec ses yeux dans les miens\nJ'ai senti qu'elle portait cette nuit depuis longtemps comme un bien\nChaque billet que je gagne je l'entends souffler de fatigue\nCette femme est la définition de ce que l'amour oblige\nAucune ligne ne sera jamais assez haute pour la couvrir\nJe porte son nom dans chaque mot — c'est mon avenir",
+      "theme": ["famille", "mère", "gratitude"],
+      "ton": "solennel, tendre",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["emprunt/matin", "Javel/réel", "miens/bien", "oblige/fatigue", "couvrir/avenir"],
+      "note_usage": "70–80 BPM, boom bap émotionnel. Couplet hommage à la mère. Moment de sincérité absolue, éviter la surproduction sonore."
+    },
+    {
+      "id": "coup-009",
+      "adaptation_fr": "Papa est parti un matin sans laisser d'adresse ni de mot\nJ'ai cherché son visage dans tous les hommes qui passaient au galop\nJ'ai grandi trop vite pour compenser l'espace qu'il laissait\nPortant le vide en bandoulière, faisant semblant que ça n'importait\nJ'ai mis des années à comprendre que son départ n'était pas mon défaut\nMais l'enfant qui reste cherche toujours une raison dans ses propres os\nAujourd'hui je lui écris une lettre que j'enverrai jamais\nPas par colère — juste parce que certains destins n'ont pas de relais\nJe te pardonne du bout des doigts, pas encore du fond du ventre\nMais je travaille à vider la dette, mesure après mesure, entre les strophes",
+      "theme": ["famille", "père absent", "pardon", "deuil"],
+      "ton": "introspectif, douloureux",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["mot/galop", "laissait/importait", "défaut/os", "jamais/relais", "ventre/strophes"],
+      "note_usage": "60–70 BPM, instru minimaliste. Couplet lourd de sens, convient à un interlude ou un outro. Ne pas surcharger la prod."
+    },
+    {
+      "id": "coup-010",
+      "adaptation_fr": "J'ai prié dans le noir quand le noir était tout ce qui existait\nLe plafond de la chambre était mon seul ciel et il ne parlait pas\nJ'ai murmuré des mots à un Dieu que je n'étais pas sûr d'entendre\nMais quelque chose a répondu dans le calme — doux, sans se répandre\nLa foi n'est pas une armure, c'est la peau sous les coups\nElle cède parfois, elle saigne, elle se reforme à genoux\nJ'ai douté tellement fort que le doute est devenu une prière\nEt dans cette prière j'ai trouvé ce que je cherchais en arrière\nAujourd'hui je ne suis pas saint, je suis juste en chemin\nChaque fajr est une promesse que je tiens de ma main",
+      "theme": ["foi", "doute", "spiritualité"],
+      "ton": "solennel, intime",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["existait/parlait", "entendre/répandre", "coups/genoux", "prière/arrière", "chemin/main"],
+      "note_usage": "60–75 BPM, instru épurée avec oud ou piano. Couplet de foi personnelle. Éviter le prosélytisme, rester dans l'intime."
+    },
+    {
+      "id": "coup-011",
+      "adaptation_fr": "Le mois est fini depuis quinze jours et le frigo parle tout seul\nLa honte a une adresse, elle habite ici depuis longtemps, elle est seule\nJ'ai fait semblant que c'était une diète, une retraite, un choix\nMais la vérité c'est que la galère avait pris ses aises chez moi\nJ'ai mis mon blouson en hiver pour aller chercher du travail\nLes yeux baissés dans les agences comme si j'avais failli\nOn m'a dit revenez demain, surlendemain, jamais vraiment\nLa dignité prend des coups mais elle tient debout quand même\nJ'ai pas lâché, j'ai serré les dents jusqu'au sang\nParce que mes enfants méritaient mieux que mon étendard blanc",
+      "theme": ["galère", "pauvreté", "dignité"],
+      "ton": "réaliste, combatif",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["seul/seule", "choix/moi", "travail/failli", "quand même/debout", "sang/blanc"],
+      "note_usage": "80–90 BPM, boom bap lourd. Couplet de survie sociale. Puissant en contexte d'album sur la classe ouvrière ou l'exil économique."
+    },
+    {
+      "id": "coup-012",
+      "adaptation_fr": "On est arrivés un mardi avec deux valises et un nom imprononçable\nLe froid de novembre a été le premier mot de bienvenue implacable\nMa mère souriait fort pour qu'on croie que c'était bon signe\nMoi j'apprenais les rues comme on apprend une langue maligne\nIls disaient intègre-toi comme si j'étais une pièce défectueuse\nComme si ma culture d'avant était une faute malheureuse\nJ'ai avalé leur langue, leurs codes, leurs silences condescendants\nJe l'ai gardée au fond, ma langue première, sous les dents\nAujourd'hui je parle les deux, je traduis, je fais le pont\nMon exil est ma richesse — et personne n'y touchera, c'est mon don",
+      "theme": ["exil", "immigration", "identité"],
+      "ton": "fier, mélancolique",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["imprononçable/implacable", "signe/maligne", "défectueuse/malheureuse", "condescendants/dents", "pont/don"],
+      "note_usage": "80–90 BPM, afro-trap ou boom bap. Couplet sur l'immigration, idéal en ouverture ou en manifeste identitaire."
+    },
+    {
+      "id": "coup-013",
+      "adaptation_fr": "Je viens d'un pays que la carte a redessiné trois fois\nLes frontières changent, les blessures gardent la même adresse, le même toit\nMon grand-père a semé du blé là où il y a maintenant du bitume\nL'histoire efface les hommes mais garde leurs noms dans ses brumes\nJ'ai traversé la mer dans un rêve que d'autres ont noyé\nJe suis arrivé vivant — c'est déjà une victoire à ployer\nOn m'a mis un numéro dans un dossier, une case dans une liste\nMais je suis un homme entier, pas une ligne de registre triste\nIci je construis avec ce que j'ai transporté dans mes os\nUn pays n'est pas un sol, c'est ce qu'on décide de porter haut",
+      "theme": ["exil", "guerre", "migration", "identité"],
+      "ton": "solennel, fier",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["fois/toit", "bitume/brumes", "noyé/ployer", "liste/triste", "os/haut"],
+      "note_usage": "70–80 BPM, instru épique à cordes. Couplet sur l'exil forcé et la reconstruction. Fort en contexte de titre politique ou mémoriel."
+    },
+    {
+      "id": "coup-014",
+      "adaptation_fr": "La mort est venue frapper un jeudi sans prévenir\nElle a pris le meilleur et laissé le souvenir\nJ'ai tenu ton cercueil du bout des bras, du bout du monde\nJe comprenais pas que quelque chose d'aussi lourd soit si profonde\nTu m'avais appris à tomber sans casser les dents\nÀ tenir les coups en souriant, à faire face au torrent\nJe te cherche encore dans les bruits de la cuisine le matin\nDans l'odeur du café froid, dans les photos sur le parchemin\nLe deuil n'est pas une étape, c'est un appartement qu'on réaménage\nTu occupes toujours une pièce — c'est moi qui gère l'étage",
+      "theme": ["deuil", "mort", "mémoire"],
+      "ton": "mélancolique, tendre",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["prévenir/souvenir", "monde/profonde", "dents/torrent", "matin/parchemin", "réaménage/étage"],
+      "note_usage": "60–70 BPM, instru atmosphérique. Couplet de deuil intime. À réserver pour un titre hommage, éviter les effets trap."
+    },
+    {
+      "id": "coup-015",
+      "adaptation_fr": "J'ai fermé les yeux sur ton cercueil et j'ai entendu nos rires de gamins\nLa cour du bas, les vélos volés, nos doigts noirs de chemin\nT'aurais dû vieillir avec moi, voir nos enfants se battre en paix\nL'asphalte a décidé autrement — une nuit, un bruit, jamais\nJ'ai gardé ton hoodie dans un sac en plastique fermé à l'air\nL'odeur s'évanouit doucement comme tu t'es dissous dans l'air\nJe récite ton prénom dans chaque track comme une sourate de survie\nPour que tu existes encore quelque part dans le bruit de ma vie\nOn dit que le temps efface, moi j'dis que c'est faux\nLe temps creuse, il grave plus profond — et le manque ne s'éteint pas",
+      "theme": ["deuil", "amitié", "mort violente"],
+      "ton": "sombre, affectueux",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["gamins/chemin", "paix/jamais", "l'air/l'air", "survie/vie", "faux/pas"],
+      "note_usage": "75–85 BPM, boom bap mélancolique. Hommage à un ami disparu. Ne pas surproduire — la voix doit porter seule."
+    },
+    {
+      "id": "coup-016",
+      "adaptation_fr": "Ils m'ont dit que ma vengeance serait froide et calculée\nMais la colère brûle trop fort pour attendre d'être glacée\nJ'ai retenu ma main pendant des années, des mois, des crans\nComptant les intérêts comme un banquier qui attend son rang\nAujourd'hui je viens pas avec un flingue ni avec du bruit\nJe viens avec du temps, de la réussite, et la nuit\nMa revanche est silencieuse, elle se déroule en direct\nChaque scène que j'arpente est un verdict\nVous m'avez coupé les ailes en pensant que je tomberais\nJ'ai appris à marcher si vite que voler me semble trop peu désormais",
+      "theme": ["vengeance", "résilience", "ego"],
+      "ton": "froid, triomphal",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["calculée/glacée", "crans/rang", "bruit/nuit", "direct/verdict", "tomberais/désormais"],
+      "note_usage": "90–105 BPM, trap froid. Couplet de revanche par le succès. Idéal en fermeture de projet ou en réponse à une période difficile."
+    },
+    {
+      "id": "coup-017",
+      "adaptation_fr": "Il y a des endroits où la nuit ne finit jamais tout à fait\nOù les lampadaires sont cassés depuis l'été d'avant la paix\nJ'ai grandi dans ces ruelles qui ne figurent sur aucune carte postale\nCes quartiers qu'on montre à la télé quand ça devient anormale\nMais moi j'y ai connu les premières amours et les premiers deuils\nLes premières fois et les premières fois qu'on franchit le seuil\nDe ce côté-là de la ville, chaque geste est une décision\nTu choisis ta gang ou ta solitude — il n'y a pas d'abstention\nJ'ai choisi les mots comme d'autres choisissent les couteaux\nLe résultat c'est pareil : tu traces ta route ou tu tombes dans l'eau",
+      "theme": ["rue", "enfance", "choix", "banlieue"],
+      "ton": "réaliste, poétique",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["fait/paix", "carte postale/anormale", "deuils/seuil", "décision/abstention", "couteaux/l'eau"],
+      "note_usage": "80–90 BPM, boom bap classique. Couplet panoramique sur la banlieue, idéal en ouverture d'album ou en intro de titre."
+    },
+    {
+      "id": "coup-018",
+      "adaptation_fr": "Je suis le fils de ceux qu'on a pas inclus dans l'Histoire avec H majuscule\nMes ancêtres ont construit des routes qu'ils n'ont jamais eu le droit d'emprunter\nOn nous a appris leur géographie sans nous apprendre notre propre latitude\nJ'ai cherché mon reflet dans leurs livres — il n'y avait que du vide et des platitudes\nAlors j'ai écrit mon propre chapitre avec l'encre de ce qu'ils ont tu\nChaque punchline est une page arrachée d'un silence trop longtemps subi\nLa mémoire est un acte de résistance quand on te dit d'oublier\nJe refuse d'effacer ce que mes parents ont porté pour arriver\nLeur voyage n'est pas une honte, c'est ma fondation, ma charpente\nJe bâtis sur leurs nuits blanches — et rien ne s'évapore ni ne se lamente",
+      "theme": ["mémoire coloniale", "identité", "résistance", "héritage"],
+      "ton": "politique, fier",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["majuscule/emprunter", "latitude/platitudes", "tu/subi", "oublier/arriver", "charpente/lamente"],
+      "note_usage": "85–95 BPM, boom bap conscient ou spoken word. Couplet politique fort. Convient à un titre sur la mémoire post-coloniale ou l'identité diasporique."
+    },
+    {
+      "id": "coup-019",
+      "adaptation_fr": "Le succès sent le désinfectant dans les couloirs des hôpitaux\nMa mère en soins intensifs, moi en tournée dans des bureaux\nJ'ai chanté ce soir-là avec le téléphone éteint sur scène\nParce que si elle mourait pendant le show je voulais pas le savoir avec la haine\nElle a tenu, elle a tenu comme elle a toujours tenu\nCette femme a survécu à des tempêtes que Dieu lui-même n'a pas prévues\nJ'ai raccroché à deux heures du matin avec sa voix dans le fil\nEt j'ai compris que le succès sans elle ne vaut pas un fil\nTout ce que je construis, je le construis en son nom en avance\nLe jour où elle n'est plus là, je lâche le micro — c'est ma promesse en balance",
+      "theme": ["mère", "succès", "sacrifice", "peur de la perte"],
+      "ton": "émotionnel, intense",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["hôpitaux/bureaux", "scène/haine", "tenu/prévues", "fil/fil", "avance/balance"],
+      "note_usage": "70–80 BPM, instru soul ou RnB introspectif. Couplet de vulnérabilité maximale. À placer en position centrale d'album."
+    },
+    {
+      "id": "coup-020",
+      "adaptation_fr": "La prison a des visages que personne ne montre dans les docs\nLe mitard, l'ennui qui ronge plus que les verrous et les chocs\nJ'ai fait mon temps debout parce que s'agenouiller c'était finir\nChaque matin une décision : rester soi ou se laisser définir\nDehors la vie avançait comme une rivière sans m'attendre\nMes amis vieillissaient, mes rêves devenaient plus tendres\nLa sortie m'a rendu à un monde qui m'avait oublié dans la liste\nJ'ai dû réapprendre à exister sans gardien ni frontière triste\nJe porte cette peine pas comme une honte mais comme un registre\nLa taule m'a appris qui j'étais quand tout le reste se désintègre",
+      "theme": ["prison", "réinsertion", "identité"],
+      "ton": "sombre, déterminé",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["docs/chocs", "finir/définir", "attendre/tendres", "liste/triste", "registre/désintègre"],
+      "note_usage": "85–95 BPM, instru lourde et métallique. Couplet post-carcéral fort. Honnête sans glorification ni auto-flagellation."
+    },
+    {
+      "id": "coup-021",
+      "adaptation_fr": "J'ai le flow d'un fleuve qui grossit sous la pluie d'automne\nRien ne me retient, ni les digues ni les hommes ni les colonnes\nJ'ai commencé en freestylant dans des cages d'escalier qui puaient le chien\nAujourd'hui les salles se remplissent et personne ne sait bien\nComment j'ai tenu sans label, sans buzz, sans manège\nJuste la discipline et la voix et le verbe qui s'allège\nOn m'a dit que mon heure était passée avant même qu'elle arrive\nQue le rap FR avait déjà ses têtes, ses codes, ses archives\nJ'ai répondu avec une punchline et dix ans d'écriture dense\nLa scène n'appartient à personne — elle appartient à l'éloquence",
+      "theme": ["ego", "rap", "persévérance"],
+      "ton": "triomphal, fier",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["automne/colonnes", "chien/bien", "manège/s'allège", "arrive/archives", "dense/éloquence"],
+      "note_usage": "95–110 BPM, boom bap ou instru épique. Couplet d'ego rap construit. Éviter la fanfaronnade creuse — le fond doit justifier la forme."
+    },
+    {
+      "id": "coup-022",
+      "adaptation_fr": "Je t'ai aimée comme on soigne une plante dans une pièce sans fenêtre\nTu poussais quand même, de côté, cherchant la lumière en traître\nJ'ai menti à mes proches pour que notre histoire reste intacte\nJ'ai sacrifié des amitiés pour tes caprices, signé le pacte\nEt toi tu partais en week-end avec quelqu'un dont je connais le prénom\nTu rentrais le dimanche soir avec des excuses et du parfum\nJ'aurais dû partir avant — les signaux étaient là, clairs, répétés\nMais l'amour est une dette qu'on s'invente pour rester piégés\nJe t'ai rendue libre un lundi matin, sans drame ni décision\nParce que te garder aurait coûté plus cher que la trahison",
+      "theme": ["amour", "trahison", "dépendance affective"],
+      "ton": "amer, lucide",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["fenêtre/traître", "intacte/pacte", "prénom/parfum", "répétés/piégés", "décision/trahison"],
+      "note_usage": "70–80 BPM, instru soul ou RnB. Couplet sur la cécité amoureuse. La lucidité finale doit sonner comme une libération, pas une capitulation."
+    },
+    {
+      "id": "coup-023",
+      "adaptation_fr": "La honte est une ville dont on ne parle jamais dans les interviews\nOn montre les trophées, les sneakers, les preuves\nMais pas les nuits à compter les factures sur la table de la cuisine\nPas les mensonges aux enfants pour qu'ils croient à la routine\nJ'ai porté la façade pendant des années avec un sourire de ciment\nDehors le succès, dedans l'angoisse et le tremblement\nAujourd'hui je pose le masque parce que la vérité pèse moins\nQue le poids de la construction d'un personnage qui ne te ressemble en rien\nLa vulnérabilité n'est pas une faiblesse, c'est un choix de clarté\nJe préfère être vu cassé plutôt qu'admiré dans l'opacité",
+      "theme": ["image publique", "vulnérabilité", "honnêteté"],
+      "ton": "introspectif, courageux",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["interviews/preuves", "cuisine/routine", "ciment/tremblement", "moins/rien", "clarté/opacité"],
+      "note_usage": "70–85 BPM, instru minimaliste. Couplet de confession publique. Fort en outro ou en single introspectif."
+    },
+    {
+      "id": "coup-024",
+      "adaptation_fr": "L'argent est arrivé mais la paix n'a pas suivi dans le même taxi\nJ'ai acheté du confort et découvert que l'angoisse voyage en business class aussi\nLes problèmes ont changé de visage, d'adresse et de langue\nMais ils sont toujours là, plus discrets, plus longs dans leur harangue\nJ'ai cru que le compte en banque fermerait les vieilles blessures\nQue les billets seraient des pansements sur les vieilles fractures\nJe m'y suis perdu quelques années, à confondre avoir et être\nÀ compter les streams au lieu de regarder par ma fenêtre\nAujourd'hui je reviens à l'essentiel — le texte, le son, le lien\nL'argent est un outil, pas un but — et j'ai mis du temps mais je le tiens",
+      "theme": ["argent", "succès creux", "quête de sens"],
+      "ton": "lucide, mélancolique",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["taxi/aussi", "langue/harangue", "blessures/fractures", "être/fenêtre", "lien/tiens"],
+      "note_usage": "75–85 BPM, boom bap ou trap atmosphérique. Couplet sur la désillusion post-succès. Idéal en milieu de projet ou en suite narrative."
+    },
+    {
+      "id": "coup-025",
+      "adaptation_fr": "Je rêve d'un monde où mes fils marchent sans regarder derrière eux\nOù les flics ne lisent pas leur couleur avant de lire leurs yeux\nOù le code postal n'est pas un verdict avant le tribunal\nOù grandir dans le bas de la ville n'est pas hors norme ni fatal\nJe sais que ce monde n'existe pas encore dans les textes de loi\nMais il existe dans les couplets, dans les voix, dans les emois\nRapper c'est planter des graines dans un sol qui se méfie des arbres\nMais certaines graines tiennent, s'enracinent, fendant le marbre\nOn a beau nous dire que c'est de la musique, rien de plus\nLes révolutions ont toujours commencé par un refrain en surplus",
+      "theme": ["espoir", "justice sociale", "rap engagé"],
+      "ton": "solennel, combatif",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["eux/yeux", "tribunal/fatal", "loi/emois", "arbres/marbre", "plus/surplus"],
+      "note_usage": "85–95 BPM, instru épique ou boom bap conscient. Couplet manifeste. Fort en clôture d'album ou en texte de campagne artistique."
+    }
+  ]
+}

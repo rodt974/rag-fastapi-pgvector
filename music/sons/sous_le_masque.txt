@@ -1,8 +1,9 @@
-# RODT — SOUS L'MASQUE (version "viser 10")
+# RODT — SOUS L'MASQUE (v3 : remplissage viré, monorimes propres)
 
-Construction Willylancien (hook mantra + contraste + vocalises) MAIS écriture musclée :
-rimes multisyllabiques, double-sens, antithèses, une ligne-choc citable.
-RODT : masque blanc cœur brisé, come-up, cité, beuh.
+Gardé : "qu'y reste plus d'eau dans mon âme", "entre l'amour et une lame / me calme",
+"le blanc c'est l'deuil", "le sourire que j'te donne c'est l'seul que j'ai jamais eu".
+Viré : "que la vie a fait drame", "mes démons font du bruit", "dehors j'fais l'beau temps", "mes fêlures en lumière" (emprunté).
+Couplets en MONORIME (tout le quatrain rime). Construction Willylancien (hook mantra + vocalises).
 
 === PAROLES (champ Lyrics Suno) ===
 
@@ -11,48 +12,52 @@ hannn... héééé...
 ohhh-oh-oh...
 
 [Hook: deep raspy, melodic]
-sous l'masque j'souris jamais... dehors j'fais l'beau temps
+sous l'masque j'souris jamais... lui, il sourit pour deux
 hannn...
-au fond j'suis qu'une averse... qui tombe depuis longtemps
+moi j'planque c'que j'ressens... derrière deux trous pour les yeux
 héééé...
 ils kiffent le masque blanc... savent pas qu'le blanc c'est l'deuil
 un sourire en céramique... fissuré mais plein d'orgueil
 ohhh-oh-oh...
 
 [Verse 1: spoken, laid-back]
-derrière l'masque, un gamin... que la vie a fait drame
+sous l'plâtre, pas d'sourire... juste un gamin qui réclame
 hannn...
 j'ai séché tant d'larmes... qu'y reste plus d'eau dans mon âme
 héééé...
-j'demande à c'sourire en plâtre... de cacher c'qui m'désarme
+j'fais l'mort pour qu'on voie pas... la fêlure qui m'entame
 entre l'amour et une lame... j'sais plus laquelle me calme
 
 [Hook: deep raspy, melodic]
-sous l'masque j'souris jamais... dehors j'fais l'beau temps
+sous l'masque j'souris jamais... lui, il sourit pour deux
 hannn...
-au fond j'suis qu'une averse... qui tombe depuis longtemps
+moi j'planque c'que j'ressens... derrière deux trous pour les yeux
 héééé...
 ils kiffent le masque blanc... savent pas qu'le blanc c'est l'deuil
 un sourire en céramique... fissuré mais plein d'orgueil
 ohhh-oh-oh...
 
 [Verse 2: spoken, laid-back]
-seul à minuit j'écris... mes démons font du bruit
+seul à minuit j'écris... le silence pour seul bruit
 hannn...
 j'ai qu'la beuh pour témoin... la haine pour appui
 héééé...
 masqué, numéro inconnu... ils m'zappent aujourd'hui
-mes fêlures en lumière... pour celui qui m'a fui
+vous verrez pas mon visage... mais ma voix vous poursuit
 
 [Bridge]
 hannn... héééé...
 sous l'masque... sous l'masque...
 le sourire que j'te donne... c'est l'seul que j'ai jamais eu
 
+[Pont] [double-time, rapid flow]
+masque sur la gueule, cœur en miettes, j'écris la night, j'fume la peine, j'monte, j'tombe, j'me relève, j'lâche rien
+ils m'jugent déjà sans m'connaître, j'avance dans l'ombre, numéro inconnu, un jour mon blaze hante chaque coin d'ta ville, retiens
+
 [Hook: deep raspy, melodic]
-sous l'masque j'souris jamais... dehors j'fais l'beau temps
+sous l'masque j'souris jamais... lui, il sourit pour deux
 hannn...
-au fond j'suis qu'une averse... qui tombe depuis longtemps
+moi j'planque c'que j'ressens... derrière deux trous pour les yeux
 héééé...
 ils kiffent le masque blanc... savent pas qu'le blanc c'est l'deuil
 un sourire en céramique... fissuré mais plein d'orgueil

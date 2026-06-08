@@ -1,0 +1,57 @@
+{
+  "module": "style_perso",
+  "langue_finale": "fr",
+  "description": "Profil de style de l'artiste — à respecter quand on écrit pour lui. NE PAS copier ses textes : s'en inspirer pour le ton, la forme et l'ambiance.",
+  "profil": {
+    "genre": ["cloud rap", "planant", "mélodique", "emo / mélancolique lumineux"],
+    "outil_prod": "Suno (texte balisé pour génération IA)",
+    "intention": "La douleur transcendée vers l'élévation. On part du sol (blessure, solitude) et on s'envole. Mood > démonstration technique.",
+    "format_suno": {
+      "balises": ["[Intro]", "[Hook]", "[Verse 1]", "[Bridge]", "[Verse 2]", "[Outro]"],
+      "structure_type": "Intro → Hook → Verse → Hook → Bridge → Verse → Hook → Outro",
+      "hook": "court, répété quasi à l'identique à chaque retour (effet mantra)"
+    },
+    "adlibs_vocalises": {
+      "role": "respiration émotionnelle entre les lignes, autant que les mots",
+      "banque": ["Hannn...", "héééé...", "ohhh...", "ohhh-oh-oh...", "ahhh...", "ouhhh..."],
+      "placement": "une vocalise sur sa propre ligne après presque chaque vers, et des blocs de vocalises en intro/bridge/outro"
+    },
+    "phrasé": {
+      "ponctuation_signature": "points de suspension '...' partout — coupent le vers en deux et créent le flottement",
+      "lignes": "courtes, aérées ; souvent 'image sombre... bascule positive' sur la même ligne",
+      "exemple_patron": "le ciel était noir... j'ai appris à planer"
+    },
+    "rimes": {
+      "type": "simples, assonance douce > rime riche",
+      "sons_favoris": ["-er / -é (aller, planer, sauver, envoler, toucher)"],
+      "note": "ne pas surcharger en multisyllabiques ; rester fluide et chantable"
+    },
+    "themes": ["solitude", "blessure / douleur", "résilience douce", "élévation / prise de hauteur", "se reconstruire", "ça va aller"],
+    "double_sens_recurrent": "planer / s'envoler = à la fois s'élever émotionnellement et planer (état second) ; saigner = souffrir",
+    "registre": {
+      "langage": "simple, direct, émotionnel ; argot léger seulement",
+      "code_switching": {
+        "langue": "slave (russe/serbe/ukrainien)",
+        "expressions_vues": [
+          {"texte": "vsé boudé dobré", "sens": "tout ira bien (≈ всё будет добре)"},
+          {"texte": "ya sam", "sens": "je suis / je suis seul (≈ я сам / ja sam)"}
+        ],
+        "usage": "courtes touches mélancoliques, souvent en écho à une phrase FR ('y'a plus rien à sauver' / 'ça va aller')"
+      }
+    },
+    "a_eviter": [
+      "punchlines trop denses ou démonstratives",
+      "agressivité / ego-trip brutal",
+      "vers longs et chargés",
+      "trop de technique au détriment de l'émotion et de l'espace"
+    ],
+    "a_garder": [
+      "espace et respiration",
+      "répétition mantra du hook",
+      "vocalises Hannn/héééé/ohhh entre les lignes",
+      "bascule sombre → lumineux",
+      "touches de slave (vsé boudé dobré, ya sam)"
+    ]
+  },
+  "entrees": []
+}

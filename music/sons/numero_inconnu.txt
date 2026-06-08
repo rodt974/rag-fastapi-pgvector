@@ -1,60 +1,71 @@
-# RODT — NUMÉRO INCONNU (niveau Taoko : wordplay central + vocalises mélodiques)
+# RODT — NUMÉRO INCONNU (RODT pur : anonymat / mystère, PAS d'amour)
 
-Inspiration de niveau (Taoko KO) : hook sur UN wordplay (eux: chaos/KO + boxe) + vocalises chantées "ouuhh ahaaa".
-NOTRE wordplay (pas copié) : "sonné" (le tél SONNE + être SONNÉ = KO) + champ boxe/téléphone, sur le concept numéro inconnu.
-Heartbreak émotionnel (parle aux meufs). Cloud planant RODT, autotune mélodique.
+Concept : "numéro inconnu" = RODT lui-même. L'anonyme, le masqué, l'introuvable.
+Thèmes : anonymat, masque, mystère, cité, solitude, come-up dans l'ombre, beuh. Aucune histoire de meuf.
+Wordplay tél : liste rouge, capter, sonner dans l'vide, brouiller les pistes. Signature "sous l'masque j'souris jamais".
 
 === PAROLES (champ Lyrics Suno) ===
 
 [Intro]
-ouuhh... ahaaa...
+hannn... héééé...
+ohhh-oh-oh...
 (numéro inconnu...)
 
-[Hook: sung melodic, heavy autotune]
-elle était belle... mais dans ses bras c'est l'naufrage, ouuhh
-numéro inconnu... ça sonne mais j'reste sonné, ahaaa
-t'as coupé la ligne... t'as coupé mes ailes aussi, ouuhh
-j'décroche plus personne... depuis qu'tu m'as laissé K.O
+[Hook: deep raspy, melodic]
+numéro inconnu... tu sais pas qui t'appelle
+hannn...
+sur liste rouge... j'laisse jamais d'message
+héééé...
+ils sonnent dans l'vide... moi j'plane sous l'masque
+ohhh...
+numéro inconnu... tu m'auras jamais
 
-[Verse 1: spoken-sung]
-elle avait l'sourire d'un été... mais le cœur en décembre
-ouuhh...
-belle comme une sirène... ça brille et ça t'emmène
-ahaaa...
-j'voulais capter son réseau... elle m'a mis sur messagerie
-elle m'a sonné, j'suis tombé... l'arbitre a compté jusqu'à trois
+[Verse 1: spoken, laid-back]
+né dans l'ombre... grandi sans qu'on m'calcule
+hannn...
+masqué sur la tête... mon visage, personne l'a vu
+héééé...
+ils cherchent mon nom... y'a qu'ma voix dans la night
+j'apparais, j'disparais... numéro inconnu, j'reste un mythe
 
-[Hook: sung melodic, heavy autotune]
-elle était belle... mais dans ses bras c'est l'naufrage, ouuhh
-numéro inconnu... ça sonne mais j'reste sonné, ahaaa
-t'as coupé la ligne... t'as coupé mes ailes aussi, ouuhh
-j'décroche plus personne... depuis qu'tu m'as laissé K.O
+[Hook: deep raspy, melodic]
+numéro inconnu... tu sais pas qui t'appelle
+hannn...
+sur liste rouge... j'laisse jamais d'message
+héééé...
+ils sonnent dans l'vide... moi j'plane sous l'masque
+ohhh...
+numéro inconnu... tu m'auras jamais
 
-[Verse 2: spoken-sung]
-numéro inconnu... j'appelle, ça tourne dans l'vide
-ouuhh...
-elle a changé d'numéro... comme on change de camp
-ahaaa...
-belle comme un dernier round... j'ai tout donné, rien gardé
-elle m'a achevé d'un silence... même pas besoin d'me frapper
+[Verse 2: spoken, laid-back]
+ils veulent percer l'mystère... qui s'cache sous la capuche
+hannn...
+j'fume, j'monte, j'm'efface... la fumée brouille les pistes
+héééé...
+sous l'masque j'souris jamais... un cœur brisé qu'on verra pas
+plus j'fais du bruit... moins ils savent qui j'suis
 
 [Bridge]
-ouuhh... ahaaa...
-elle m'a mis K.O... d'un seul "au revoir"
-sonné... sonné...
+hannn... héééé...
+appel masqué... appel masqué...
+ça sonne... y'a que l'silence
 
-[Hook: sung melodic, heavy autotune]
-elle était belle... mais dans ses bras c'est l'naufrage, ouuhh
-numéro inconnu... ça sonne mais j'reste sonné, ahaaa
-t'as coupé la ligne... t'as coupé mes ailes aussi, ouuhh
-j'décroche plus personne... depuis qu'tu m'as laissé K.O
+[Hook: deep raspy, melodic]
+numéro inconnu... tu sais pas qui t'appelle
+hannn...
+sur liste rouge... j'laisse jamais d'message
+héééé...
+ils sonnent dans l'vide... moi j'plane sous l'masque
+ohhh...
+numéro inconnu... tu m'auras jamais
 
 [Outro]
-ouuhh... ahaaa...
-numéro inconnu... j'reste sonné...
+hannn... héééé...
+numéro inconnu... tu m'auras jamais...
+ohhh-oh-oh...
 
 === STYLE PROMPT (champ Style Suno) ===
-french melodic rap, cloud rap, emotional heartbreak, heavy melodic autotune, melodic vocal runs, deep warm male voice, trap beat, deep 808 bass, soft hi-hats, spacious, slow laid-back, half-time 125 BPM
+french rap, melodic cloud rap, dark mysterious, deep raspy baritone vocals, trap beat, deep 808 bass, crisp hi-hats, spacious, slow laid-back flow, half-time 130 BPM, masked, hazy
 
 === EXCLUDE STYLES ===
 EDM, electro, house, future bass, synthwave, dance

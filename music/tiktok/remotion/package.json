@@ -1,0 +1,20 @@
+{
+  "name": "rodt-masque-fissure",
+  "version": "1.0.0",
+  "description": "TikTok lyric video for RODT - Masque Fissuré (Remotion)",
+  "scripts": {
+    "start": "remotion studio",
+    "render": "remotion render MasqueFissureTikTok out/tiktok.mp4",
+    "render-full": "remotion render MasqueFissureFull out/full.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.0",
+    "remotion": "^4.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.1",
+    "typescript": "^5.4.0"
+  }
+}

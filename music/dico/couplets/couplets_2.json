@@ -1,0 +1,281 @@
+{
+  "module": "couplets",
+  "langue_finale": "fr",
+  "entrees": [
+    {
+      "id": "coup-026",
+      "adaptation_fr": "J'écris dans l'obscurité parce que la lumière m'endort\nLe stylo gratte le papier comme une clé qui force une serrure morte\nChaque mot est une décision, chaque ligne une cicatrice nette\nJe ne corrige plus, je laisse les veines ouvrir leur archette\nLe rap m'a sauvé d'une vie que je n'aurais pas su terminer seul\nD'une rage sans nom, d'un vide qui sentait le deuil\nJ'ai mis ma douleur en musique et la douleur est devenue du bois\nQuelque chose d'utile, de solide, qu'on peut brûler pour se tenir chaud ce soir\nÉcrire n'est pas un talent, c'est une façon de survivre à soi-même\nLa feuille absorbe ce que la chair ne peut plus contenir — c'est mon système",
+      "theme": ["écriture", "thérapie", "rap", "survie"],
+      "ton": "introspectif, solennel",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["dort/morte", "nette/archette", "seul/deuil", "bois/soir", "même/système"],
+      "note_usage": "65–80 BPM, instru épurée avec nappes. Couplet sur l'écriture comme acte de survie. Idéal en intro d'album ou en track intime."
+    },
+    {
+      "id": "coup-027",
+      "adaptation_fr": "La ville de nuit ressemble à une radiographie — tout transparent\nLes os des immeubles se découpent contre un ciel indifférent\nJe marche seul à trois heures du matin, les mains dans les poches vides\nLe froid pique mais au moins je sens quelque chose — ça me rend vivide\nLes rues que j'arpente savent mon nom avant mes propres voisins\nElles ont gardé mes empreintes dans leur asphalte depuis des luisins\nJe parle à la ville comme on parle à un vieux qui ne répond plus\nMais qui écoute encore avec les yeux et les fenêtres en dessus\nCette ville m'a volé et formé dans la même poignée de main\nJe ne lui en veux pas — je lui dois trop — elle est trop dans mon dénombrement de demain",
+      "theme": ["rue", "nuit", "solitude urbaine"],
+      "ton": "poétique, mélancolique",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["transparent/indifférent", "vides/vivide", "voisins/luisins", "plus/dessus", "main/demain"],
+      "note_usage": "70–80 BPM, jazz rap ou boom bap nocturne. Couplet de flânerie urbaine. Idéal pour un interlude ou un titre atmosphérique."
+    },
+    {
+      "id": "coup-028",
+      "adaptation_fr": "Mon frère est resté dans le bloc quand j'ai pris le train\nOn a fait les mêmes choix jusqu'au carrefour du destin\nLui à droite, moi à gauche — et la vie s'est chargée du reste\nJe l'appelle les dimanches, il répond quand le crédit est preste\nOn parle de rien, de football, du temps qu'il fait là-bas\nMais sous les mots il y a ce silence qu'on ne traverse pas\nJe vois dans ses yeux la question qu'il formule jamais\nPourquoi toi et pas moi — et je n'ai pas de réponse honnête\nLe hasard est une cruelle géographie du possible\nJ'aurais pu être lui, il aurait pu être moi — c'est ce qui me rend humble",
+      "theme": ["fratrie", "destin", "culpabilité du survivant"],
+      "ton": "mélancolique, humble",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["train/destin", "reste/preste", "bas/pas", "jamais/honnête", "possible/humble"],
+      "note_usage": "70–80 BPM, boom bap introspectif. Couplet sur la culpabilité du survivant social. Très humain, éviter le pathos appuyé."
+    },
+    {
+      "id": "coup-029",
+      "adaptation_fr": "Ils nous ont mis des étiquettes avant même qu'on sache lire\nDélinquants potentiels, cas sociaux, rien à produire\nJ'ai passé des années à déconstruire ce qu'ils avaient construit\nÀ effacer leurs marqueurs à l'encre de mes propres nuits\nLe système n'est pas un accident, c'est une architecture précise\nConçue pour que certains restent en bas de la matrice\nJe l'ai compris à vingt ans en lisant dans une bibliothèque volée\nQue l'ignorance est une prison que les puissants construisent avec goût\nSavoir c'est dangereux — c'est pour ça qu'on coupe les budgets des écoles\nMais ils ont oublié que les livres poussent aussi sous les caroles",
+      "theme": ["système", "éducation", "colère sociale"],
+      "ton": "politique, combatif",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["lire/produire", "construit/nuits", "précise/matrice", "volée/goût", "écoles/caroles"],
+      "note_usage": "90–100 BPM, boom bap ou rap conscient. Couplet engagé sur l'injustice systémique. Éviter le didactisme — garder la voix de l'expérience."
+    },
+    {
+      "id": "coup-030",
+      "adaptation_fr": "Le silence entre nous deux avait ses propres meubles\nSes habitudes, ses heures, ses créneaux dans la semaine immuable\nOn avait appris à s'aimer autour des mots qu'on ne disait plus\nÀ tenir chaud avec les gestes là où les phrases s'étaient tues\nTu lisais, je regardais le plafond, on respirait pareil\nLes années avaient arrondi les angles, adouci le réveil\nJe ne sais pas si c'est de l'amour ou une forme de paix durable\nMais je te cherche toujours en dormant — et c'est probablement admirable\nL'amour tranquille est le plus sous-estimé des sentiments\nOn chante les passions, personne ne chante les lendemains lents",
+      "theme": ["amour durable", "couple", "tendresse"],
+      "ton": "doux, contemplatif",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["meubles/immuable", "plus/tues", "pareil/réveil", "admirable/durable", "sentiments/lents"],
+      "note_usage": "60–70 BPM, soul ou RnB lent. Couplet rare sur l'amour stable et durable. Contraste efficace dans un album dominé par des récits de rupture."
+    },
+    {
+      "id": "coup-031",
+      "adaptation_fr": "J'ai traversé l'Atlantique dans la tête avant de le traverser en vrai\nJe me suis imaginé dix fois debout sur le tarmac, le souffle frais\nL'Amérique n'était pas ce que les clips promettaient dans ma chambre\nLes buildings étaient là, mais la place ne m'y était pas d'emblée ambré\nJ'ai bossé dans des sous-sols, des restaurants, des coulisses sales\nJ'ai souri à des gens qui regardaient à travers moi comme des vitres de gare\nMais j'ai appris la langue du marché et celle de la résistance\nJ'ai compris que partout les pauvres se reconnaissent à distance\nJ'aurais pu rester, j'ai choisi de rentrer avec ce que j'avais appris\nL'exil n'est utile que si ce qu'il enseigne te revient en prix",
+      "theme": ["exil", "immigration choisie", "retour"],
+      "ton": "réflexif, fier",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["vrai/frais", "chambre/ambré", "sales/gare", "résistance/distance", "appris/prix"],
+      "note_usage": "85–95 BPM, afro-trap ou boom bap. Couplet sur l'expérience migratoire volontaire et le retour au pays. Fort en single."
+    },
+    {
+      "id": "coup-032",
+      "adaptation_fr": "Dieu n'est pas dans les grandes mosquées les vendredis propres\nIl est dans le tremblement des mains d'un père qui prie pour ses mômes\nIl est dans la sueur de ceux qui se lèvent avant l'aube\nDans les larmes retenues au bord des commissariats fauves\nJ'ai cherché le sacré dans des édifices et je l'ai trouvé dans la rue\nDans le geste d'un inconnu qui ramasse ce que tu as perdu\nLa spiritualité n'est pas réservée aux gens en paix avec la vie\nElle appartient aussi aux fracassés, aux perdus, aux rebâtis\nJe prie avec mes couplets, j'invoque avec mes vers serrés\nParce que le meilleur de moi n'existe que quand je suis déversé",
+      "theme": ["foi", "spiritualité populaire", "rap et sacré"],
+      "ton": "solennel, universel",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["propres/mômes", "aube/fauves", "rue/perdu", "vie/rebâtis", "serrés/déversé"],
+      "note_usage": "70–80 BPM, instru spirituelle avec percussions douces. Couplet de foi non dogmatique, ouvert à toutes les lectures."
+    },
+    {
+      "id": "coup-033",
+      "adaptation_fr": "Je suis né dans une ville qui apprend aux enfants à se méfier d'abord\nOù le sourire est une stratégie et la générosité un faux pas\nJe voulais pas devenir cet homme froid qui calcule avant de tendre la main\nMais la rue t'enseigne que la naïveté se paie au prix du chagrin\nJ'ai mis des années à démêler ce qui était protection et ce qui était prison\nÀ distinguer la prudence saine de la paranoïa de la raison\nAujourd'hui j'ouvre les bras avec les yeux ouverts — c'est un équilibre précaire\nJe ne suis ni candide ni blindé, juste humain dans ma manière\nLa confiance se reconstruit comme un mur après le séisme\nPierre par pierre, avec les gens qui méritent cet artisanat même",
+      "theme": ["confiance", "trauma", "reconstruction"],
+      "ton": "lucide, apaisé",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["d'abord/pas", "main/chagrin", "prison/raison", "précaire/manière", "séisme/même"],
+      "note_usage": "75–85 BPM, boom bap doux. Couplet psychologique sur la reconstruction de la confiance. Rare et honnête en rap FR."
+    },
+    {
+      "id": "coup-034",
+      "adaptation_fr": "Mon nom a été prononcé en tribunal avant d'être prononcé sur une scène\nJ'ai connu les jugements avant de connaître les applaudissements obscènes\nOn m'a mis une étiquette à dix-sept ans qui a suivi dans tous les dossiers\nComme une casserole attachée à la cheville d'un gibier\nJ'ai regardé l'État dans les yeux depuis le banc des accusés\nJ'ai vu la mécanique, le mépris, la distance simulée\nCe soir-là j'ai décidé que ma liberté s'écrirait autrement\nQue je retournerais la salle un jour — et j'ai tenu ce serment\nJe réclame pas de compassion, juste la place qui m'est due\nNé du côté faillible du rêve mais j'ai refusé de disparaître de la vue",
+      "theme": ["justice", "système judiciaire", "détermination"],
+      "ton": "froid, triomphal",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["scène/obscènes", "dossiers/gibier", "accusés/simulée", "autrement/serment", "due/vue"],
+      "note_usage": "90–100 BPM, trap ou boom bap percutant. Couplet sur le retournement de la stigmatisation judiciaire. Puissant en single ou en ouverture."
+    },
+    {
+      "id": "coup-035",
+      "adaptation_fr": "Le rap m'a appris que les mots ont un poids plus lourd que les poings\nQue les syllabes bien placées font plus de dégâts que les coups de reins\nJ'ai grandi dans une culture où l'éloquence était suspecte\nOù parler bien signifiait trahir — preuve d'une honte rétrospective\nAlors j'ai développé deux langues, deux voix, deux registres\nUn pour la rue, un pour les autres — devenant un peu bilingue en bistre\nAujourd'hui je refuse le choix, je parle les deux dans le même souffle\nLa complexité n'est pas une honte, c'est ce qui me rend souple\nLe verbe est ma banlieue, la rime est mon code postal\nJe construis mes vers comme d'autres construisent un quartier loyal",
+      "theme": ["langage", "identité", "rap", "bilinguisme culturel"],
+      "ton": "intellectuel, fier",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["poings/reins", "suspecte/rétrospective", "registres/bistre", "souple/souffle", "postal/loyal"],
+      "note_usage": "85–95 BPM, boom bap classique. Couplet sur la dualité linguistique et culturelle. Convient à un artiste entre deux mondes."
+    },
+    {
+      "id": "coup-036",
+      "adaptation_fr": "J'ai connu le froid des coins de rue en décembre\nLes mains qui giflent le vent pour se tenir les membres\nJ'ai connu la faim qui parle plus fort que la fierté\nLe regard détourné devant les vitrines éclairées\nCes images-là ne partent jamais vraiment du répertoire intime\nElles restent sous la peau comme une douleur fantôme, une empreinte\nAujourd'hui j'ai un toit et du chauffage et de quoi manger\nMais je n'oublie pas ce que ça coûte de pas avoir — je n'ai pas oublié\nJe donne ce que je peux parce que quelqu'un m'a donné quand j'étais en bas\nLa mémoire de la misère est le seul luxe que je me permets de garder sur moi là",
+      "theme": ["galère", "pauvreté", "mémoire sociale", "solidarité"],
+      "ton": "humble, reconnaissant",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["décembre/membres", "fierté/éclairées", "intime/empreinte", "manger/oublié", "bas/là"],
+      "note_usage": "70–80 BPM, boom bap émotionnel. Couplet de mémoire sociale et de solidarité. Éviter la complaisance — la force vient de la précision des images."
+    },
+    {
+      "id": "coup-037",
+      "adaptation_fr": "Ils ont dit que le rap était une mode qui passerait avec l'été\nQue dans dix ans il n'en resterait que des cassettes\nIls ont dit que nos voix n'avaient pas de place dans la culture\nQue le verlan était une difformité, pas une ouverture\nQuarante ans plus tard et le rap est la langue d'une génération entière\nLes mêmes qui crachaient dessus portent maintenant nos sweatshirts en lumière\nJe ne glosorité pas — je note juste que l'histoire a tranché\nQue ceux qu'on exclut bâtissent toujours ce qu'on va admirer\nLe mépris est une vieille technique pour retarder l'inévitable\nNos voix étaient là avant leurs jugements — et resteront longtemps, inébranlables",
+      "theme": ["rap", "légitimité culturelle", "histoire"],
+      "ton": "triomphal, historique",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["été/cassettes", "culture/ouverture", "entière/lumière", "tranché/admirer", "inévitable/inébranlables"],
+      "note_usage": "90–100 BPM, boom bap ou trap épique. Couplet de légitimité culturelle du rap FR. Fort en ouverture d'album ou en texte de positionnement."
+    },
+    {
+      "id": "coup-038",
+      "adaptation_fr": "J'ai perdu un ami à la guerre que j'avais déclarée à personne\nIl est tombé dans les angles morts de nos décisions communes et bonnes\nNous étions frères de galère, alliés des mauvais soirs\nJusqu'à ce que la réussite dessine entre nous un nouveau couloir\nLa jalousie n'est pas un monstre, c'est une peur habillée en colère\nElle ronge les liens par en dessous, lentement, polaire\nJe t'ai tendu la main dix fois, t'as reculé à chaque geste\nEt j'ai compris que certaines amitiés ne résistent pas au revêtement céleste\nJe te souhaite le bien sans te le dire — c'est tout ce qui reste\nParfois l'amour le plus propre est celui qu'on tient à distance et qui reste",
+      "theme": ["amitié perdue", "jalousie", "distance"],
+      "ton": "mélancolique, sage",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["personne/bonnes", "couloir/soirs", "colère/polaire", "geste/céleste", "reste/reste"],
+      "note_usage": "70–80 BPM, soul rap. Couplet doux sur l'amitié qui ne survit pas à l'inégalité du succès. Très humain et rare dans le rap FR."
+    },
+    {
+      "id": "coup-039",
+      "adaptation_fr": "J'ai découvert que les larmes sèchent mais qu'elles laissent du sel sur les joues\nComme la mer qui se retire et marque le rocher de ses roues\nLa douleur prend du temps à devenir quelque chose d'utilisable\nD'abord elle est brute, opaque, totale, insupportable\nPuis un matin elle se lève différemment dans la lumière\nElle est toujours là mais elle a changé de posture — moins guerrière\nLe deuil n'est pas une guérison, c'est une adaptation du regard\nApprendre à voir le monde avec ce qu'il manque — c'est l'art le plus tard\nJe ne cherche plus à combler le vide, j'apprends à l'habiter\nÀ faire du manque une pièce dans la maison — et l'inviter",
+      "theme": ["deuil", "douleur", "temps", "reconstruction"],
+      "ton": "mélancolique, apaisé",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["joues/roues", "utilisable/insupportable", "lumière/guerrière", "regard/tard", "habiter/inviter"],
+      "note_usage": "60–70 BPM, instru contemplative. Couplet sur le deuil comme processus d'adaptation. Fort en position centrale ou en outro."
+    },
+    {
+      "id": "coup-040",
+      "adaptation_fr": "La haine est un carburant qui brûle le moteur avant la destination\nJ'ai conduit trop longtemps avec cette essence noire en dotation\nJ'arrivais vidé, les dents serrées, les jointures blanches\nSur la ligne d'arrivée il ne restait que la rancœur qui s'épanche\nJ'ai appris à distinguer la colère qui construit de celle qui dévaste\nÀ utiliser la première comme levier et laisser la seconde dans le vaste\nAujourd'hui ma rage est architecturale, elle a des plans, des étages\nElle ne brûle plus les ponts — elle en construit avec le même brasage\nOn m'a appris que les émotions fortes sont des faiblesses à cacher\nJ'ai appris que mal orientées, elles détruisent — bien dirigées, elles tracent",
+      "theme": ["colère", "émotion", "contrôle", "maturité"],
+      "ton": "réflexif, maîtrisé",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["destination/dotation", "blanches/épanche", "dévaste/vaste", "étages/brasage", "cacher/tracent"],
+      "note_usage": "85–95 BPM, trap mid-tempo ou boom bap. Couplet de maturité émotionnelle. Intéressant en contraste avec des tracks plus rage-driven."
+    },
+    {
+      "id": "coup-041",
+      "adaptation_fr": "Tu m'as aimé quand j'avais rien à offrir sauf du temps et des mots\nQuand le compte en banque était une blague et les projets des échos\nTu m'as regardé comme si l'avenir était une chose certaine dans mes yeux\nAlors que moi je ne voyais que le brouillard — tu voyais mieux\nJ'ai voulu être digne de cette confiance sans me le dire trop fort\nJe travaillais le soir pendant que tu dormais du côté du effort\nAujourd'hui quand les gens me félicitent je pense à toi d'abord\nParce que tu as été le premier public quand il n'y avait aucun accord\nL'amour qui croit avant les preuves est le plus rare et le plus vrai\nJe ne l'ai pas toujours su — mais je le sais depuis que tu es là, depuis la nuit, depuis jamais",
+      "theme": ["amour", "soutien", "reconnaissance"],
+      "ton": "tendre, reconnaissant",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["mots/échos", "yeux/mieux", "fort/effort", "d'abord/accord", "vrai/jamais"],
+      "note_usage": "65–75 BPM, RnB soul. Couplet d'amour reconnaissant et honnête. Idéal pour un titre dédié à une relation saine et durable."
+    },
+    {
+      "id": "coup-042",
+      "adaptation_fr": "Je me souviens du jour où j'ai compris que le monde ne s'arrêterait pas pour moi\nQue les trains partaient avec ou sans ma présence dans le couloir froid\nJ'avais vingt ans et l'arrogance de croire que l'univers prenait des rendez-vous\nQue ma douleur méritait une pause de tout, une mise en attente douce\nLe monde continuait, les gens riaient, les saisons changeaient de chemise\nMa peine était réelle mais elle n'était pas la peine de la remise\nCe jour-là quelque chose a craqué dans ma façon de me positionner\nJ'ai compris que souffrir est universel et que ça n'a rien de singulier\nCette humilité m'a libéré d'un ego blessé qui se prenait pour le centre\nJe suis une voix parmi les voix — et c'est déjà tout ce qui compte à l'entre",
+      "theme": ["ego", "humilité", "maturité", "solipsisme"],
+      "ton": "lucide, humble",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["moi/froid", "rendez-vous/douce", "chemise/remise", "positionner/singulier", "centre/l'entre"],
+      "note_usage": "80–90 BPM, boom bap introspectif. Couplet de rupture ego — rare en rap. Fort comme pivot dans un projet de maturation artistique."
+    },
+    {
+      "id": "coup-043",
+      "adaptation_fr": "La rue est un théâtre sans scène ni coulisses ni filet de sécurité\nChaque acte se joue en direct, sans répétition ni grâce préférée\nJ'ai joué tous les rôles — le dur, le sage, le serviteur, le chef\nChaque rôle laissait un peu de moi dans le décor bref\nJe savais pas encore que les masques finissent par coller à la peau\nQue le personnage prend les commandes si tu lui laisses trop de place au galop\nJ'ai dû arracher le masque un soir de janvier avec les deux mains\nÇa faisait mal — une peau qui part avec le masque, du sang et du chemin\nSous le masque il y avait un type ordinaire avec des peurs ordinaires\nEt c'est lui, ce type-là, qui écrit les meilleurs vers — le plus sincère",
+      "theme": ["identité", "masque social", "authenticité"],
+      "ton": "introspectif, révélateur",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["sécurité/préférée", "chef/bref", "peau/galop", "main/chemin", "ordinaires/sincère"],
+      "note_usage": "75–85 BPM, boom bap ou instru cinematique. Couplet sur l'authentification de soi après les rôles joués."
+    },
+    {
+      "id": "coup-044",
+      "adaptation_fr": "Dans ma famille on ne pleurait pas, on serrait les mâchoires et on tenait\nLes larmes étaient un luxe réservé aux gens qui n'avaient pas besoin de tenir\nJ'ai appris cette leçon si bien qu'à trente ans je ne savais plus pleurer\nJe regardais des enterrements les yeux secs, tétanisé à serrer\nPuis un jour ma fille a eu de la fièvre et j'ai pleuré dans la salle de bain\nLes larmes sortaient pour tout ce que j'avais retenu — le chemin entier\nC'était les larmes de mes vingt ans, de mes quinze ans, de mes cinq ans\nTous les deuils non faits qui s'ouvraient enfin comme des vivants\nJ'ai compris ce soir-là que l'émotion retenue ne disparaît pas\nElle attend patiemment — c'est elle qui finit par choisir le moment et l'endroit",
+      "theme": ["masculinité", "émotion", "famille", "héritage"],
+      "ton": "intime, bouleversant",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["tenait/tenir", "pleurer/serrer", "main/entier", "ans/vivants", "pas/endroit"],
+      "note_usage": "60–70 BPM, instru minimaliste avec piano. Couplet sur la masculinité toxique héritée et la libération émotionnelle. Rare et puissant."
+    },
+    {
+      "id": "coup-045",
+      "adaptation_fr": "Le studio à cinq heures du matin est un endroit entre deux mondes\nOù les idées qui dormaient dans la journée remontent des profondeurs\nJ'ai écrit mes meilleurs textes quand ma conscience était à moitié libre\nQuand le gardien intérieur dormait et laissait passer le calibre\nLa fatigue est une forme de transe que les rappeurs connaissent bien\nQuand le corps lâche, le vrai parle — et ça ne sonne pas creux\nJ'ai sacrifié des nuits, des sorties, des matins de repos inutiles\nPour être là au moment exact où la phrase devient utile\nLe métier de l'art est un sacerdoce silencieux et peu rentable\nMais je n'ai jamais su faire autrement — et c'est irréfutable",
+      "theme": ["création", "studio", "dédicace", "art"],
+      "ton": "déterminé, poétique",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["mondes/profondeurs", "libre/calibre", "bien/creux", "inutiles/utile", "rentable/irréfutable"],
+      "note_usage": "80–95 BPM, boom bap nocturne. Couplet sur le processus créatif nocturne. Idéal en intro d'album ou en track bonus."
+    },
+    {
+      "id": "coup-046",
+      "adaptation_fr": "Ma ville s'est gentrifié pendant que j'étais en tournée\nLes cafés artisanaux ont remplacé les épiceries tournantes\nLes gens qui y vivent maintenant n'ont pas de mémoire des cours\nIls ont acheté le quartier sans acheter son histoire de toujours\nJe marche dans des rues que je connais par cœur et je me sens étranger\nComme un fantôme qui hante des lieux qu'on a rénovés en danger\nLa gentrification efface les pauvres comme on efface les graffs\nMais les noms gravés dans les murs reviennent — ils sont incassables, staffs\nLe quartier appartient à ceux qui l'ont vécu, pas à ceux qui l'ont acheté\nL'argent peut racheter les murs — il ne rachète pas ce qu'ils ont gardé",
+      "theme": ["gentrification", "mémoire urbaine", "appartenance"],
+      "ton": "mélancolique, politique",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["tournée/tournantes", "cours/toujours", "étranger/danger", "graffs/staffs", "acheté/gardé"],
+      "note_usage": "80–90 BPM, boom bap. Couplet sur la gentrification comme forme d'effacement culturel. Fort et original."
+    },
+    {
+      "id": "coup-047",
+      "adaptation_fr": "Il est des femmes qui portent des montagnes en portant la course\nQui saignent dans le silence et sourient pour tenir la source\nMa tante a élevé cinq enfants dans deux pièces et demi sous le bruit\nSes mains racontaient des histoires que sa bouche gardait la nuit\nElle n'a jamais parlé de sacrifice, elle faisait — point final\nLa discrétion des femmes fortes est une forme de transcendance originale\nJe lui dédie ces lignes parce que personne ne lui a dédié rien\nParce que les héroïnes du quotidien n'ont pas de tapis rouge ni de lien\nMais sans elles le monde s'effondre en moins d'une génération\nElles sont la colonne vertébrale de notre civilisation",
+      "theme": ["femme", "sacrifice", "hommage", "force féminine"],
+      "ton": "solennel, tendre",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["course/source", "bruit/nuit", "final/originale", "rien/lien", "génération/civilisation"],
+      "note_usage": "65–75 BPM, instru soul ou boom bap délicat. Couplet hommage aux femmes invisibilisées. Fort en track dédiée ou en milieu de projet."
+    },
+    {
+      "id": "coup-048",
+      "adaptation_fr": "J'ai pas grandi devant une mosquée mais j'ai grandi devant l'injustice\nÇa m'a donné une religion sans nom qui appelle à la justice\nJe ne prêche pas mais je dis ce que je vois avec les mots que j'ai\nQue les riches vieillissent en paix et que les pauvres vieillissent à défaut\nLe confort est une drogue qui endort la conscience collective\nOn somnambule dans le confort pendant que l'autre rive\nJ'ai pas de solution packagée dans un slogan de trois mots propres\nJuste une voix qui refuse de se taire quand ça brûle en dessous\nLe rap n'a pas à sauver le monde, il doit juste le nommer sans mentir\nPoser le diagnostic sans anesthésie — et laisser l'auditeur choisir",
+      "theme": ["injustice sociale", "engagement", "rap"],
+      "ton": "combatif, lucide",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["injustice/justice", "j'ai/défaut", "collective/rive", "propres/dessous", "mentir/choisir"],
+      "note_usage": "90–100 BPM, boom bap conscient. Couplet d'engagement politique mesuré. Éviter le slogan — la force vient de la précision du diagnostic."
+    },
+    {
+      "id": "coup-049",
+      "adaptation_fr": "Je t'ai écrit une lettre que tu ne liras jamais, elle est dans ma gorge\nEntre deux couplets, entre deux silences, elle se rogne\nJe voulais te dire que tu m'as manqué de mille façons différentes\nQue j'ai cherché ta logique dans des êtres qui n'avaient pas ta fréquence\nQue le pardon n'est pas pour toi — il est pour moi, pour ne pas porter\nLe poids de ta faute sur mes propres épaules à travers les années entières\nJe te libère de ma colère mais je ne te rends pas de place\nTu existeras dans ces lignes-là, c'est tout l'espace que je t'accorde face\nCertains départs méritent des poèmes — d'autres méritent juste du silence\nLe tien méritait cette chanson et cette dernière ligne de résistance",
+      "theme": ["rupture", "lettre non envoyée", "pardon", "libération"],
+      "ton": "amer, apaisé",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["gorge/rogne", "différentes/fréquence", "porter/entières", "place/face", "silence/résistance"],
+      "note_usage": "60–70 BPM, piano seul ou instru épurée. Couplet de lettre fictive, très cinématographique. Fort en outro ou en single de rupture."
+    },
+    {
+      "id": "coup-050",
+      "adaptation_fr": "On nous dit de rêver mais on ne nous dit pas que les rêves coûtent cher\nQu'entre le rêve et la réalité il y a dix ans de désert\nDe doutes qui se lèvent comme des murs à chaque tournant\nD'abandon de proches qui ne voient pas ce que tu vois, qui passent devant\nLe rêve est une destination sans GPS ni itinéraire fiable\nLe seul outil c'est la persistance et une confiance inébranlable\nJ'ai vu des gens deux fois plus talentueux que moi abandonner en chemin\nParce que le talent sans la ténacité est une ceinture sans destin\nLa différence entre ceux qui arrivent et ceux qui n'arrivent pas\nC'est rarement le talent — c'est presque toujours le dernier pas",
+      "theme": ["rêve", "persévérance", "succès"],
+      "ton": "inspirant, réaliste",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["cher/désert", "tournant/devant", "fiable/inébranlable", "chemin/destin", "pas/pas"],
+      "note_usage": "90–100 BPM, instru épique ou boom bap motivant. Couplet inspirant sur la persévérance. Fort en single ou en conclusion d'album."
+    }
+  ]
+}

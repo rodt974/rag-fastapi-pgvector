@@ -1,0 +1,34 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Entrée du méga-dictionnaire rap FR",
+  "description": "Schéma standard d'une entrée. Chaque fichier de données est un objet { \"module\": str, \"langue_finale\": \"fr\", \"entrees\": [ ...objets ci-dessous... ] }.",
+  "type": "object",
+  "properties": {
+    "module": { "type": "string", "description": "nom du module (dossier) d'appartenance" },
+    "langue_finale": { "type": "string", "const": "fr" },
+    "entrees": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "type", "theme", "ton", "droits"],
+        "properties": {
+          "id": { "type": "string", "description": "ex: ar-prov-014 (langue-type-numéro)" },
+          "texte": { "type": "string", "description": "texte dans la langue source" },
+          "langue": { "type": "string", "description": "code langue source: fr,en,es,pt,ar,it,la,grc,ja,zh,wo,ln,tr,ht..." },
+          "translitteration": { "type": "string", "description": "si alphabet non-latin" },
+          "traduction_fr": { "type": "string", "description": "traduction littérale en français" },
+          "adaptation_fr": { "type": "string", "description": "version 'punchline-isée' prête à poser en FR" },
+          "theme": { "type": "array", "items": { "type": "string" }, "description": "rue, ambition, trahison, vengeance, amour, famille, foi, mort, argent, galere, ego, nostalgie, douleur, prison, drogue, exil, revolte, seduction, deuil, fete" },
+          "ton": { "type": "string", "description": "sombre, triomphal, melancolique, agressif, introspectif, ironique, tendre, froid, solennel..." },
+          "type": { "type": "string", "description": "proverbe, citation, punchline, metaphore, champ_lexical, figure, rime, wordplay, flow, sous_genre, anticliche, adlib, emotion, antithese, code_switching, recette, taxonomie, critere, hybride, couplet, hook, jeu_de_mots, schema_rime, concept, storytelling, bridge, reference" },
+          "source": { "type": "string", "description": "anonyme / nom d'auteur / artiste – titre / 'original'" },
+          "droits": { "type": "string", "enum": ["domaine_public", "attribue", "original", "reference"], "description": "reference = bar d'artiste existant, inspiration uniquement, ne pas reposer verbatim" },
+          "rimes_fr": { "type": "array", "items": { "type": "string" }, "description": "mots/finales qui riment, pour aider l'écriture" },
+          "inspire_de": { "type": "array", "items": { "type": "string" }, "description": "ids d'autres entrées (pour la synthèse)" },
+          "note_usage": { "type": "string", "description": "quand/comment l'utiliser" }
+        }
+      }
+    }
+  },
+  "required": ["module", "langue_finale", "entrees"]
+}

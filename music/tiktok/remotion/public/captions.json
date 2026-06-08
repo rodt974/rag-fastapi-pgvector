@@ -1,457 +1,211 @@
 {
  "clipStart": 11.5,
  "clipEnd": 43.0,
- "lines": [
+ "chunks": [
   {
    "start": 12.2,
+   "end": 13.044,
+   "text": "sous l'masque"
+  },
+  {
+   "start": 13.044,
+   "end": 13.889,
+   "text": "j'souris jamais,"
+  },
+  {
+   "start": 13.889,
+   "end": 14.733,
+   "text": "lui il"
+  },
+  {
+   "start": 14.733,
+   "end": 15.578,
+   "text": "sourit pour"
+  },
+  {
+   "start": 15.578,
    "end": 16.0,
-   "text": "sous l'masque j'souris jamais, lui il sourit pour deux",
-   "words": [
-    {
-     "w": "sous",
-     "start": 12.2,
-     "end": 12.622
-    },
-    {
-     "w": "l'masque",
-     "start": 12.622,
-     "end": 13.044
-    },
-    {
-     "w": "j'souris",
-     "start": 13.044,
-     "end": 13.467
-    },
-    {
-     "w": "jamais,",
-     "start": 13.467,
-     "end": 13.889
-    },
-    {
-     "w": "lui",
-     "start": 13.889,
-     "end": 14.311
-    },
-    {
-     "w": "il",
-     "start": 14.311,
-     "end": 14.733
-    },
-    {
-     "w": "sourit",
-     "start": 14.733,
-     "end": 15.156
-    },
-    {
-     "w": "pour",
-     "start": 15.156,
-     "end": 15.578
-    },
-    {
-     "w": "deux",
-     "start": 15.578,
-     "end": 16.0
-    }
-   ]
+   "text": "deux"
   },
   {
    "start": 16.4,
+   "end": 17.08,
+   "text": "moi j'planque"
+  },
+  {
+   "start": 17.08,
+   "end": 17.76,
+   "text": "c'que j'ressens,"
+  },
+  {
+   "start": 17.76,
+   "end": 18.44,
+   "text": "derrière deux"
+  },
+  {
+   "start": 18.44,
+   "end": 19.12,
+   "text": "trous pour"
+  },
+  {
+   "start": 19.12,
    "end": 19.8,
-   "text": "moi j'planque c'que j'ressens, derrière deux trous pour les yeux",
-   "words": [
-    {
-     "w": "moi",
-     "start": 16.4,
-     "end": 16.74
-    },
-    {
-     "w": "j'planque",
-     "start": 16.74,
-     "end": 17.08
-    },
-    {
-     "w": "c'que",
-     "start": 17.08,
-     "end": 17.42
-    },
-    {
-     "w": "j'ressens,",
-     "start": 17.42,
-     "end": 17.76
-    },
-    {
-     "w": "derrière",
-     "start": 17.76,
-     "end": 18.1
-    },
-    {
-     "w": "deux",
-     "start": 18.1,
-     "end": 18.44
-    },
-    {
-     "w": "trous",
-     "start": 18.44,
-     "end": 18.78
-    },
-    {
-     "w": "pour",
-     "start": 18.78,
-     "end": 19.12
-    },
-    {
-     "w": "les",
-     "start": 19.12,
-     "end": 19.46
-    },
-    {
-     "w": "yeux",
-     "start": 19.46,
-     "end": 19.8
-    }
-   ]
+   "text": "les yeux"
   },
   {
    "start": 20.0,
+   "end": 20.645,
+   "text": "ils kiffent"
+  },
+  {
+   "start": 20.645,
+   "end": 21.291,
+   "text": "le masque"
+  },
+  {
+   "start": 21.291,
+   "end": 21.936,
+   "text": "blanc, savent"
+  },
+  {
+   "start": 21.936,
+   "end": 22.582,
+   "text": "pas qu'le"
+  },
+  {
+   "start": 22.582,
+   "end": 23.227,
+   "text": "blanc c'est"
+  },
+  {
+   "start": 23.227,
    "end": 23.55,
-   "text": "ils kiffent le masque blanc, savent pas qu'le blanc c'est l'deuil",
-   "words": [
-    {
-     "w": "ils",
-     "start": 20.0,
-     "end": 20.323
-    },
-    {
-     "w": "kiffent",
-     "start": 20.323,
-     "end": 20.645
-    },
-    {
-     "w": "le",
-     "start": 20.645,
-     "end": 20.968
-    },
-    {
-     "w": "masque",
-     "start": 20.968,
-     "end": 21.291
-    },
-    {
-     "w": "blanc,",
-     "start": 21.291,
-     "end": 21.614
-    },
-    {
-     "w": "savent",
-     "start": 21.614,
-     "end": 21.936
-    },
-    {
-     "w": "pas",
-     "start": 21.936,
-     "end": 22.259
-    },
-    {
-     "w": "qu'le",
-     "start": 22.259,
-     "end": 22.582
-    },
-    {
-     "w": "blanc",
-     "start": 22.582,
-     "end": 22.905
-    },
-    {
-     "w": "c'est",
-     "start": 22.905,
-     "end": 23.227
-    },
-    {
-     "w": "l'deuil",
-     "start": 23.227,
-     "end": 23.55
-    }
-   ]
+   "text": "l'deuil"
   },
   {
    "start": 23.6,
+   "end": 24.35,
+   "text": "un sourire"
+  },
+  {
+   "start": 24.35,
+   "end": 25.1,
+   "text": "en céramique,"
+  },
+  {
+   "start": 25.1,
+   "end": 25.85,
+   "text": "fissuré mais"
+  },
+  {
+   "start": 25.85,
    "end": 26.6,
-   "text": "un sourire en céramique, fissuré mais plein d'orgueil",
-   "words": [
-    {
-     "w": "un",
-     "start": 23.6,
-     "end": 23.975
-    },
-    {
-     "w": "sourire",
-     "start": 23.975,
-     "end": 24.35
-    },
-    {
-     "w": "en",
-     "start": 24.35,
-     "end": 24.725
-    },
-    {
-     "w": "céramique,",
-     "start": 24.725,
-     "end": 25.1
-    },
-    {
-     "w": "fissuré",
-     "start": 25.1,
-     "end": 25.475
-    },
-    {
-     "w": "mais",
-     "start": 25.475,
-     "end": 25.85
-    },
-    {
-     "w": "plein",
-     "start": 25.85,
-     "end": 26.225
-    },
-    {
-     "w": "d'orgueil",
-     "start": 26.225,
-     "end": 26.6
-    }
-   ]
+   "text": "plein d'orgueil"
   },
   {
    "start": 28.6,
+   "end": 29.28,
+   "text": "on m'a"
+  },
+  {
+   "start": 29.28,
+   "end": 29.96,
+   "text": "brisé en"
+  },
+  {
+   "start": 29.96,
+   "end": 30.64,
+   "text": "silence, pas"
+  },
+  {
+   "start": 30.64,
+   "end": 31.32,
+   "text": "un cri,"
+  },
+  {
+   "start": 31.32,
    "end": 32.0,
-   "text": "on m'a brisé en silence, pas un cri, pas d'vacarme",
-   "words": [
-    {
-     "w": "on",
-     "start": 28.6,
-     "end": 28.94
-    },
-    {
-     "w": "m'a",
-     "start": 28.94,
-     "end": 29.28
-    },
-    {
-     "w": "brisé",
-     "start": 29.28,
-     "end": 29.62
-    },
-    {
-     "w": "en",
-     "start": 29.62,
-     "end": 29.96
-    },
-    {
-     "w": "silence,",
-     "start": 29.96,
-     "end": 30.3
-    },
-    {
-     "w": "pas",
-     "start": 30.3,
-     "end": 30.64
-    },
-    {
-     "w": "un",
-     "start": 30.64,
-     "end": 30.98
-    },
-    {
-     "w": "cri,",
-     "start": 30.98,
-     "end": 31.32
-    },
-    {
-     "w": "pas",
-     "start": 31.32,
-     "end": 31.66
-    },
-    {
-     "w": "d'vacarme",
-     "start": 31.66,
-     "end": 32.0
-    }
-   ]
+   "text": "pas d'vacarme"
   },
   {
    "start": 32.4,
+   "end": 32.982,
+   "text": "j'ai séché"
+  },
+  {
+   "start": 32.982,
+   "end": 33.564,
+   "text": "tant d'larmes,"
+  },
+  {
+   "start": 33.564,
+   "end": 34.145,
+   "text": "qu'y reste"
+  },
+  {
+   "start": 34.145,
+   "end": 34.727,
+   "text": "plus d'eau"
+  },
+  {
+   "start": 34.727,
+   "end": 35.309,
+   "text": "dans mon"
+  },
+  {
+   "start": 35.309,
    "end": 35.6,
-   "text": "j'ai séché tant d'larmes, qu'y reste plus d'eau dans mon âme",
-   "words": [
-    {
-     "w": "j'ai",
-     "start": 32.4,
-     "end": 32.691
-    },
-    {
-     "w": "séché",
-     "start": 32.691,
-     "end": 32.982
-    },
-    {
-     "w": "tant",
-     "start": 32.982,
-     "end": 33.273
-    },
-    {
-     "w": "d'larmes,",
-     "start": 33.273,
-     "end": 33.564
-    },
-    {
-     "w": "qu'y",
-     "start": 33.564,
-     "end": 33.855
-    },
-    {
-     "w": "reste",
-     "start": 33.855,
-     "end": 34.145
-    },
-    {
-     "w": "plus",
-     "start": 34.145,
-     "end": 34.436
-    },
-    {
-     "w": "d'eau",
-     "start": 34.436,
-     "end": 34.727
-    },
-    {
-     "w": "dans",
-     "start": 34.727,
-     "end": 35.018
-    },
-    {
-     "w": "mon",
-     "start": 35.018,
-     "end": 35.309
-    },
-    {
-     "w": "âme",
-     "start": 35.309,
-     "end": 35.6
-    }
-   ]
+   "text": "âme"
   },
   {
    "start": 35.8,
+   "end": 36.37,
+   "text": "j'fais l'mort"
+  },
+  {
+   "start": 36.37,
+   "end": 36.94,
+   "text": "pour qu'on"
+  },
+  {
+   "start": 36.94,
+   "end": 37.51,
+   "text": "voie pas,"
+  },
+  {
+   "start": 37.51,
+   "end": 38.08,
+   "text": "la fêlure"
+  },
+  {
+   "start": 38.08,
    "end": 38.65,
-   "text": "j'fais l'mort pour qu'on voie pas, la fêlure qui m'entame",
-   "words": [
-    {
-     "w": "j'fais",
-     "start": 35.8,
-     "end": 36.085
-    },
-    {
-     "w": "l'mort",
-     "start": 36.085,
-     "end": 36.37
-    },
-    {
-     "w": "pour",
-     "start": 36.37,
-     "end": 36.655
-    },
-    {
-     "w": "qu'on",
-     "start": 36.655,
-     "end": 36.94
-    },
-    {
-     "w": "voie",
-     "start": 36.94,
-     "end": 37.225
-    },
-    {
-     "w": "pas,",
-     "start": 37.225,
-     "end": 37.51
-    },
-    {
-     "w": "la",
-     "start": 37.51,
-     "end": 37.795
-    },
-    {
-     "w": "fêlure",
-     "start": 37.795,
-     "end": 38.08
-    },
-    {
-     "w": "qui",
-     "start": 38.08,
-     "end": 38.365
-    },
-    {
-     "w": "m'entame",
-     "start": 38.365,
-     "end": 38.65
-    }
-   ]
+   "text": "qui m'entame"
   },
   {
    "start": 38.7,
+   "end": 39.32,
+   "text": "entre l'amour"
+  },
+  {
+   "start": 39.32,
+   "end": 39.94,
+   "text": "et une"
+  },
+  {
+   "start": 39.94,
+   "end": 40.56,
+   "text": "lame, j'sais"
+  },
+  {
+   "start": 40.56,
+   "end": 41.18,
+   "text": "plus laquelle"
+  },
+  {
+   "start": 41.18,
    "end": 41.8,
-   "text": "entre l'amour et une lame, j'sais plus laquelle me calme",
-   "words": [
-    {
-     "w": "entre",
-     "start": 38.7,
-     "end": 39.01
-    },
-    {
-     "w": "l'amour",
-     "start": 39.01,
-     "end": 39.32
-    },
-    {
-     "w": "et",
-     "start": 39.32,
-     "end": 39.63
-    },
-    {
-     "w": "une",
-     "start": 39.63,
-     "end": 39.94
-    },
-    {
-     "w": "lame,",
-     "start": 39.94,
-     "end": 40.25
-    },
-    {
-     "w": "j'sais",
-     "start": 40.25,
-     "end": 40.56
-    },
-    {
-     "w": "plus",
-     "start": 40.56,
-     "end": 40.87
-    },
-    {
-     "w": "laquelle",
-     "start": 40.87,
-     "end": 41.18
-    },
-    {
-     "w": "me",
-     "start": 41.18,
-     "end": 41.49
-    },
-    {
-     "w": "calme",
-     "start": 41.49,
-     "end": 41.8
-    }
-   ]
+   "text": "me calme"
   }
  ]
 }

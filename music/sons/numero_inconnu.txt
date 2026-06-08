@@ -1,0 +1,71 @@
+# RODT — NUMÉRO INCONNU (RODT underdog : le come-up, pas la fausse gloire)
+
+Réalité : artiste inconnu qui démarre (pas encore connu). "Numéro inconnu" = personne le connaît ENCORE.
+Thèmes : partir de rien, l'ombre, le grind, le doute, l'ambition, le masque, la cité, la beuh. Humble mais affamé.
+PAS de fausse gloire ("charts", "ils me cherchent"). Futur : "un jour vous saurez".
+
+=== PAROLES (champ Lyrics Suno) ===
+
+[Intro]
+hannn... héééé...
+ohhh-oh-oh...
+(numéro inconnu...)
+
+[Hook: deep raspy, melodic]
+numéro inconnu... personne sait qui j'suis encore
+hannn...
+masqué dans ma chambre... j'écris dans le noir
+héééé...
+ils m'calculent pas... mais un jour ça va sonner
+ohhh...
+numéro inconnu... retiens bien c'que j'vais devenir
+
+[Verse 1: spoken, laid-back]
+j'pars de rien... juste un masque et un rêve
+hannn...
+seul dans ma piaule... la beuh, le mic, mes peines
+héééé...
+zéro suivi, zéro buzz... mais j'lâche pas l'affaire
+j'construis dans l'ombre... avant qu'la lumière m'éclaire
+
+[Hook: deep raspy, melodic]
+numéro inconnu... personne sait qui j'suis encore
+hannn...
+masqué dans ma chambre... j'écris dans le noir
+héééé...
+ils m'calculent pas... mais un jour ça va sonner
+ohhh...
+numéro inconnu... retiens bien c'que j'vais devenir
+
+[Verse 2: spoken, laid-back]
+y'a qu'ma daronne qui croit... le reste me calcule pas
+hannn...
+mais j'sens qu'ça va péter... gardez bien ce numéro-là
+héééé...
+sous l'masque j'souris jamais... j'avance la peur au ventre
+un jour vous saurez qui... s'cachait derrière l'écran
+
+[Bridge]
+hannn... héééé...
+numéro inconnu... pour l'instant
+bientôt... vous m'oublierez plus
+
+[Hook: deep raspy, melodic]
+numéro inconnu... personne sait qui j'suis encore
+hannn...
+masqué dans ma chambre... j'écris dans le noir
+héééé...
+ils m'calculent pas... mais un jour ça va sonner
+ohhh...
+numéro inconnu... retiens bien c'que j'vais devenir
+
+[Outro]
+hannn... héééé...
+numéro inconnu... pour l'instant...
+ohhh-oh-oh...
+
+=== STYLE PROMPT (champ Style Suno) ===
+french rap, melodic cloud rap, dark mysterious, deep raspy baritone vocals, trap beat, deep 808 bass, crisp hi-hats, spacious, slow laid-back flow, half-time 130 BPM, masked, hazy
+
+=== EXCLUDE STYLES ===
+EDM, electro, house, future bass, synthwave, dance

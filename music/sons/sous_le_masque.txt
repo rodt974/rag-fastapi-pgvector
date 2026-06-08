@@ -1,7 +1,8 @@
-# RODT — SOUS L'MASQUE
+# RODT — SOUS L'MASQUE (version "viser 10")
 
-Construction Willylancien : hook = phrase-mantra répétée ("sous l'masque j'souris jamais") + contraste + sticky ("ouais") + vocalises.
-Lignes courtes/incisives, confessionnel, fataliste. RODT : masque cœur brisé, come-up, cité, beuh.
+Construction Willylancien (hook mantra + contraste + vocalises) MAIS écriture musclée :
+rimes multisyllabiques, double-sens, antithèses, une ligne-choc citable.
+RODT : masque blanc cœur brisé, come-up, cité, beuh.
 
 === PAROLES (champ Lyrics Suno) ===
 
@@ -10,59 +11,56 @@ hannn... héééé...
 ohhh-oh-oh...
 
 [Hook: deep raspy, melodic]
-sous l'masque j'souris jamais... même quand tout va, ouais
+sous l'masque j'souris jamais... dehors j'fais l'beau temps
 hannn...
-le cœur en mille morceaux... mais ma voix tient debout
+au fond j'suis qu'une averse... qui tombe depuis longtemps
 héééé...
-sous l'masque j'souris jamais... j'cache la douleur, ouais
-ohhh...
-ils kiffent c'que j'cache... ils savent pas c'que ça m'coûte
+ils kiffent le masque blanc... savent pas qu'le blanc c'est l'deuil
+un sourire en céramique... fissuré mais plein d'orgueil
 ohhh-oh-oh...
 
 [Verse 1: spoken, laid-back]
-derrière l'masque blanc... y'a un gamin cassé
+derrière l'masque, un gamin... que la vie a fait drame
 hannn...
-trop d'nuits à pleurer... j'ai appris à masquer
+j'ai séché tant d'larmes... qu'y reste plus d'eau dans mon âme
 héééé...
-le cœur brisé en façade... pour pas montrer l'vrai
-la beuh, le micro... mes seuls potos, wallah
+j'demande à c'sourire en plâtre... de cacher c'qui m'désarme
+entre l'amour et une lame... j'sais plus laquelle me calme
 
 [Hook: deep raspy, melodic]
-sous l'masque j'souris jamais... même quand tout va, ouais
+sous l'masque j'souris jamais... dehors j'fais l'beau temps
 hannn...
-le cœur en mille morceaux... mais ma voix tient debout
+au fond j'suis qu'une averse... qui tombe depuis longtemps
 héééé...
-sous l'masque j'souris jamais... j'cache la douleur, ouais
-ohhh...
-ils kiffent c'que j'cache... ils savent pas c'que ça m'coûte
+ils kiffent le masque blanc... savent pas qu'le blanc c'est l'deuil
+un sourire en céramique... fissuré mais plein d'orgueil
 ohhh-oh-oh...
 
 [Verse 2: spoken, laid-back]
-ils voient un masque froid... pas c'que j'cache derrière
+seul à minuit j'écris... mes démons font du bruit
 hannn...
-chaque son, c'est un cri... déguisé en mélodie
+j'ai qu'la beuh pour témoin... la haine pour appui
 héééé...
-j'souris jamais dessous... mais j'fais danser leurs peines
-numéro inconnu... un jour vous m'oublierez plus
+masqué, numéro inconnu... ils m'zappent aujourd'hui
+mes fêlures en lumière... pour celui qui m'a fui
 
 [Bridge]
 hannn... héééé...
 sous l'masque... sous l'masque...
-un cœur qui saigne en silence
+le sourire que j'te donne... c'est l'seul que j'ai jamais eu
 
 [Hook: deep raspy, melodic]
-sous l'masque j'souris jamais... même quand tout va, ouais
+sous l'masque j'souris jamais... dehors j'fais l'beau temps
 hannn...
-le cœur en mille morceaux... mais ma voix tient debout
+au fond j'suis qu'une averse... qui tombe depuis longtemps
 héééé...
-sous l'masque j'souris jamais... j'cache la douleur, ouais
-ohhh...
-ils kiffent c'que j'cache... ils savent pas c'que ça m'coûte
+ils kiffent le masque blanc... savent pas qu'le blanc c'est l'deuil
+un sourire en céramique... fissuré mais plein d'orgueil
 ohhh-oh-oh...
 
 [Outro]
 hannn... héééé...
-sous l'masque... j'souris jamais...
+le blanc... c'est l'deuil...
 ohhh-oh-oh...
 
 === STYLE PROMPT (champ Style Suno) ===

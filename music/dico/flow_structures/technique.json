@@ -1,0 +1,1432 @@
+{
+  "module": "flow_structures",
+  "langue_finale": "fr",
+  "entrees": [
+
+    {
+      "id": "flow-001",
+      "texte": "Double-temps (double time)",
+      "langue": "fr",
+      "traduction_fr": "Débit deux fois plus dense sur le même tempo — on place deux syllabes là où il y en aurait normalement une",
+      "adaptation_fr": "Ex. à 90 BPM : 'j'arrive en double, je dou-ble la mise, j'cou-ble la vi-tesse, je croi-se la li-gne' — chaque noire accueille deux syllabes au lieu d'une",
+      "theme": ["vitesse", "technique", "tension"],
+      "ton": "agressif / impressionnant",
+      "type": "flow",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Pour marquer un pic d'intensité dans un couplet ou pour montrer la technique pure. Fonctionne sur boom-bap lent (85-95 BPM) pour que le contraste soit maximal. Éviter sur prod déjà très chargée."
+    },
+
+    {
+      "id": "flow-002",
+      "texte": "Flow binaire",
+      "langue": "fr",
+      "traduction_fr": "Placement des syllabes sur les divisions de 2 — temps forts, contretemps, croches régulières. Sensation de pulsation carrée et prévisible",
+      "adaptation_fr": "Ex. : 'Je-suis-là / sur-le-beat / chaque-bar / c'est-com-plet' — 4 syllabes par demi-mesure, accentuation régulière sur les temps 1 et 3",
+      "theme": ["régularité", "clarté", "accessibilité"],
+      "ton": "direct / posé",
+      "type": "flow",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Base de tout apprentissage du rap FR. Utilisé pour les refrains accrocheurs, les déclarations claires. Peut sembler monotone en couplet si non varié. S'adapte à tous les tempos."
+    },
+
+    {
+      "id": "flow-003",
+      "texte": "Flow ternaire / triolets",
+      "langue": "fr",
+      "traduction_fr": "Placement des syllabes en groupes de 3 sur une division binaire — crée une sensation de roulement, de shuffle, de swing. 3 syllabes par temps",
+      "adaptation_fr": "Ex. : 'je-re-viens / sur-le-ring / comme-un-roi / sans-ef-forts' — chaque pied de 3 syllabes s'étale sur un temps, sensation d'un triolet de croches",
+      "theme": ["groove", "fluidité", "élégance"],
+      "ton": "souple / mélodique",
+      "type": "flow",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Donne une sensation de flow coulant et mélodieux. Très utilisé sur prod trap mid-tempo (130-145 BPM half-time). Excellente base pour le mélodic rap FR. Donne l'impression que ça coule sans effort."
+    },
+
+    {
+      "id": "flow-004",
+      "texte": "Flow syncopé",
+      "langue": "fr",
+      "traduction_fr": "Accentuation déplacée sur les temps faibles ou les contretemps — les syllabes fortes tombent là où le beat est 'creux', créant une tension rythmique",
+      "adaptation_fr": "Ex. : silence sur le temps 1, attaque sur le 'et' du 2 — 'et-j'arrive / et-j'te-prends / et-j'repars' — les 'et' deviennent les temps forts",
+      "theme": ["tension", "originalité", "groove"],
+      "ton": "décalé / percutant",
+      "type": "flow",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Crée de la surprise rythmique. Technique avancée à maîtriser avec précision. Parfait sur boom-bap ou jazz-rap pour un effet sophistiqué. Risque de sonner 'cassé' si mal exécuté."
+    },
+
+    {
+      "id": "flow-005",
+      "texte": "Flow posé / laid-back",
+      "langue": "fr",
+      "traduction_fr": "Débit légèrement derrière le beat — le rappeur 'traîne' volontairement quelques millisecondes après les temps, sans jamais perdre le tempo",
+      "adaptation_fr": "Ex. : le kick tombe, on attend un souffle avant d'attaquer — sensation de nonchalance calculée, comme si les mots arrivaient naturellement",
+      "theme": ["cool", "confiance", "nonchalance"],
+      "ton": "décontracté / assuré",
+      "type": "flow",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Style emblématique du rap FR old school et du rap consciencieux. Convient aux sujets de fond, aux narrations posées. Donne une impression de maturité et de confiance. À 85-100 BPM."
+    },
+
+    {
+      "id": "flow-006",
+      "texte": "Flow staccato",
+      "langue": "fr",
+      "traduction_fr": "Syllabes détachées, courtes, punchées — chaque syllabe est émise comme un coup, avec des micro-silences entre elles",
+      "adaptation_fr": "Ex. : 'Froid. / Net. / Carré. / Posé.' — chaque mot est une frappe, l'air entre les mots fait partie du flow",
+      "theme": ["impact", "agressivité", "précision"],
+      "ton": "dur / martial",
+      "type": "flow",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Très efficace pour les punchlines isolées, les passages de menace ou de déclaration de force. Fonctionne sur trap avec kick lourd ou boom-bap minimaliste. Le silence entre les mots amplifie l'impact."
+    },
+
+    {
+      "id": "flow-007",
+      "texte": "Flow mélodique / chanté",
+      "langue": "fr",
+      "traduction_fr": "Frontière floue entre rap et chant — les syllabes suivent des hauteurs mélodiques définies, avec de vraies notes tenues ou glissées",
+      "adaptation_fr": "Ex. : la syllabe finale d'une rime est tenue sur une note précise, ou un vers entier suit une mélodie simple à 4-5 notes",
+      "theme": ["émotion", "mélodie", "accessibilité"],
+      "ton": "émotionnel / universel",
+      "type": "flow",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Dominant dans le rap FR post-2017 (influence UK drill, Travis Scott). Parfait pour les refrains, les sujets sentimentaux. Nécessite une maîtrise vocale minimum. BPM : 70-140 selon l'ambiance."
+    },
+
+    {
+      "id": "flow-008",
+      "texte": "Flow en escalier (build-up syllabique)",
+      "langue": "fr",
+      "traduction_fr": "Le nombre de syllabes par ligne augmente progressivement — de 4-5 syllabes sur la première barre jusqu'à 12-14 sur la dernière, créant une montée en puissance",
+      "adaptation_fr": "Ex. : 'Je parle.' / 'Je parle bas.' / 'Je parle bas mais tu m'entends.' / 'Je parle bas mais tu m'entends depuis le fond de la pièce.' — crescendo contrôlé",
+      "theme": ["montée", "intensité", "narration"],
+      "ton": "dramatique / progressif",
+      "type": "flow",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Technique narrative puissante pour construire une tension. Idéal en fin de couplet avant le refrain ou dans un storytelling. Requiert une bonne gestion du souffle."
+    },
+
+    {
+      "id": "flow-009",
+      "texte": "Flow haché / cut-up",
+      "langue": "fr",
+      "traduction_fr": "Pauses abruptes au milieu de phrases — le flux verbal est intentionnellement interrompu pour créer du suspense, de l'emphase ou un effet visuel sonore",
+      "adaptation_fr": "Ex. : 'J'arrive et — / je prends tout — / sans demander — / parce que c'est mien.' Les coupures tombent là où le snare tombe",
+      "theme": ["tension", "dramaturgie", "surprise"],
+      "ton": "haché / cinématique",
+      "type": "flow",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Utilisé pour créer un effet de montage sonore. Puissant dans le storytelling violent ou émotionnel. Doit être intentionnel — différent d'un manque de souffle. Bien sur drill ou prod cinématique."
+    },
+
+    {
+      "id": "flow-010",
+      "texte": "Flow freestyle / conversationnel",
+      "langue": "fr",
+      "traduction_fr": "Imite le débit naturel de la parole — accentuations suivent le langage parlé, peu de construction rythmique rigide, proximité avec le spoken word",
+      "adaptation_fr": "Ex. : 'Franchement j'en peux plus, tu vois ce que je veux dire, c'est comme si le monde entier s'était passé le mot...' — parlé mais sur le beat",
+      "theme": ["authenticité", "proximité", "naturel"],
+      "ton": "familier / intime",
+      "type": "flow",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Crée une impression d'improvisation et d'authenticité. Utilisé dans les interludes, les intros, ou pour des passages de vulnérabilité. Difficile à bien calibrer — trop libre sonne raté."
+    },
+
+    {
+      "id": "flow-011",
+      "texte": "Flow en question-réponse (call and response)",
+      "langue": "fr",
+      "traduction_fr": "Alternance rythmique entre une affirmation et sa réponse — structure binaire interne au couplet, crée un dialogue avec soi-même ou le public",
+      "adaptation_fr": "Ex. : 'T'as peur ? (oui) / T'as tort. / T'avances ? (non) / C'est mort.' — la 'réponse' peut être un adlib, un second rappeur ou une voix intérieure",
+      "theme": ["dialogue", "dualité", "dynamisme"],
+      "ton": "vivant / interactif",
+      "type": "flow",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Très efficace pour les refrains participatifs ou les couplets philosophiques. Engage l'auditeur. Référence : technique de la joute, du cypher."
+    },
+
+    {
+      "id": "flow-012",
+      "texte": "Flow polyrhythmique",
+      "langue": "fr",
+      "traduction_fr": "Superposition de deux patterns rythmiques différents — par exemple un motif de 3 sur une grille de 4, créant une tension rythmique sophistiquée",
+      "adaptation_fr": "Ex. : groupes de 3 syllabes répétés 4 fois sur une mesure à 4/4 — le pattern se décale à chaque répétition et 'retombe' sur le temps 1 toutes les 3 mesures",
+      "theme": ["technique avancée", "complexité", "hypnose"],
+      "ton": "expérimental / technique",
+      "type": "flow",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Niveau expert. Peut déconcerter l'auditeur ou le captiver selon l'exécution. Intéressant sur prod minimaliste qui laisse de l'espace. Référence : certains passages d'Oxmo Puccino ou de Rocé."
+    },
+
+    {
+      "id": "flow-013",
+      "texte": "Flow à l'accent tonique inversé",
+      "langue": "fr",
+      "traduction_fr": "En français, l'accent tombe normalement sur la dernière syllabe — inverser cet accent, frapper la première syllabe d'un mot, crée un effet percussif inattendu",
+      "adaptation_fr": "Ex. : frapper 'MA-tin' au lieu de 'ma-TIN', 'TEM-ple' au lieu de 'tem-PLE' — transforme des mots communs en petits coups de kick",
+      "theme": ["percussivité", "originalité", "technique"],
+      "ton": "percutant / atypique",
+      "type": "flow",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Technique subtile qui donne un effet rythmique brut. Peut enrichir un flow sur prod avec peu d'éléments. À doser pour ne pas paraître forcé."
+    },
+
+    {
+      "id": "flow-014",
+      "texte": "Flow en demi-temps (half-time)",
+      "langue": "fr",
+      "traduction_fr": "Débit qui semble deux fois plus lent — on place des syllabes sur les temps 1 et 3 seulement, comme si le tempo était divisé par deux",
+      "adaptation_fr": "Ex. sur 140 BPM drill : rapper comme si c'était du 70 BPM, chaque temps fort du flow correspond à une mesure entière du beat",
+      "theme": ["lenteur calculée", "groove lourd", "pression"],
+      "ton": "pesant / menaçant",
+      "type": "flow",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Signature du drill UK/FR et de certains morceaux trap lents. Crée une sensation de lourdeur et de menace. L'espace entre les mots est aussi important que les mots eux-mêmes."
+    },
+
+    {
+      "id": "flow-015",
+      "texte": "Flow accéléré progressif (acceleration)",
+      "langue": "fr",
+      "traduction_fr": "Augmentation graduelle du débit au cours d'une même barre ou d'un même couplet — part lentement et finit en double-temps ou plus",
+      "adaptation_fr": "Ex. : 'Je... commence... doucement... puis j'accélère, j'accélère, j'accélère-jusqu'à-ce-que-plus-rien-ne-m'arrête' — le débit suit l'intensité émotionnelle",
+      "theme": ["montée", "émotion", "performance"],
+      "ton": "explosif / dramatique",
+      "type": "flow",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Très spectaculaire en live. Réclame une excellente maîtrise du souffle et de la diction. À réserver pour les moments de climax. Référence : certains passages de Vald."
+    },
+
+    {
+      "id": "flow-016",
+      "texte": "Flow chuchoté / murmuré",
+      "langue": "fr",
+      "traduction_fr": "Volume vocal très bas, quasi-murmuré — tout le texte est dit en voix de tête ou en souffle, sans projection",
+      "adaptation_fr": "Ex. : un couplet entier dit comme un secret, la proximité du micro compense le volume — crée une intimité troublante",
+      "theme": ["intimité", "menace douce", "confidence"],
+      "ton": "intime / glaçant",
+      "type": "flow",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Utilisé pour créer un effet de confidence ou de menace froide. Contraste puissant avec un refrain fort. Doit être mixé avec soin (compression forte). Rare mais mémorable."
+    },
+
+    {
+      "id": "flow-017",
+      "texte": "Flow en bloc (wall of words)",
+      "langue": "fr",
+      "traduction_fr": "Saturation de syllabes — le débit est maximal sur plusieurs barres consécutives, sans silence, comme un mur de mots",
+      "adaptation_fr": "Ex. : 16 barres à flux continu sans pause respiratoire apparente, chaque fin de syllabe enchaîne immédiatement sur la suivante",
+      "theme": ["technique", "stamina", "densité"],
+      "ton": "impressionnant / oppressant",
+      "type": "flow",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Utilisé pour montrer la technique pure et la gestion du souffle. Peut fatiguer l'oreille sur la durée. À réserver à des séquences courtes ou des battles. Référence : Roméo Elvis certains passages."
+    },
+
+    {
+      "id": "flow-018",
+      "texte": "Flow atmosphérique / ambient",
+      "langue": "fr",
+      "traduction_fr": "Très peu de syllabes par mesure, mots épars, silences traités comme des notes — le vide fait partie du flow",
+      "adaptation_fr": "Ex. : une syllabe toutes les deux mesures, les mots flottent dans la prod — 'Je... / ...suis... / ...là.' sur 8 mesures",
+      "theme": ["espace", "contemplation", "poésie"],
+      "ton": "contemplatif / atmosphérique",
+      "type": "flow",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Pour les intros, les interludes, les passages introspectifs. Fonctionne sur prod lo-fi, ambient, cloud rap. Nécessite une confiance vocale totale — l'espace peut vite sonner creux."
+    },
+
+    {
+      "id": "flow-019",
+      "texte": "Flow en miroir (palindrome rythmique)",
+      "langue": "fr",
+      "traduction_fr": "Le schéma rythmique de la première moitié d'une barre se retrouve inversé dans la seconde moitié — symétrie rythmique",
+      "adaptation_fr": "Ex. : 'Vite-vite-lent / lent-vite-vite' — la deuxième partie de la mesure est le reflet rythmique de la première",
+      "theme": ["symétrie", "technique", "originalité"],
+      "ton": "mathématique / élégant",
+      "type": "flow",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Technique rare, très appréciée des connaisseurs. Crée une sensation d'équilibre et de maîtrise. Idéal pour les textes sur la dualité ou la réflexion de soi."
+    },
+
+    {
+      "id": "flow-020",
+      "texte": "Flow onomatopéique / beatbox intégré",
+      "langue": "fr",
+      "traduction_fr": "Intégration de sons percussifs vocaux (tchk, boom, pff) dans le flow lui-même — la voix imite les éléments de la batterie",
+      "adaptation_fr": "Ex. : 'Boom je r'viens (tchk) sur le devant (pff) de la scène (boom) sans m'ra-len-tir' — les onomatopées tombent sur kick et snare",
+      "theme": ["originalité", "performatif", "beatbox"],
+      "ton": "ludique / technique",
+      "type": "flow",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Très efficace en live ou en freestyles a cappella. Peut sembler gimmicky en studio si overused. Référence : technique des freestyleurs, Kendrick Lamar certains interludes."
+    },
+
+    {
+      "id": "struct-001",
+      "texte": "Couplet de 16 barres standard",
+      "langue": "fr",
+      "traduction_fr": "Structure de base du couplet rap — 16 mesures (barres) à 4 temps chacune, soit 16 lignes si on pose une rime par mesure",
+      "adaptation_fr": "Structure : 4 barres d'intro du sujet + 8 barres de développement + 4 barres de conclusion/punch final. Chaque barre = 1 ligne de texte environ",
+      "theme": ["structure", "composition", "standard"],
+      "ton": "neutre / structurant",
+      "type": "structure",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "La référence absolue du rap FR et US. Donne le temps de développer une idée sans surcharger. La plupart des prods sont construites pour 2 couplets de 16 + 2 refrains. À connaître par cœur."
+    },
+
+    {
+      "id": "struct-002",
+      "texte": "Couplet de 8 barres (half verse)",
+      "langue": "fr",
+      "traduction_fr": "Couplet raccourci à 8 mesures — utilisé quand la chanson nécessite plus de refrains, pour les featurings partagés ou les formats radio",
+      "adaptation_fr": "Structure : 2 barres d'accroche + 4 barres de développement + 2 barres de sortie sur refrain. Format dense, pas de place pour les digressions",
+      "theme": ["concision", "efficacité", "radio"],
+      "ton": "direct / condensé",
+      "type": "structure",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Très utilisé dans le rap commercial FR post-2015. Oblige à aller à l'essentiel. Efficace pour les feats où 2-3 rappeurs se partagent un morceau."
+    },
+
+    {
+      "id": "struct-003",
+      "texte": "Refrain (hook) accrocheur",
+      "langue": "fr",
+      "traduction_fr": "Section répétée du morceau — mémorisable, mélodique, synthétise l'émotion centrale. Généralement 8 barres (4+4 répétées ou 8 différentes)",
+      "adaptation_fr": "Structure type : 4 barres thématiques + 4 barres de réponse/écho. Le dernier mot de chaque ligne doit rimer fortement. Pas plus de 3-4 idées différentes",
+      "theme": ["accroche", "mémorisation", "émotion centrale"],
+      "ton": "universel / mémorable",
+      "type": "structure",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "C'est ce que retient l'auditeur. Doit pouvoir être chanté ou rappé par quelqu'un qui entend le titre pour la 2e fois. La simplicité est une vertu ici — éviter les références trop cryptiques."
+    },
+
+    {
+      "id": "struct-004",
+      "texte": "Pré-refrain (pre-hook)",
+      "langue": "fr",
+      "traduction_fr": "Section de transition entre le couplet et le refrain — 2 à 4 barres qui montent l'énergie ou changent la couleur émotionnelle pour préparer l'arrivée du refrain",
+      "adaptation_fr": "Structure : 2-4 barres avec montée mélodique, souvent plus chantées que le couplet, parfois répétition d'une phrase-clé qui déclenche le refrain",
+      "theme": ["transition", "tension", "build-up"],
+      "ton": "montant / préparatoire",
+      "type": "structure",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Rend le refrain encore plus satisfaisant. Souvent plus mélodique que le couplet. Peut remplacer une transition abrupte. Très utilisé dans le rap-pop FR et le mélodic rap."
+    },
+
+    {
+      "id": "struct-005",
+      "texte": "Pont (bridge)",
+      "langue": "fr",
+      "traduction_fr": "Section unique qui apparaît une seule fois, généralement vers la fin du morceau — rupture de structure, nouvelle énergie, nouveau point de vue",
+      "adaptation_fr": "Placé après le 2e refrain généralement. Peut être instrumental, chanté différemment, beatchange, ou un spoken word. 8 barres en général",
+      "theme": ["rupture", "variation", "climax"],
+      "ton": "contrastant / révélateur",
+      "type": "structure",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Évite la monotonie d'une structure refrain-couplet-refrain. Peut changer le sens du morceau rétrospectivement. Souvent le passage le plus personnel ou le plus émotionnel."
+    },
+
+    {
+      "id": "struct-006",
+      "texte": "Intro / Outro",
+      "langue": "fr",
+      "traduction_fr": "Intro : mise en place de l'ambiance avant le premier couplet ou refrain (4-16 barres). Outro : conclusion après le dernier refrain, souvent fade out ou dernières paroles",
+      "adaptation_fr": "Intro : peut être spoken word, ambiance, sample dialogue. Outro : peut être une dernière punchline, un adlib final, un retour à la thématique d'intro pour boucler",
+      "theme": ["cadrage", "ambiance", "cohérence"],
+      "ton": "posant le décor / conclusif",
+      "type": "structure",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "L'intro conditionne l'écoute — les 8 premières secondes décident si on reste ou on skip. L'outro est mémorisée par les fans fidèles. Les deux servent la cohérence narrative de l'album."
+    },
+
+    {
+      "id": "struct-007",
+      "texte": "Structure storytelling (récit linéaire)",
+      "langue": "fr",
+      "traduction_fr": "Tout le morceau raconte une histoire avec début, développement, chute. Le refrain résume le thème général. Structure narrative plutôt que musicale",
+      "adaptation_fr": "Couplet 1 : situation initiale / personnages. Couplet 2 : complication / action. Couplet 3 ou bridge : résolution ou cliffhanger. Refrain : le sens moral ou émotionnel de l'histoire",
+      "theme": ["narration", "storytelling", "film"],
+      "ton": "narratif / cinématique",
+      "type": "structure",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Référence absolue : Booba 'Pitbull', Oxmo Puccino 'Cactus de Sibérie'. Demande un sens du récit développé. L'auditeur doit vouloir savoir la suite. Éviter les ellipses trop cryptiques."
+    },
+
+    {
+      "id": "struct-008",
+      "texte": "Structure drill FR (couplet + refrain répété)",
+      "langue": "fr",
+      "traduction_fr": "Typique du drill FR : refrain court (4 barres) très mélodique, répété 2-3 fois d'affilée, couplets de 8-12 barres, pas de bridge, outro = dernier refrain fondu",
+      "adaptation_fr": "Schéma : Refrain x2 / Couplet 1 (8 bars) / Refrain x2 / Couplet 2 (8 bars) / Refrain x3 (outro). Le refrain 'boucle' comme un loop",
+      "theme": ["drill", "loop", "répétition hypnotique"],
+      "ton": "froid / répétitif hypnotique",
+      "type": "structure",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Standard des sons drill FR (Freeze Corleone, SCH, Gazo). La répétition du refrain est intentionnelle — crée un effet hypnotique. Les couplets sont moins importants que l'atmosphère globale."
+    },
+
+    {
+      "id": "struct-009",
+      "texte": "Structure AABA (forme de la chanson pop classique)",
+      "langue": "fr",
+      "traduction_fr": "A = couplet, B = pont ou bridge — structure : Couplet / Couplet / Bridge / Couplet. Pas de refrain traditionnel — le couplet est déjà accrocheur",
+      "adaptation_fr": "Utilisé en rap pour des morceaux plus poétiques ou chanson française. Le troisième couplet (A) peut avoir un sens différent éclairé par le bridge (B)",
+      "theme": ["poésie", "chanson", "variation"],
+      "ton": "littéraire / classique",
+      "type": "structure",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Peu utilisé en rap contemporain mais très fort pour des projets artistiques ou des collaborations avec des chanteurs. Donne une profondeur narrative accrue."
+    },
+
+    {
+      "id": "struct-010",
+      "texte": "Structure en arche (chiasme musical)",
+      "langue": "fr",
+      "traduction_fr": "Intro et outro se répondent, premier couplet et dernier se font écho, le bridge au centre est le point culminant — structure symétrique A-B-C-B'-A'",
+      "adaptation_fr": "Le dernier couplet reprend des éléments du premier mais avec un éclairage différent (après les événements du récit). L'outro répond à l'intro.",
+      "theme": ["symétrie", "cohérence", "profondeur"],
+      "ton": "sophistiqué / fermé",
+      "type": "structure",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Très utilisé sur les albums-concept. Rare sur des singles. Donne une impression de complétude et de maîtrise artistique totale. Nécessite une vision d'ensemble dès l'écriture."
+    },
+
+    {
+      "id": "struct-011",
+      "texte": "Structure freestyle / suite de punchlines",
+      "langue": "fr",
+      "traduction_fr": "Pas de structure narrative — succession de punchlines indépendantes, chaque barre est un standalone, pas de fil narratif obligatoire",
+      "adaptation_fr": "Structure : barre 1 = punchline / barre 2 = punchline / barre 3 = setup / barre 4 = punchline / etc. Seule la rime unit les barres",
+      "theme": ["punchlines", "battle", "technique"],
+      "ton": "brut / technique",
+      "type": "structure",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Format des freestyles, des battles, de certains morceaux 'showcase'. Laisse peu de place à l'émotion narrative mais montre la technique brute. Référence : tous les freestyles Booska-P."
+    },
+
+    {
+      "id": "struct-012",
+      "texte": "Structure en cercles concentriques (zoom in / zoom out)",
+      "langue": "fr",
+      "traduction_fr": "Le texte commence sur un plan large (le monde, la société) et se resserre progressivement jusqu'au plan le plus intime (soi, la famille) — ou inversement",
+      "adaptation_fr": "Couplet 1 : macro (géopolitique, quartier, génération). Couplet 2 : méso (la rue, les amis, la famille). Couplet 3 : micro (moi, mon histoire, ma peur). Refrain : pont émotionnel entre les trois niveaux",
+      "theme": ["narration", "profondeur", "intime"],
+      "ton": "progressif / révélateur",
+      "type": "structure",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Technique narrative très sophistiquée. Crée une identification progressive chez l'auditeur. Référence : certains titres de Médine, Oxmo Puccino."
+    },
+
+    {
+      "id": "struct-013",
+      "texte": "Structure avec beatswitch (changement de prod au milieu)",
+      "langue": "fr",
+      "traduction_fr": "Le beat change radicalement au milieu du morceau — tempo, atmosphère, style. Crée deux mini-morceaux en un, avec une rupture narrative possible",
+      "adaptation_fr": "Schéma : 2 couplets sur prod A (ex. trap sombre) + switch brutal + 1 couplet sur prod B (ex. boom-bap) + nouveau refrain. La rupture peut illustrer un changement de vie, d'état d'esprit",
+      "theme": ["rupture", "surprise", "dualité"],
+      "ton": "cinématique / imprévisible",
+      "type": "structure",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Popularisé par Travis Scott, utilisé par SCH, Ninho. Très efficace pour les morceaux-films. Demande une cohérence narrative pour justifier le switch, sinon ça semble gratuit."
+    },
+
+    {
+      "id": "struct-014",
+      "texte": "Structure cypher (plusieurs rappeurs, même couplet)",
+      "langue": "fr",
+      "traduction_fr": "Un même instrumental accueille 3 à 6 rappeurs qui se succèdent chacun avec 8 ou 16 barres — pas de refrain traditionnel, juste des couplets enchaînés",
+      "adaptation_fr": "Schéma : Rappeur 1 (16 bars) / Rappeur 2 (16 bars) / Rappeur 3 (16 bars). Parfois un refrain collectif entre chaque. L'énergie monte au fil des couplets",
+      "theme": ["collectif", "compétition", "énergie"],
+      "ton": "combatif / collectif",
+      "type": "structure",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Format des classiques BET Hip Hop Awards, des GIF Session, des Booska-P. Chaque rappeur doit marquer son passage. La position (1er, milieu, dernier) a une importance stratégique."
+    },
+
+    {
+      "id": "struct-015",
+      "texte": "Structure album-concept (macro-structure)",
+      "langue": "fr",
+      "traduction_fr": "Chaque morceau est un chapitre d'un récit ou d'un thème plus grand — l'album entier est la vraie structure, les morceaux individuels en sont les parties",
+      "adaptation_fr": "Chaque titre a sa place dans un arc narratif ou thématique. Des interludes connectent les morceaux. Le premier et dernier titre se répondent. Chaque featuring est un personnage du récit",
+      "theme": ["album", "concept", "narration longue"],
+      "ton": "ambitieux / cohérent",
+      "type": "structure",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Référence : Damso (IAMNOBODY), Nekfeu (Cyrk), Kendrick Lamar. Demande une vision artistique totale dès le début du projet. Le single sorti doit avoir du sens dans le contexte de l'album."
+    },
+
+    {
+      "id": "rythm-001",
+      "texte": "Poser sur le contretemps",
+      "langue": "fr",
+      "traduction_fr": "Placer l'accent fort de sa ligne non pas sur le temps fort (1, 2, 3, 4) mais sur le 'et' entre les temps — le off-beat, le contretemps",
+      "adaptation_fr": "Ex. : le snare tombe sur le 2 et le 4, mais le rappeur place son accent sur le 'et' du 1 et le 'et' du 3 — sa voix 'répond' au snare plutôt que de le doubler",
+      "theme": ["groove", "décalage", "sophistication"],
+      "ton": "groovy / décalé",
+      "type": "placement_rythmique",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Technique qui distingue les bons rappeurs des excellents. Donne une impression de naturel et de groove. À pratiquer sur du boom-bap avec métronome avant de l'appliquer en studio."
+    },
+
+    {
+      "id": "rythm-002",
+      "texte": "Casser la mesure (bar break)",
+      "langue": "fr",
+      "traduction_fr": "Finir une phrase à mi-mesure et commencer la suivante aussi à mi-mesure — les rimes ne tombent pas sur les fins de mesure mais au milieu",
+      "adaptation_fr": "Ex. : 'Je suis [fin de barre 1 à mi-chemin] venu de loin [fin de barre 2 au temps 3]' — la rime interne casse l'attente du temps fort de fin de mesure",
+      "theme": ["complexité", "originalité", "surprise"],
+      "ton": "déconstruit / savant",
+      "type": "placement_rythmique",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Technique utilisée par les rappeurs qui cherchent à déstabiliser l'oreille habituée. Crée une sensation de flow plus complexe. Attention à ne pas perdre l'auditeur — toujours rester sur le beat."
+    },
+
+    {
+      "id": "rythm-003",
+      "texte": "Enjamber la barre (bar enjambment)",
+      "langue": "fr",
+      "traduction_fr": "La phrase commencée dans une mesure se termine dans la mesure suivante — la syntaxe ignore la structure musicale des barres",
+      "adaptation_fr": "Ex. : 'J'ai tout perdu dans cette nuit-là, chaque / étoile était témoin de ma...' — 'chaque' termine la barre 1, 'étoile' commence la barre 2, la phrase continue",
+      "theme": ["fluidité", "naturel", "littérature"],
+      "ton": "littéraire / fluide",
+      "type": "placement_rythmique",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Emprunté à la poésie (l'enjambement). Donne un aspect très naturel et littéraire au flow. La coupe en fin de barre peut tomber sur un mot inattendu, créant un effet de suspense."
+    },
+
+    {
+      "id": "rythm-004",
+      "texte": "Placement sur le kick",
+      "langue": "fr",
+      "traduction_fr": "Les syllabes fortes du rappeur coïncident exactement avec les frappes de la grosse caisse (kick) dans le beat",
+      "adaptation_fr": "Ex. : sur un pattern kick sur le 1 et le 3, les premières syllabes des mots importants tombent sur ces mêmes temps — 'MOI / je / suis / FORT / sur / ce / beat'",
+      "theme": ["percussion", "impact", "unité son-texte"],
+      "ton": "percutant / puissant",
+      "type": "placement_rythmique",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Donne un sentiment de puissance et d'impact brut. La voix fusionne avec la prod. Très utilisé en trap et drill pour les moments de force. Peut devenir monotone si systématique."
+    },
+
+    {
+      "id": "rythm-005",
+      "texte": "Placement sur le snare",
+      "langue": "fr",
+      "traduction_fr": "Les accents ou rimes du rappeur coïncident avec les frappes de la caisse claire (snare) — généralement les temps 2 et 4",
+      "adaptation_fr": "Ex. : les fins de vers, les rimes finales, tombent exactement sur le snare des temps 2 et 4 — la rime 'claque' avec la caisse claire",
+      "theme": ["groove", "swing", "accentuation"],
+      "ton": "groovy / accentué",
+      "type": "placement_rythmique",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Placement naturel en boom-bap où le snare est roi. Donne un effet très satisfaisant à l'oreille quand la rime 'claque' avec le snare. À explorer en variation avec le placement sur kick."
+    },
+
+    {
+      "id": "rythm-006",
+      "texte": "Anticiper le beat (rushing)",
+      "langue": "fr",
+      "traduction_fr": "Placer les syllabes légèrement avant le temps attendu — volontairement ou instinctivement, donne une sensation d'urgence, d'énergie qui déborde",
+      "adaptation_fr": "Ex. : au lieu d'attendre le temps 1, le rappeur commence 1/16e de note avant — crée une impression de débordement, d'impatience",
+      "theme": ["urgence", "énergie", "impulsivité"],
+      "ton": "urgent / énergique",
+      "type": "placement_rythmique",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Quand c'est involontaire, ça sonne 'pressé' ou mal posé. Quand c'est intentionnel et contrôlé, ça crée une énergie brute très efficace. Certains rappeurs en ont fait leur signature."
+    },
+
+    {
+      "id": "rythm-007",
+      "texte": "Retarder le beat (laid-back / dragging)",
+      "langue": "fr",
+      "traduction_fr": "Placer les syllabes légèrement après le temps attendu — sensation de nonchalance, de quelqu'un qui n'est pas pressé, qui maîtrise",
+      "adaptation_fr": "Ex. : le temps 1 passe, on attend 1/16e de note supplémentaire avant d'attaquer — la voix 'glisse' derrière le beat avec aisance",
+      "theme": ["cool", "nonchalance", "maîtrise"],
+      "ton": "nonchalant / assuré",
+      "type": "placement_rythmique",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Signature de nombreux rappeurs influents. Crée une impression de confiance et de facilité déconcertante. Souvent naturel chez les rappeurs de 'old school' FR. Très difficile à enseigner."
+    },
+
+    {
+      "id": "rythm-008",
+      "texte": "Rime interne (internal rhyme placement)",
+      "langue": "fr",
+      "traduction_fr": "Placer des rimes non seulement en fin de barre mais aussi au milieu — les points de rime créent une structure rythmique interne supplémentaire",
+      "adaptation_fr": "Ex. : 'Je COMPTE les JOURS dans ce TROU sans RETOUR' — les rimes en majuscules créent un pattern interne : COMPTE/TROU, JOURS/RETOUR",
+      "theme": ["densité", "technique", "musicalité"],
+      "ton": "technique / musical",
+      "type": "placement_rythmique",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Élève la densité lyrique sans surcharger le débit. Chaque rime interne est un micro-plaisir pour l'oreille. Signe d'un lyriciste accompli. À développer progressivement."
+    },
+
+    {
+      "id": "rythm-009",
+      "texte": "Ponctuation vocale (articulation des silences)",
+      "langue": "fr",
+      "traduction_fr": "Traiter les silences comme des éléments actifs du flow — une pause avant un mot-clé vaut autant qu'une note tenue",
+      "adaptation_fr": "Ex. : '...et c'est là que tout [SILENCE 1 beat] ...a changé.' Le silence crée plus de tension que n'importe quel mot. La ponctuation vocale remplace la ponctuation du texte",
+      "theme": ["silence", "emphase", "théâtralité"],
+      "ton": "dramatique / théâtral",
+      "type": "placement_rythmique",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Technique empruntée aux acteurs et aux orateurs. Un bon rappeur sait quand se taire. Le silence amplifie ce qui vient après. À utiliser pour les révélations ou les punchlines majeures."
+    },
+
+    {
+      "id": "rythm-010",
+      "texte": "Swing / shuffle placement",
+      "langue": "fr",
+      "traduction_fr": "Swinguer le débit — au lieu de placer les croches sur un rythme régulier (égal), les jouer en 'swing' (longue-courte) pour un effet jazz ou funk",
+      "adaptation_fr": "Ex. : au lieu de 'UN-et-DEUX-et', jouer 'UN——et-DEUX——et' avec les 'et' plus courts et accentués — le flow 'rebondit'",
+      "theme": ["swing", "jazz", "groove organique"],
+      "ton": "jazzy / organique",
+      "type": "placement_rythmique",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Base du hip-hop old school (samples jazz/funk). Donne un groove très humain et organique. Fonctionne sur boom-bap, jazz-rap. Difficile à quantifier — ça se ressent plus que ça ne s'écrit."
+    },
+
+    {
+      "id": "rythm-011",
+      "texte": "Accentuation des consonnes percussives",
+      "langue": "fr",
+      "traduction_fr": "Surexploiter les consonnes dures (p, t, k, b, d, g) en les plaçant stratégiquement sur les temps forts — la voix devient une percussion",
+      "adaptation_fr": "Ex. : 'Pas un PaS de Plus, je Tiens bon, je T'en-Tends, je K-O' — les explosives en début de syllabe sur les temps forts créent une percussion vocale",
+      "theme": ["percussion", "technique", "impact"],
+      "ton": "percutant / brut",
+      "type": "placement_rythmique",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Très efficace pour renforcer la présence vocale dans un mix chargé. Les occlusives (p, t, k) font naturellement 'cliquer' le signal audio — à doser avec le mastering."
+    },
+
+    {
+      "id": "rythm-012",
+      "texte": "Montée d'octave en fin de barre",
+      "langue": "fr",
+      "traduction_fr": "Monter d'un ton ou d'une octave sur la dernière syllabe ou le dernier mot d'une barre — accentue la rime et crée une tension mélodique",
+      "adaptation_fr": "Ex. : tout le vers est dit sur une note grave, la dernière syllabe monte d'une tierce ou quinte — effet de question en suspens ou d'affirmation forte",
+      "theme": ["mélodie", "accentuation", "question"],
+      "ton": "affirmatif ou interrogatif",
+      "type": "placement_rythmique",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Utilisé pour distinguer deux types de vers : montée = question/tension, descente = affirmation/clôture. Rend le texte plus dynamique mélodiquement sans aller vers le chant total."
+    },
+
+    {
+      "id": "tempo-001",
+      "texte": "Drill FR — 140-150 BPM (demi-temps perçu à 70-75)",
+      "langue": "fr",
+      "traduction_fr": "Prod caractérisée par un tempo rapide mais un hi-hat en triple croches et un snare sur le 3e temps (pas le 2), donnant une sensation de lenteur pesante",
+      "adaptation_fr": "On rappe en demi-temps — comme si le tempo était 70-75 BPM. Chaque mot compte double en termes de poids. Silences prolongés entre les phrases",
+      "theme": ["menace", "froid", "quartier"],
+      "ton": "menaçant / glacial",
+      "type": "tempo",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Le son dominant du rap FR 2018-présent. Évoque la rue froide, la tension, la menace sourde. Artistes de référence : Freeze Corleone, Gazo, SCH. Ne pas trop bourrer le flow — laisser le beat respirer."
+    },
+
+    {
+      "id": "tempo-002",
+      "texte": "Trap US — 130-145 BPM (half-time 65-72)",
+      "langue": "fr",
+      "traduction_fr": "Trap classique US adaptée au rap FR — hi-hat rapide (doubles, triples), 808 longue sur le downbeat, snare sur le 2 et 4, BPM réel rapide mais flow en demi-temps",
+      "adaptation_fr": "Le flow en demi-temps laisse place aux adlibs et aux effets. Rimes espacées, lourdes. Permet les triolets sur le 3e temps pour varier",
+      "theme": ["ambition", "argent", "streets"],
+      "ton": "arrogant / lourd",
+      "type": "tempo",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Base de la trap FR commerciale. Accessible mais demande une signature vocale forte pour se démarquer. Les 808 longues laissent de la place pour une voix mélodique par-dessus."
+    },
+
+    {
+      "id": "tempo-003",
+      "texte": "Boom-bap classique — 85-95 BPM",
+      "langue": "fr",
+      "traduction_fr": "Tempo médium avec kick sur 1 et 3, snare sec sur 2 et 4, groove sampleté — l'espace rythmique invite à un flow plus dense et lyrique",
+      "adaptation_fr": "Flow binaire ou syncopé, débit moyen à élevé, rimes riches, beaucoup de syllabes par barre. Le beat est moins présent, la voix est au premier plan",
+      "theme": ["technique", "lyrisme", "old school"],
+      "ton": "technique / conscient",
+      "type": "tempo",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Le temple du lyrisme FR. Idéal pour montrer la technique pure, les jeux de mots, la densité lyrique. Moins commercial aujourd'hui mais très respecté dans la culture. BPM plus lent = temps pour les mots."
+    },
+
+    {
+      "id": "tempo-004",
+      "texte": "Rap mélodique / emo rap — 70-100 BPM",
+      "langue": "fr",
+      "traduction_fr": "Prod lo-fi, piano mélancolique, trap light ou beatmaking organique. Tempo lent permettant un flow chanté ou semi-chanté très expressif",
+      "adaptation_fr": "Les mots sont étirés, tenus, chantés. La mélodie prime sur le texte. Les rimes sont souvent plus simples mais plus émotionnelles. Autotune présent ou voix naturelle sur note",
+      "theme": ["émotion", "amour", "mélancolie", "vulnérabilité"],
+      "ton": "émotionnel / intime",
+      "type": "tempo",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Le son dominant du rap FR en 2020-2024 (Ninho, Hamza, Tiakola). Très accessible commercialement. Demande une sensibilité mélodique. Les silences et les respirations font partie du chant."
+    },
+
+    {
+      "id": "tempo-005",
+      "texte": "Rap conscient / spoken word — 80-100 BPM",
+      "langue": "fr",
+      "traduction_fr": "Prod sobre, instrumentale légère, parfois live ou jazzy. BPM médium permettant un débit rapproché de la parole naturelle pour la lisibilité du message",
+      "adaptation_fr": "Flow conversationnel ou légèrement rythmique. Priorité au texte et au message. Peu d'effets vocaux. La prod est au service des mots et non l'inverse",
+      "theme": ["message", "politique", "société", "introspection"],
+      "ton": "sérieux / militant",
+      "type": "tempo",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Tradition du rap FR engagé (Médine, Kery James, Casey). Le message doit être intelligible. Pas besoin d'un flow ultra-technique — la clarté et la conviction suffisent."
+    },
+
+    {
+      "id": "tempo-006",
+      "texte": "Cloud rap / lo-fi — 60-85 BPM",
+      "langue": "fr",
+      "traduction_fr": "Prod atmosphérique très lente, textures vintage ou lo-fi, reverb profonde, pas de kick prononcé. BPM très lent permettant un flow quasi-spoken ou ambient",
+      "adaptation_fr": "Flow très aéré, peu de syllabes par mesure, voix souvent dans le reverb, ambiguïté entre le rap et le spoken word. Les émotions priment sur la technique",
+      "theme": ["nostalgie", "rêve", "vapeur", "introspection"],
+      "ton": "rêveur / nostalgique",
+      "type": "tempo",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Niche mais influent dans l'esthétique musicale. Idéal pour les projets expérimentaux ou les interludes. La prod 'enveloppe' la voix plutôt que de la soutenir."
+    },
+
+    {
+      "id": "tempo-007",
+      "texte": "Rap rapide / speedrap — 100-120 BPM flow plein",
+      "langue": "fr",
+      "traduction_fr": "Prod mid-tempo mais flow à plein régime — débit très élevé (double-temps ou plus), prod utilisée comme simple fond rythmique pour la performance vocale",
+      "adaptation_fr": "Chaque mesure contient 2x plus de syllabes que la normale. La prod est souvent minimaliste pour ne pas 'bouchonner'. Focus sur la diction et la clarté malgré la vitesse",
+      "theme": ["performance", "vitesse", "showcase"],
+      "ton": "impressionnant / énergique",
+      "type": "tempo",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Genre populaire sur YouTube et les freestyles. Référence FR : Vald, Nekfeu certains passages. Spectaculaire mais demande une diction irréprochable — une syllabe avalée ruine tout."
+    },
+
+    {
+      "id": "tempo-008",
+      "texte": "Afro-rap / afrobeats FR — 95-115 BPM",
+      "langue": "fr",
+      "traduction_fr": "Prod hybride rap-afrobeats — kick sur le 1, nombreuses percussions syncopées, groove africain ou antillais. BPM dansant permettant un flow mélodique et groovy",
+      "adaptation_fr": "Flow dansant, accentuation des syllabes sur les contretemps, beaucoup de mélodies vocales, switch naturel entre rap et chant. Langues mélangées (fr/wolof/lingala/kreyòl)",
+      "theme": ["fête", "identité", "danse", "joie"],
+      "ton": "festif / énergique",
+      "type": "tempo",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Explosion commerciale en France depuis 2018 (Aya Nakamura, Niska, Burna Boy). Flow très naturel pour les rappeurs d'origine africaine ou antillaise. Très commercial et efficace en live."
+    },
+
+    {
+      "id": "tempo-009",
+      "texte": "Trap mélancolique / sad trap — 120-135 BPM",
+      "langue": "fr",
+      "traduction_fr": "Trap avec mélodies de piano ou violons sur le dessus, 808 émotionnelle, BPM rapide mais flow en demi-temps ou full-time selon l'intensité",
+      "adaptation_fr": "Les syllabes sont souvent étirées sur la mélodie. Autotune ou voix naturelle teintée. L'émotion prime sur la technique. Les mots de douleur sonnent plus fort ici",
+      "theme": ["douleur", "amour perdu", "argent", "solitude"],
+      "ton": "mélancolique / introspectif",
+      "type": "tempo",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Le son de Drake adapté au FR. Très efficace pour les sujets émotionnels complexes. Permet de rapper sur des sujets 'durs' avec une sensibilité qui touche un large public."
+    },
+
+    {
+      "id": "tempo-010",
+      "texte": "Dancehall / reggaeton FR — 90-100 BPM",
+      "langue": "fr",
+      "traduction_fr": "Riddim dancehall ou reggaeton — dembow sur le contretemps, BPM stable autour de 95, groove très dansant et syncopé",
+      "adaptation_fr": "Flow très syncopé aligné sur le dembow. Chant plus que rap. Langues créoles ou mixtes. Accentuation très différente du rap FR standard — apprendre à sentir le riddim",
+      "theme": ["soleil", "danse", "séduction", "Antilles"],
+      "ton": "sensuel / festif",
+      "type": "tempo",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Genre hybride de plus en plus présent dans le paysage FR. Demande une sensibilité aux musiques caribéennes. Le corps doit 'sentir' le riddim avant de rapper dessus."
+    },
+
+    {
+      "id": "resp-001",
+      "texte": "Respiration diaphragmatique (support du souffle)",
+      "langue": "fr",
+      "traduction_fr": "Utiliser le diaphragme et non la poitrine pour respirer — inspiration basse, ventre qui se gonfle, expiration contrôlée et soutenue",
+      "adaptation_fr": "Exercice : main sur le ventre, inspirer en gonflant le ventre (pas les épaules), tenir 4 temps, expirer en contrôlant avec les abdominaux. Base de tout chant et rap performé",
+      "theme": ["technique vocale", "stamina", "diction"],
+      "ton": "technique / fondamental",
+      "type": "respiration",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "La base absolue. Un rappeur qui respire avec la poitrine manque de souffle après 4 barres. Le diaphragme permet 16 barres à plein régime. À travailler quotidiennement."
+    },
+
+    {
+      "id": "resp-002",
+      "texte": "Respiration furtive (stealth breath)",
+      "langue": "fr",
+      "traduction_fr": "Inspiration ultra-rapide et silencieuse glissée dans un blanc de la prod (cymbale, silence entre deux kicks) — l'auditeur ne doit pas l'entendre",
+      "adaptation_fr": "Anticiper les 'trous' du beat et y glisser une inspiration rapide par le nez ou un coin de la bouche. Ne jamais interrompre le sens de la phrase pour respirer",
+      "theme": ["fluidité", "technique", "professionnalisme"],
+      "ton": "invisible / technique",
+      "type": "respiration",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Ce qui distingue un rappeur amateur d'un professionnel. En studio, les respirations audibles sont coupées à l'édition. En live, la maîtrise de la respiration furtive fait toute la différence."
+    },
+
+    {
+      "id": "resp-003",
+      "texte": "Gestion du souffle sur 16 barres",
+      "langue": "fr",
+      "traduction_fr": "Planifier en amont où les respirations se font dans un couplet de 16 barres — généralement une grande respiration toutes les 4 barres, des micro-respirations entre",
+      "adaptation_fr": "Barres 1-4 : première phrase, grande respiration. Barres 5-8 : développement, micro-respiration. Barres 9-12 : montée, respiration courte. Barres 13-16 : final en apnée contrôlée",
+      "theme": ["endurance", "planification", "studio"],
+      "ton": "méthodique / professionnel",
+      "type": "respiration",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "À planifier à l'écriture : les pauses respiratoires naturelles dans le texte (virgule, fin de phrase) doivent coïncider avec les 'trous' du beat. Ne jamais laisser le hasard décider."
+    },
+
+    {
+      "id": "resp-004",
+      "texte": "Respiration intégrée à l'adlib",
+      "langue": "fr",
+      "traduction_fr": "Transformer la respiration en adlib — le son de l'inspiration ou de l'expiration devient intentionnel et fait partie de la performance",
+      "adaptation_fr": "Ex. : une expiration audible ('pff') avant une punchline devient un adlib de mépris. Une inspiration marquée ('hm') souligne une réflexion. La respiration devient un outil expressif",
+      "theme": ["expressivité", "performance", "adlibs"],
+      "ton": "théâtral / expressif",
+      "type": "respiration",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Technique avancée — convertir une contrainte physiologique en outil artistique. Utilisé par les grands performeurs. À ne pas forcer — doit sembler naturel."
+    },
+
+    {
+      "id": "resp-005",
+      "texte": "Syllabisation et découpe pour le flow",
+      "langue": "fr",
+      "traduction_fr": "Décomposer chaque mot en syllabes pour visualiser son placement rythmique — chaque syllabe est une note de musique qui doit trouver sa place dans la mesure",
+      "adaptation_fr": "Ex. : 'soleil' = SO-LEIL (2 syllabes), 'maintenant' = MAIN-TE-NANT (3 syllabes), 'extraordinaire' = EX-TRA-OR-DI-NAI-RE (6 syllabes). Compter les syllabes avant de poser",
+      "theme": ["technique d'écriture", "placement", "précision"],
+      "ton": "méthodique / technique",
+      "type": "respiration",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Toujours syllabiser mentalement avant d'enregistrer. Un mot de 6 syllabes dans un espace de 4 = catastrophe rythmique. Un mot de 2 syllabes dans un espace de 4 = deux silences à gérer."
+    },
+
+    {
+      "id": "resp-006",
+      "texte": "Élision et liaisons en rap FR",
+      "langue": "fr",
+      "traduction_fr": "Le français a des élisions (je-t'aime = jt'aime, 2 syllabes au lieu de 3) et des liaisons (les_amis = lé-za-mi). En rap, on choisit d'appliquer ou non ces règles selon le besoin rythmique",
+      "adaptation_fr": "Ex. : 'je ne sais pas' peut être 4 syllabes (j-ne-sais-pas) ou 3 (j'sais-pas) ou 2 (j'sais-pas avec élision totale). Choisir selon l'espace disponible dans la mesure",
+      "theme": ["langue française", "technique", "flexibilité"],
+      "ton": "technique / linguistique",
+      "type": "respiration",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Le français est une mine de flexibilité syllabique. Les élisions peuvent économiser 1-2 syllabes par verse. À l'écrit, tester les deux versions pour trouver ce qui 'colle' au beat."
+    },
+
+    {
+      "id": "resp-007",
+      "texte": "E muet et compte syllabique en rap FR",
+      "langue": "fr",
+      "traduction_fr": "Le 'e' final dit 'e muet' est souvent avalé à l'oral mais compté en poésie classique. En rap, on choisit : est-ce que 'femme' fait 1 ou 2 syllabes ? 'poème' fait 2 ou 3 ?",
+      "adaptation_fr": "Ex. : 'la belle femme' peut faire 4 syllabes (la-bel-le-fem-me) ou 3 (la-bell-fam). La décision doit être cohérente sur tout le morceau ou intentionnellement variable",
+      "theme": ["prononciation", "compte syllabique", "français"],
+      "ton": "technique / nuancé",
+      "type": "respiration",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Spécificité du rap FR. Les rappeurs qui viennent du Maghreb ou d'Afrique subsaharienne ont souvent une gestion différente du 'e muet'. Cette variation peut devenir une signature."
+    },
+
+    {
+      "id": "resp-008",
+      "texte": "Accent régional et syllabisation (verlan, argot, accent)",
+      "langue": "fr",
+      "traduction_fr": "L'accent du rappeur (marseillais, 974, belge, québécois) modifie la durée des voyelles et la syllabisation — ce n'est pas un défaut, c'est une couleur",
+      "adaptation_fr": "Ex. : l'accent marseillais allonge les voyelles finales ('il a-me' = 3 syllabes au lieu de 2 'il aim'). L'accent belge prononce certaines lettres muettes. Ces particularités enrichissent le flow",
+      "theme": ["identité", "régionalisme", "authenticité"],
+      "ton": "authentique / coloré",
+      "type": "respiration",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Ne jamais effacer son accent — c'est une signature. Mais comprendre comment il modifie la syllabisation permet de choisir ses mots plus intelligemment selon le flow visé."
+    },
+
+    {
+      "id": "adv-001",
+      "texte": "Changement de registre vocal intra-couplet",
+      "langue": "fr",
+      "traduction_fr": "Alterner entre plusieurs registres vocaux dans le même couplet — voix de tête, voix de poitrine, parlé, chanté, cri contenu — sans rupture musicale",
+      "adaptation_fr": "Ex. : 4 barres en voix posée grave, 4 barres montée vers le falsetto, retour grave pour la punchline finale — le changement de registre souligne le changement d'état émotionnel",
+      "theme": ["dynamique", "expressivité", "drama"],
+      "ton": "expressif / dynamique",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Nécessite une maîtrise vocale réelle. Les transitions doivent être intentionnelles et motivées par le sens du texte. Éviter les changements de registre aléatoires qui sonnent comme des erreurs."
+    },
+
+    {
+      "id": "adv-002",
+      "texte": "Le setup-punchline sur 2 barres",
+      "langue": "fr",
+      "traduction_fr": "Barre 1 = setup (mise en place, sens littéral, rime A), Barre 2 = punchline (chute, double sens, rime B qui répond à A). La tension monte en barre 1, éclate en barre 2",
+      "adaptation_fr": "Ex. : 'J'ai mis des années à construire ma maison [setup] / Mais le vent des autres l'a rasée en une saison [punchline]' — le sens double ou la comparaison inattendue arrive en barre 2",
+      "theme": ["punchline", "construction", "impact"],
+      "ton": "percutant / construit",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "La mécanique de base de la punchline. Le setup doit être assez fort pour tenir l'intérêt mais pas dévoiler la chute. La punchline doit 'casser' l'attente tout en la satisfaisant."
+    },
+
+    {
+      "id": "adv-003",
+      "texte": "Le setup-punchline sur 4 barres (long setup)",
+      "langue": "fr",
+      "traduction_fr": "3 barres de setup qui construisent une image ou un récit, puis une barre de punchline qui retourne tout le sens. L'attente plus longue rend la chute plus efficace",
+      "adaptation_fr": "Ex. : barres 1-3 décrivent une situation quotidienne anodine, barre 4 révèle une ironie ou une vérité qui change la lecture de tout ce qui précède",
+      "theme": ["narration", "patience", "impact différé"],
+      "ton": "narratif / explosif",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Réclame la confiance de l'auditeur pendant 3 barres. L'art de faire attendre. Si la punchline est trop faible après un long setup, c'est une déception catastrophique. À réserver aux meilleures barres."
+    },
+
+    {
+      "id": "adv-004",
+      "texte": "La rime multisyllabique (multis)",
+      "langue": "fr",
+      "traduction_fr": "Faire rimer non pas un seul mot en fin de ligne mais 3, 4 ou 5 syllabes consécutives entre deux lignes — densité sonore maximale",
+      "adaptation_fr": "Ex. : 'je-do-mine-la-scène / [je]-ro-tine-ma-peine' — 5 syllabes qui riment. Plus la séquence rimée est longue, plus l'effet est fort",
+      "theme": ["technique", "lyrisme", "sophistication"],
+      "ton": "technique / impressionnant",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Signature des grands lyricistes. Le français est très riche en multis grâce à ses suffixes (-tion, -ment, -ique, -eur). À construire à l'écrit, pas à improviser. Référence : Oxmo, Rocé, Nekfeu."
+    },
+
+    {
+      "id": "adv-005",
+      "texte": "La rime dérivée (rime pattern répété)",
+      "langue": "fr",
+      "traduction_fr": "Maintenir le même son de rime sur 4, 6, 8 barres consécutives ou plus — un seul son dominant tenu sur tout un passage",
+      "adaptation_fr": "Ex. : 8 barres finissant toutes en '-ion' : ambition, tradition, prison, passion, mission, vision, trahison, saison — le son crée une incantation",
+      "theme": ["cohérence sonore", "hypnose", "rigueur"],
+      "ton": "obsessionnel / maîtrisé",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Crée un effet hypnotique quand bien géré. Attention à ne pas limiter le sens pour maintenir la rime — le fond doit primer sur la forme. Puissant sur un beat minimaliste."
+    },
+
+    {
+      "id": "adv-006",
+      "texte": "Changement de point de vue narratif",
+      "langue": "fr",
+      "traduction_fr": "Alterner le point de vue à l'intérieur d'un couplet ou entre les couplets — passer du 'je' au 'il' au 'tu' pour raconter la même histoire depuis différents angles",
+      "adaptation_fr": "Ex. : couplet 1 en 'je' (le narrateur), couplet 2 en 'il' (le personnage observé), refrain en 'nous' (universalisation). Le changement de pronom change tout",
+      "theme": ["narration", "sophistication", "profondeur"],
+      "ton": "littéraire / nuancé",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Technique littéraire puissante. Le passage du 'je' au 'il' peut créer de la distance émotionnelle (protection) ou au contraire universaliser. Le 'tu' accusatoire peut être très fort."
+    },
+
+    {
+      "id": "adv-007",
+      "texte": "Allitération et assonance rythmique",
+      "langue": "fr",
+      "traduction_fr": "Répétition intentionnelle de sons consonantiques (allitération) ou vocaliques (assonance) pour créer une musicalité supplémentaire au texte",
+      "adaptation_fr": "Ex. allitération : 'Six soldats sans soucis sur six scènes' — les 's' créent un sifflement musical. Assonance : 'bête, tête, fête, tempête' — le 'è' domine",
+      "theme": ["musicalité", "texture", "poésie"],
+      "ton": "poétique / musical",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Enrichit la texture sonore sans toucher à la structure rythmique. Utilisé depuis la poésie médiévale. En rap FR, crée une identité sonore forte. À doser — trop d'allitérations peut sembler forcé."
+    },
+
+    {
+      "id": "adv-008",
+      "texte": "La barre qui déborde (overflow bar)",
+      "langue": "fr",
+      "traduction_fr": "Délibérément mettre plus de syllabes qu'il n'y a de place dans la mesure — les dernières syllabes 'débordent' sur le début de la mesure suivante, créant un effet de surcharge",
+      "adaptation_fr": "Ex. : 12 syllabes dans une mesure prévue pour 8 — les 4 dernières sont rattrapées en rush sur le début de la mesure suivante, avant que le flow normal reprenne",
+      "theme": ["surcharge", "énergie", "urgence"],
+      "ton": "débordant / urgent",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Technique du débordement qui donne une sensation de 'trop plein'. Doit être intentionnel et récupéré proprement. Utilisé par Eminem et adapté en FR. Dangereux si mal maîtrisé."
+    },
+
+    {
+      "id": "adv-009",
+      "texte": "Adlibs stratégiques",
+      "langue": "fr",
+      "traduction_fr": "Interjections vocales (voix secondaire) qui commentent, accentuent ou décorent le flow principal — posés en post-production sur un track séparé",
+      "adaptation_fr": "Types : réponse ('ouais', 'hein', 'c'est ça'), accentuation ('WESH', 'AYE'), commentaire ironique ('vraiment ?'), comique ('lol'), atmosphère ('hm', 'mm')",
+      "theme": ["texture", "personnalité", "atmosphère"],
+      "ton": "personnalité / couleur",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Les adlibs sont la 'voix intérieure' du rappeur. Ils donnent de la personnalité et de la profondeur. À créer sur une track séparée pour un mix précis. Trop d'adlibs = bruit, trop peu = vide."
+    },
+
+    {
+      "id": "adv-010",
+      "texte": "Le silence comme punchline",
+      "langue": "fr",
+      "traduction_fr": "Finir une ligne sur un silence total après avoir créé une attente forte — l'absence de mot est le mot le plus fort. La chute n'est pas dite mais ressentie",
+      "adaptation_fr": "Ex. : setup de 3 barres qui mène vers un mot attendu, puis silence d'une barre complète à la place de la punchline — le cerveau de l'auditeur complète lui-même",
+      "theme": ["silence", "impact", "implicite"],
+      "ton": "fort / implicite",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "La technique la plus difficile à maîtriser — faire confiance au silence. Demande une exécution parfaite du setup. L'auditeur engagé complète et s'implique davantage. Très fort en live."
+    },
+
+    {
+      "id": "adv-011",
+      "texte": "Reframing (retournement de sens en cours de barre)",
+      "langue": "fr",
+      "traduction_fr": "Commencer une phrase avec un sens apparent, puis la terminer d'une façon qui retourne complètement le sens initial — surprise sémantique en temps réel",
+      "adaptation_fr": "Ex. : 'J'ai tout ce qu'il me faut pour... / ...partir en courant d'ici.' — la fin de barre retourne l'attente positive créée par le début",
+      "theme": ["ironie", "subversion", "intelligence"],
+      "ton": "intelligent / subversif",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Technique proche du jeu de mots mais sur le sens plutôt que le son. Crée un 'aha moment' pour l'auditeur. À construire soigneusement — la surprise doit sembler inévitable rétrospectivement."
+    },
+
+    {
+      "id": "adv-012",
+      "texte": "L'anaphore rythmique",
+      "langue": "fr",
+      "traduction_fr": "Répéter le même début de phrase à intervalles réguliers — la répétition crée un ancrage rythmique et émotionnel fort (figure de discours)",
+      "adaptation_fr": "Ex. : 'Je viens de... / Je viens de... / Je viens de...' — chaque répétition ajoute un élément différent mais le début identique crée une incantation. Référence : discours politiques, prières",
+      "theme": ["incantation", "emphase", "unité"],
+      "ton": "incantatoire / fort",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Figure rhétorique classique au service du rap. Très puissant pour les thèmes engagés ou les moments de catharsis. La répétition elle-même devient une punchline progressivement."
+    },
+
+    {
+      "id": "adv-013",
+      "texte": "Le changement de tempo volontaire (rubato)",
+      "langue": "fr",
+      "traduction_fr": "Accélérer ou ralentir momentanément son débit sans que le beat change — la voix sort du tempo de façon expressionniste pour souligner un moment émotionnel",
+      "adaptation_fr": "Ex. : ralentir drastiquement sur les 2 barres les plus importantes du couplet, comme si le temps se dilatait, puis reprendre le tempo normal. Ou accélérer brusquement pour exprimer l'excitation",
+      "theme": ["expresion", "liberté", "drama"],
+      "ton": "dramatique / libre",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Très risqué en studio — peut sonner comme une erreur. Très puissant en live. À réserver aux rappeurs qui ont une maîtrise absolue du beat pour que le jeu soit lisible comme intentionnel."
+    },
+
+    {
+      "id": "adv-014",
+      "texte": "Texture vocale : grain, fry et voix chest",
+      "langue": "fr",
+      "traduction_fr": "Le grain de voix (raucité, aspérités), le vocal fry (craquement grave), la voix de poitrine pure sont des outils expressifs qui donnent une signature sonore unique",
+      "adaptation_fr": "Le grain apporte de l'humanité et de la vérité (voix brisée = émotion). Le vocal fry en début de phrase crée une intimité glaçante. La voix chest pure = autorité",
+      "theme": ["timbre", "identité vocale", "émotion"],
+      "ton": "expressif / identitaire",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "La voix est un instrument. Chaque rappeur doit identifier ses spécificités vocales naturelles et les utiliser comme force plutôt que de les corriger. Le grain d'une voix est irremplaçable."
+    },
+
+    {
+      "id": "adv-015",
+      "texte": "Autotune comme instrument rythmique",
+      "langue": "fr",
+      "traduction_fr": "L'autotune n'est pas seulement un outil de correction — il peut être utilisé comme effet rythmique intentionnel, notamment le 'hard tune' qui quantise les notes exactement",
+      "adaptation_fr": "Hard tune : glissements de voix deviennent des marches d'escalier de notes — effet robotique qui 'claque' sur le beat. Soft tune : correction subtile qui garde l'humanité",
+      "theme": ["production", "autotune", "son moderne"],
+      "ton": "moderne / électronique",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "L'autotune en 2024 est un choix esthétique, pas une correction. Un hard tune sur un flow mélodique est un instrument à part entière. À choisir en accord avec la prod dès le début."
+    },
+
+    {
+      "id": "adv-016",
+      "texte": "La rime visuelle (eye rhyme en français)",
+      "langue": "fr",
+      "traduction_fr": "Deux mots qui riment à l'écrit mais pas à l'oral — ou à l'oral mais pas à l'écrit. En rap FR, la rime est auditive d'abord, mais le texte écrit peut jouer avec les deux",
+      "adaptation_fr": "Ex. : 'fils' et 'fils' (fils = fils, fils = thread) — homonymes. Ou 'vingt' et 'vin' — même son, orthographe différente. L'auditeur entend, le lecteur voit",
+      "theme": ["jeu de mots", "lecture", "ambiguïté"],
+      "ton": "ludique / lettré",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Intéressant pour les rappeurs qui publient leurs lyrics et veulent que la lecture soit une expérience à part entière. Le rap FR contemporain soigne de plus en plus la dimension visuelle du texte."
+    },
+
+    {
+      "id": "adv-017",
+      "texte": "La reprise de rime (rime callback)",
+      "langue": "fr",
+      "traduction_fr": "Utiliser en fin de couplet ou en refrain un son de rime qui avait été introduit en début de morceau — crée un sentiment de cohérence et de bouclage narratif",
+      "adaptation_fr": "Ex. : couplet 1 finit sur '-oir', couplet 2 sur '-eur', refrain mélange '-oir' et '-eur' pour créer une synthèse sonore des deux couplets",
+      "theme": ["cohérence", "architecture", "satisfaction"],
+      "ton": "structuré / satisfaisant",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Architecture lyrique avancée. L'auditeur ne perçoit pas toujours consciemment le callback mais le ressent comme une satisfaction. Signe d'une écriture très préméditée."
+    },
+
+    {
+      "id": "adv-018",
+      "texte": "Code switching FR/Anglais/Langue d'origine dans le flow",
+      "langue": "fr",
+      "traduction_fr": "Alterner entre le français, l'anglais, et une langue d'origine (arabe, wolof, créole, bambara...) dans le même couplet — chaque langue a son registre rythmique et émotionnel",
+      "adaptation_fr": "Ex. : vers en français pour le fond, switch anglais pour le cool factor, mot arabe pour l'identité — chaque langue apporte sa propre musique au flow",
+      "theme": ["identité", "bilinguisme", "richesse culturelle"],
+      "ton": "hybride / authentique",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Le rap FR 2020-2025 est profondément multilingue. Le code switching est une force, pas une faiblesse. Chaque langue a ses propres sons, rythmes et associations émotionnelles à exploiter."
+    },
+
+    {
+      "id": "adv-019",
+      "texte": "L'effet tape delay vocal",
+      "langue": "fr",
+      "traduction_fr": "Imiter vocalement l'effet de répétition décroissante d'un delay — répéter un mot ou une syllabe plusieurs fois en diminuant le volume à chaque répétition",
+      "adaptation_fr": "Ex. : '...et tout s'est effacé / effacé / effacé / ...effa...' — la répétition décroissante simule l'écho et crée un effet de disparition ou de souvenir qui s'estompe",
+      "theme": ["effet sonore", "poésie sonore", "évanescence"],
+      "ton": "poétique / évocateur",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Très efficace pour les thèmes de perte, de mémoire, de disparition. Peut être fait vocalement en live ou renforcé par un vrai effet delay en studio. Crée une dimension cinématique."
+    },
+
+    {
+      "id": "adv-020",
+      "texte": "Flow miroir (chiasme syllabique)",
+      "langue": "fr",
+      "traduction_fr": "Deux barres où la structure syllabique et mélodique est inversée — la deuxième barre est le miroir de la première en termes de schéma de flow",
+      "adaptation_fr": "Ex. : barre 1 = 'lent-lent-rapide-rapide', barre 2 = 'rapide-rapide-lent-lent'. La symétrie crée un effet de chiasme musical. Référence : la figure rhétorique du chiasme (A-B-B-A)",
+      "theme": ["symétrie", "technique", "élégance"],
+      "ton": "élégant / sophistiqué",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Technique rare et très appréciée des connaisseurs. Donne une impression d'équilibre parfait. À écrire et visualiser graphiquement avant de poser."
+    },
+
+    {
+      "id": "adv-021",
+      "texte": "Utiliser les silences du beat comme partenaires",
+      "langue": "fr",
+      "traduction_fr": "Identifier les silences, breaks et drops dans la prod et y placer intentionnellement du texte (ou du silence vocal) pour créer un dialogue avec le beat",
+      "adaptation_fr": "Ex. : quand le beat 'drope' et qu'il ne reste que la basse, le rappeur continue seul — sa voix est soudain plus nue et plus exposée, effet de vulnérabilité ou de force",
+      "theme": ["arrangement", "dialogue prod-voix", "sensibilité musicale"],
+      "ton": "musical / sensoriel",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Réclame d'écouter le beat en profondeur avant d'écrire. Les meilleurs rappeurs écrivent AVEC le beat, pas DESSUS. Chaque silence du beat est une invitation à placer quelque chose ou rien."
+    },
+
+    {
+      "id": "adv-022",
+      "texte": "Flow en question rhétorique",
+      "langue": "fr",
+      "traduction_fr": "Construire le couplet entier comme une série de questions sans réponses — interpeller l'auditeur, le forcer à penser, refuser de lui mâcher le travail",
+      "adaptation_fr": "Ex. : 'Pourquoi tu cours si tu sais pas où ? / Pourquoi tu parles si t'as rien à dire ? / Pourquoi tu vis si c'est pour mourir ?' — chaque barre est une question, le refrain la seule réponse",
+      "theme": ["philosophie", "interpellation", "inconfort"],
+      "ton": "interrogatif / dérangeant",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Crée un inconfort productif chez l'auditeur. Le force à s'impliquer mentalement. Puissant pour les sujets de fond, la philosophie de rue, l'engagement. Référence : textes de Kery James."
+    },
+
+    {
+      "id": "adv-023",
+      "texte": "Variation de dynamique vocale (pianissimo / forte)",
+      "langue": "fr",
+      "traduction_fr": "Varier l'intensité vocale (volume, pression) de façon intentionnelle au cours d'un couplet — des passages très doux aux passages très forts, sans que le beat change",
+      "adaptation_fr": "Ex. : barres 1-4 murmurées (pianissimo), barres 5-8 normales (mezzo-forte), barres 13-16 crié-contenu (forte) — la dynamique vocale suit l'arc émotionnel du texte",
+      "theme": ["dynamique", "drama", "cinéma"],
+      "ton": "théâtral / cinématique",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "En studio, le compresseur gomme les variations — à compenser en les exagérant à la prise. En live, les variations de dynamique sont l'outil principal du showman. Travail de comédien."
+    },
+
+    {
+      "id": "adv-024",
+      "texte": "Le trio flow-prod-texte (cohérence globale)",
+      "langue": "fr",
+      "traduction_fr": "Le flow doit être choisi en fonction du texte ET de la prod — pas le même flow sur un texte de deuil et un texte de bravade, même si la prod est identique",
+      "adaptation_fr": "Checklist : 1. Quel est le fond émotionnel du texte ? 2. Quelle est l'atmosphère de la prod ? 3. Quel flow sert les deux ? Le flow est le pont entre le texte et la prod",
+      "theme": ["cohérence", "choix artistique", "vision globale"],
+      "ton": "méthodique / artistique",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "La règle d'or. Un flow extraordinaire sur une prod inadaptée = cacophonie. Un flow ordinaire parfaitement adapté à la prod et au texte = pépite. Toujours servir l'ensemble, pas l'ego technique."
+    },
+
+    {
+      "id": "adv-025",
+      "texte": "Prostodie : respect de l'accent naturel des mots",
+      "langue": "fr",
+      "traduction_fr": "En français, chaque mot a un accent naturel (généralement sur la dernière syllabe). Un bon flow respecte ces accents naturels plutôt que de les inverser — sinon les mots sonnent faux",
+      "adaptation_fr": "Ex. : 'muSIque' doit être accentué sur la 2e syllabe dans le flow. Forcer 'MUsique' pour caser un rythme = barbarisme prosodique. Choisir des mots dont l'accent naturel coïncide avec le beat",
+      "theme": ["prosodie", "naturel", "linguistique"],
+      "ton": "technique / linguistique",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Le grand défi du rap FR vs rap US : l'anglais est plus accentué et flexible, le français est plus lié à l'accent final. Les grands rappeurs FR trouvent des mots dont l'accent naturel tombe sur le temps fort."
+    },
+
+    {
+      "id": "adv-026",
+      "texte": "Structure en boucle (loop structure)",
+      "langue": "fr",
+      "traduction_fr": "Le dernier vers du couplet reprend exactement ou quasi-exactement le premier vers — structure circulaire qui donne une impression de ritournelle ou de destin inévitable",
+      "adaptation_fr": "Ex. : couplet 1 commence et finit par 'Je reviens toujours au même endroit' — la boucle souligne un thème de répétition, de prison mentale ou de rituel",
+      "theme": ["répétition", "destin", "rituel", "enfermement"],
+      "ton": "circulaire / fataliste",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Puissant pour les thèmes d'addiction, de rupture cyclique, de vie en boucle. La répétition du premier vers à la fin donne un sentiment de capture ou de complétude selon le contexte."
+    },
+
+    {
+      "id": "adv-027",
+      "texte": "Le versus (duel de rappeurs / joute)",
+      "langue": "fr",
+      "traduction_fr": "Structure de morceau où deux rappeurs s'affrontent sur le même beat — chacun répond aux barres de l'autre, crée un dialogue compétitif ou complémentaire",
+      "adaptation_fr": "Rappeur A : 8 barres d'attaque. Rappeur B : 8 barres de réponse directe. Rappeur A : 8 barres d'escalade. Rappeur B : 8 barres de conclusion. Ou format libre avec échanges de 4",
+      "theme": ["compétition", "dialogue", "battle"],
+      "ton": "compétitif / dynamique",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Format des battles et des morceaux de prestige. Exige d'écouter et de répondre à l'autre. La qualité de la réponse (directe ou thématique) distingue les grands MC des bons rappeurs."
+    },
+
+    {
+      "id": "adv-028",
+      "texte": "L'effet écho thématique (leitmotiv)",
+      "langue": "fr",
+      "traduction_fr": "Une image, un mot ou une phrase-clé revient plusieurs fois dans le morceau ou l'album, prenant un sens différent à chaque occurrence selon le contexte",
+      "adaptation_fr": "Ex. : 'la lumière au bout du tunnel' en intro (espoir naïf), en milieu de couplet 2 (ironie amère), en refrain (conviction retrouvée) — même expression, trois sens différents",
+      "theme": ["leitmotiv", "cohérence", "profondeur"],
+      "ton": "littéraire / profond",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Technique littéraire haut de gamme. L'auditeur qui réécoute découvre les couches de sens. Renforce la cohérence thématique et récompense l'attention portée au texte."
+    },
+
+    {
+      "id": "adv-029",
+      "texte": "Compter les barres (bar counting)",
+      "langue": "fr",
+      "traduction_fr": "Savoir à tout moment dans quel barre on est (1 à 16) et quelle est la structure du beat autour de soi — compétence de navigation musicale fondamentale",
+      "adaptation_fr": "Exercice : écouter un beat et compter 1-2-3-4 sur chaque mesure, identifier les barres 8 et 16 (souvent marquées par le beat). Tout rappeur pro sait où il est à tout moment",
+      "theme": ["navigation", "technique", "professionnalisme"],
+      "ton": "méthodique / fondamental",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Compétence de base souvent négligée. Un rappeur qui ne sait pas compter ses barres rate ses entrées, ses sorties, ses transitions. À travailler avec un métronome avant le studio."
+    },
+
+    {
+      "id": "adv-030",
+      "texte": "Structure de couplet en 3 actes (introduction / développement / chute)",
+      "langue": "fr",
+      "traduction_fr": "Même un couplet de 16 barres doit avoir sa propre architecture narrative : 4 barres d'accroche, 8 barres de développement, 4 barres de chute qui mène au refrain",
+      "adaptation_fr": "Barres 1-4 : poser le cadre et l'émotion principale. Barres 5-12 : développer, illustrer, complexifier. Barres 13-16 : synthèse, punchline finale, ou transition vers le refrain",
+      "theme": ["structure", "narration", "composition"],
+      "ton": "structurant / narratif",
+      "type": "conseil_avance",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": [],
+      "note_usage": "Un couplet sans arc narratif interne = une liste de phrases. Un couplet avec 3 actes = une mini-chanson. La structure est invisible mais sentie. À appliquer à chaque texte dès le premier jet."
+    }
+
+  ]
+}

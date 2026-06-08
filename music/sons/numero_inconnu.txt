@@ -1,71 +1,66 @@
-# RODT — NUMÉRO INCONNU
+# RODT — NUMÉRO INCONNU (version cité)
 
-Concept : un homme parle d'une femme (cartonne chez le public féminin) + cœur brisé (persona RODT).
-"Numéro inconnu" = elle s'est blindé le cœur, elle répond plus. Cloud planant émotionnel.
-Signature : phrase "sous l'masque j'souris jamais" intégrée.
+Concept : un mec de cité parle d'une go qui le ghoste (cartonne chez les meufs) + cœur brisé RODT.
+Registre : argot réel (go, tej, seum, miskina, laissé sur vu, bédave, mytho), sans en faire trop.
+Signature : "sous l'masque j'souris jamais".
 
 === PAROLES (champ Lyrics Suno) ===
 
 [Intro]
 eyy... han...
-ohhh-oh-oh...
 (numéro inconnu...)
 
 [Hook: sung melodic, emotional]
-elle est belle... mais dans ses yeux y'a la pluie
-eyy...
-elle a tout pour briller... mais elle s'éteint dans son lit
-han...
-numéro inconnu... elle répond plus à personne
-elle a trop donné... maintenant son cœur sonne dans l'vide
+la go m'a tej... numéro inconnu quand j'rappelle
+hannn...
+elle m'a laissé sur vu... j'ai capté, frère, j'insiste plus
+héééé...
+elle souriait dans l'tieks... mais en vrai elle était au sol
+j'lui ai mis trop d'seum... son cœur a mis les voiles
 
 [Verse 1: spoken, laid-back]
-elle avait des étoiles... avant qu'on les lui vole
+c'est la miskina du tieks... toujours là pour les siens
 hannn...
-un sourire en façade... mais l'âme qui s'effondre
+elle donne tout c'qu'elle a... on lui rend que du chagrin
 héééé...
-elle a aimé un mec... qui jouait avec son cœur
-maintenant elle bloque le monde... numéro inconnu, par peur
+les bonhommes l'ont fait tourner... promesses de bicraveur
+maintenant elle calcule plus... elle bédave pour tuer les heures
 
 [Hook: sung melodic, emotional]
-elle est belle... mais dans ses yeux y'a la pluie
-eyy...
-elle a tout pour briller... mais elle s'éteint dans son lit
-han...
-numéro inconnu... elle répond plus à personne
-elle a trop donné... maintenant son cœur sonne dans l'vide
+la go m'a tej... numéro inconnu quand j'rappelle
+hannn...
+elle m'a laissé sur vu... j'ai capté, frère, j'insiste plus
+héééé...
+elle souriait dans l'tieks... mais en vrai elle était au sol
+j'lui ai mis trop d'seum... son cœur a mis les voiles
 
 [Verse 2: spoken, laid-back]
-moi aussi j'l'ai blessée... masqué, mais j'ai honte
+moi j'ai fait l'mytho... j'ai bluffé, j'ai cramé la perle
 hannn...
-j'voulais qu'elle décroche... j'tombe sur sa messagerie
+trop d'orgueil pour m'excuser... j'rumine le seum, masqué, tout seul
 héééé...
-sous l'masque j'souris jamais... surtout depuis qu't'es plus là
-elle a mis un mur... là où y'avait une porte
+sous l'masque j'souris jamais... depuis qu't'as bloqué mon numéro
+si tu lis ça miskina... ce reuf t'aimait pour de vrai
 
 [Bridge]
 eyy... ahhh...
-décroche... décroche...
-même en numéro inconnu... j'reconnais ton silence
+décroche... wallah décroche...
+même en numéro inconnu... je capte que c'est toi
 
 [Hook: sung melodic, emotional]
-elle est belle... mais dans ses yeux y'a la pluie
-eyy...
-elle a tout pour briller... mais elle s'éteint dans son lit
-han...
-numéro inconnu... elle répond plus à personne
-elle a trop donné... maintenant son cœur sonne dans l'vide
+la go m'a tej... numéro inconnu quand j'rappelle
+hannn...
+elle m'a laissé sur vu... j'ai capté, frère, j'insiste plus
+héééé...
+elle souriait dans l'tieks... mais en vrai elle était au sol
+j'lui ai mis trop d'seum... son cœur a mis les voiles
 
 [Outro]
 eyy... han...
 numéro inconnu... elle répond plus...
-ohhh-oh-oh...
 
 === STYLE PROMPT (champ Style Suno) ===
-french rap, melodic cloud rap, emotional romantic melancholic, trap beat, deep 808 bass, soft hi-hats, deep raspy male verses with melodic sung chorus, autotune, spacious, slow laid-back flow, half-time 130 BPM
+french rap, melodic cloud rap, emotional street melancholic, trap beat, deep 808 bass, soft hi-hats, deep raspy male verses with melodic sung chorus, autotune, spacious, slow laid-back flow, half-time 130 BPM
 
 === EXCLUDE STYLES ===
 EDM, electro, house, future bass, synthwave, dance
-
-=== NOTE PROD ===
-Le "numéro inconnu" robotique + "bip bip" en intro : ajoute-les en post (CapCut) = SFX tonalité + voix TTS "numéro inconnu". Suno les sort pas proprement.

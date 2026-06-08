@@ -1,67 +1,60 @@
-# RODT — NUMÉRO INCONNU (schéma Willy + images niveau Sofiane)
+# RODT — NUMÉRO INCONNU (niveau Taoko : wordplay central + vocalises mélodiques)
 
-Hook = schéma Willy (avant/après, mantra, sticky, vocalises).
-Écriture = procédés "Elle était Belle" : comparaisons paradoxales (belle comme...), anaphore (plus.../plus...),
-sensations concrètes, antithèses. Parle aux meufs (glow-up, valorisation). Cloud planant RODT.
+Inspiration de niveau (Taoko KO) : hook sur UN wordplay (eux: chaos/KO + boxe) + vocalises chantées "ouuhh ahaaa".
+NOTRE wordplay (pas copié) : "sonné" (le tél SONNE + être SONNÉ = KO) + champ boxe/téléphone, sur le concept numéro inconnu.
+Heartbreak émotionnel (parle aux meufs). Cloud planant RODT, autotune mélodique.
 
 === PAROLES (champ Lyrics Suno) ===
 
 [Intro]
-eyy... han...
-ohhh-oh-oh...
+ouuhh... ahaaa...
+(numéro inconnu...)
 
-[Hook]
-belle comme un dernier soir... fragile comme un château d'sable
-eyy...
-avant elle pleurait dans l'noir... maintenant elle brille, oui
-han...
-ils l'ont aimée à moitié... elle s'est r'construite en entier
-ohhh-oh-oh...
+[Hook: sung melodic, heavy autotune]
+elle était belle... mais dans ses bras c'est l'naufrage, ouuhh
+numéro inconnu... ça sonne mais j'reste sonné, ahaaa
+t'as coupé la ligne... t'as coupé mes ailes aussi, ouuhh
+j'décroche plus personne... depuis qu'tu m'as laissé K.O
 
-[Verse 1]
-elle avait l'sourire de celles... qui pleurent quand la porte se ferme
-hannn...
-plus on lui prenait... plus elle apprenait à donner
-héééé...
-belle comme une bougie... qui s'éteint pour réchauffer
-elle aimait à en mourir... eux, ils jouaient à s'aimer
+[Verse 1: spoken-sung]
+elle avait l'sourire d'un été... mais le cœur en décembre
+ouuhh...
+belle comme une sirène... ça brille et ça t'emmène
+ahaaa...
+j'voulais capter son réseau... elle m'a mis sur messagerie
+elle m'a sonné, j'suis tombé... l'arbitre a compté jusqu'à trois
 
-[Hook]
-belle comme un dernier soir... fragile comme un château d'sable
-eyy...
-avant elle pleurait dans l'noir... maintenant elle brille, oui
-han...
-ils l'ont aimée à moitié... elle s'est r'construite en entier
-ohhh-oh-oh...
+[Hook: sung melodic, heavy autotune]
+elle était belle... mais dans ses bras c'est l'naufrage, ouuhh
+numéro inconnu... ça sonne mais j'reste sonné, ahaaa
+t'as coupé la ligne... t'as coupé mes ailes aussi, ouuhh
+j'décroche plus personne... depuis qu'tu m'as laissé K.O
 
-[Verse 2]
-elle a fait d'ses blessures... une armure et une couronne
-hannn...
-numéro inconnu... elle répond plus aux hommes qui mentent
-héééé...
-belle comme un lever d'soleil... sur un quartier qui dort encore
-celui qui l'a laissée partir... a perdu plus qu'un trésor
+[Verse 2: spoken-sung]
+numéro inconnu... j'appelle, ça tourne dans l'vide
+ouuhh...
+elle a changé d'numéro... comme on change de camp
+ahaaa...
+belle comme un dernier round... j'ai tout donné, rien gardé
+elle m'a achevé d'un silence... même pas besoin d'me frapper
 
 [Bridge]
-eyy... ahhh...
-elle brille... elle brille...
-celle qu'on a cru fragile... a survécu à l'orage
+ouuhh... ahaaa...
+elle m'a mis K.O... d'un seul "au revoir"
+sonné... sonné...
 
-[Hook]
-belle comme un dernier soir... fragile comme un château d'sable
-eyy...
-avant elle pleurait dans l'noir... maintenant elle brille, oui
-han...
-ils l'ont aimée à moitié... elle s'est r'construite en entier
-ohhh-oh-oh...
+[Hook: sung melodic, heavy autotune]
+elle était belle... mais dans ses bras c'est l'naufrage, ouuhh
+numéro inconnu... ça sonne mais j'reste sonné, ahaaa
+t'as coupé la ligne... t'as coupé mes ailes aussi, ouuhh
+j'décroche plus personne... depuis qu'tu m'as laissé K.O
 
 [Outro]
-eyy... han...
-maintenant elle brille... oui...
-ohhh-oh-oh...
+ouuhh... ahaaa...
+numéro inconnu... j'reste sonné...
 
 === STYLE PROMPT (champ Style Suno) ===
-french rap, melodic cloud rap, emotional romantic, tender melancholic, trap beat, deep 808 bass, soft hi-hats, deep warm male voice with melodic sung chorus, autotune, spacious, slow laid-back, half-time 125 BPM
+french melodic rap, cloud rap, emotional heartbreak, heavy melodic autotune, melodic vocal runs, deep warm male voice, trap beat, deep 808 bass, soft hi-hats, spacious, slow laid-back, half-time 125 BPM
 
 === EXCLUDE STYLES ===
 EDM, electro, house, future bass, synthwave, dance

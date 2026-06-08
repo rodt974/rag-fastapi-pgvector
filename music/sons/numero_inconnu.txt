@@ -1,8 +1,7 @@
-# RODT — NUMÉRO INCONNU (version qui parle aux meufs)
+# RODT — NUMÉRO INCONNU (schéma Willy + parle aux meufs)
 
-Cible : public féminin. On s'adresse À ELLE, on la valorise, on comprend sa douleur.
-Le genre de son qu'elles repartagent. Langage simple/sincère (pas d'argot lourd), émotionnel.
-Concept numéro inconnu en fil léger (il est devenu l'inconnu qu'elle voit plus). Cloud planant RODT.
+Schéma hook = formule Willylancien : phrase-mantra répétée, contraste AVANT/APRÈS, mot sticky ("brille"/"oui"), vocalises.
+Contenu = parle aux meufs : on la valorise, glow-up (avant brisée / maintenant reine). Cloud planant RODT.
 
 === PAROLES (champ Lyrics Suno) ===
 
@@ -10,54 +9,54 @@ Concept numéro inconnu en fil léger (il est devenu l'inconnu qu'elle voit plus
 eyy... han...
 ohhh-oh-oh...
 
-[Hook: sung melodic, emotional]
-toi... t'as donné ton cœur... ils l'ont brisé en mille
+[Hook]
+avant elle pleurait dans l'noir... maintenant elle brille, oui
 eyy...
-toi... tu mérites un roi... pas ceux qui jouent et qui filent
+ils ont brisé son cœur... maintenant c'est elle la reine, oui
 han...
-relève la tête, princesse... ton sourire vaut de l'or
-celui qui t'a fait pleurer... un jour, crois-moi, il regrettera
+avant elle pleurait dans l'noir... maintenant elle brille, oui
+ohhh-oh-oh...
 
-[Verse 1: soft sung-rap]
-t'as grandi trop vite... t'as séché tes larmes seule
+[Verse 1]
+elle a donné son cœur... ils l'ont pris pour un jeu
 hannn...
-t'as appris à donner... sans rien recevoir en retour
+elle a séché ses larmes... toute seule, sans personne, eyy
 héééé...
-ils ont vu ta beauté... jamais vu ton vrai cœur
-toi t'aimais pour de vrai... eux ils jouaient un rôle
+mais regarde-la aujourd'hui... plus belle qu'avant, debout
+celui qui l'a fait pleurer... aujourd'hui il s'en mord les doigts
 
-[Hook: sung melodic, emotional]
-toi... t'as donné ton cœur... ils l'ont brisé en mille
+[Hook]
+avant elle pleurait dans l'noir... maintenant elle brille, oui
 eyy...
-toi... tu mérites un roi... pas ceux qui jouent et qui filent
+ils ont brisé son cœur... maintenant c'est elle la reine, oui
 han...
-relève la tête, princesse... ton sourire vaut de l'or
-celui qui t'a fait pleurer... un jour, crois-moi, il regrettera
+avant elle pleurait dans l'noir... maintenant elle brille, oui
+ohhh-oh-oh...
 
-[Verse 2: soft sung-rap]
-si tu m'lis, numéro inconnu... sache que t'es une reine
+[Verse 2]
+avant elle doutait d'elle... maintenant elle sait c'qu'elle vaut
 hannn...
-celui qui t'méritera... t'fera plus jamais d'la peine
+numéro inconnu... elle répond plus aux faux, eyy
 héééé...
-arrête de douter d'toi... c'est eux l'problème, c'est pas toi
-un cœur comme le tien... ça s'trouve qu'une fois, crois-moi
+elle s'est r'construite seule... pierre par pierre, sans bruit
+la plus belle des guerrières... c'est elle, crois-moi, oui
 
 [Bridge]
 eyy... ahhh...
-essuie tes larmes...
-la plus belle des guerrières... c'est toi
+elle brille... elle brille...
+ils l'ont cru au sol... elle s'est r'levée, reine
 
-[Hook: sung melodic, emotional]
-toi... t'as donné ton cœur... ils l'ont brisé en mille
+[Hook]
+avant elle pleurait dans l'noir... maintenant elle brille, oui
 eyy...
-toi... tu mérites un roi... pas ceux qui jouent et qui filent
+ils ont brisé son cœur... maintenant c'est elle la reine, oui
 han...
-relève la tête, princesse... ton sourire vaut de l'or
-celui qui t'a fait pleurer... un jour, crois-moi, il regrettera
+avant elle pleurait dans l'noir... maintenant elle brille, oui
+ohhh-oh-oh...
 
 [Outro]
 eyy... han...
-relève la tête... princesse...
+maintenant elle brille... oui...
 ohhh-oh-oh...
 
 === STYLE PROMPT (champ Style Suno) ===

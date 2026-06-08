@@ -1,0 +1,281 @@
+{
+  "module": "couplets",
+  "langue_finale": "fr",
+  "entrees": [
+    {
+      "id": "coup-051",
+      "adaptation_fr": "La nuit avant le concert je ne dormais jamais — juste tournais\nLe plafond blanc comme une page blanche qui attendait que je revienne\nMille scénarios d'échec traversaient la chambre d'hôtel morose\nJe comptais les sorties de secours — habitude d'une vie qui dose\nPuis je montais sur scène et tout se taisait d'un coup dans la tête\nLa musique prenait la relève, le corps obéissait à la fête\nJe comprenais dans ces secondes que j'avais trouvé mon espace\nCelui où les peurs se taisent et où le vrai prend sa place\nLa scène n'est pas un terrain de jeu, c'est un autel personnel\nJ'y dépose ce que je suis — chaque soir — sans protocole",
+      "theme": ["scène", "trac", "performance", "vocation"],
+      "ton": "intense, libérateur",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["tournais/revienne", "morose/dose", "tête/fête", "espace/place", "personnel/protocole"],
+      "note_usage": "90–100 BPM, instru dynamique avec build. Couplet sur l'expérience scénique. Idéal en titre de live ou en intro de concert."
+    },
+    {
+      "id": "coup-052",
+      "adaptation_fr": "Le mensonge le plus dangereux n'est pas celui des autres — c'est le tien\nCelui que tu te racontes à trois heures du matin pour tenir\nQue ça va, que c'est temporaire, que tu choisis librement\nQue tu contrôles la descente — mensonge doux, mensonge clément\nJ'ai menti à mes proches mais j'ai d'abord menti à mon miroir\nJe souriais à mon reflet pour pas qu'il voie le couloir\nDans lequel je glissais — lentement, sans bruit, sans témoins\nLa chute douce est la plus difficile à arrêter — c'est son dessin\nJe m'en suis sorti parce qu'un ami a nommé ce que je cachais\nNommer les choses les rend réelles — et ce qui est réel peut être changé",
+      "theme": ["déni", "vérité", "amitié salvatrice"],
+      "ton": "sombre, lucide",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["tien/tenir", "librement/clément", "miroir/couloir", "témoins/dessin", "cachais/changé"],
+      "note_usage": "70–80 BPM, boom bap introspectif. Couplet sur le mensonge à soi-même. Fort en track sur les addictions ou les crises psychologiques."
+    },
+    {
+      "id": "coup-053",
+      "adaptation_fr": "Mon pays natal est une carte postale que j'envoie à personne\nUne image de plages et de couleurs qui cache les dessous des colonnes\nLa beauté d'un pays peut être une prison dorée\nUn paradis pour les touristes, un labyrinthe pour ceux qui y sont nés\nJ'ai quitté pour pouvoir revenir les yeux différents\nPour aimer ce que je n'arrivais plus à voir de trop près — un tremblement\nL'exil m'a donné la distance et la distance m'a donné la clarté\nJe vois maintenant ce que je n'aimais pas et ce que j'ai adoré\nLe pays natal n'est pas un lieu, c'est une relation\nComme tout amour profond — difficile, formateur, plein de contradictions",
+      "theme": ["pays natal", "nostalgie", "exil", "identité"],
+      "ton": "contemplatif, ambigu",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["personne/colonnes", "dorée/nés", "différents/tremblement", "clarté/adoré", "relation/contradictions"],
+      "note_usage": "70–80 BPM, afro-beat ou world rap. Couplet sur le rapport complexe au pays d'origine. Fort pour un artiste de la diaspora."
+    },
+    {
+      "id": "coup-054",
+      "adaptation_fr": "J'ai vu la mort de près un soir de printemps sans fleurs\nUne voiture, un virage, un silence qui dure\nLe temps s'est suspendu comme une phrase inachevée dans l'air froid\nEt dans ce blanc j'ai vu ce que j'avais pas dit, pas osé, pas cru\nLes visages des gens que j'aimais sans le dire assez fort\nLes mots que j'avais gardés dans la poche parce que l'heure semblait courte\nJe suis sorti de cette voiture différent — pas guéri, pas sage non plus\nJuste conscient que le temps n'est pas un donné, que c'est un dû\nDepuis ce soir-là je dis les choses en face, sans garder pour plus tard\nParce que le plus tard peut ne jamais venir — c'est le seul regard",
+      "theme": ["mort frôlée", "urgence de vivre", "parole"],
+      "ton": "intense, révélateur",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["fleurs/dure", "froid/cru", "fort/courte", "plus/dû", "tard/regard"],
+      "note_usage": "75–85 BPM, instru cinematique. Couplet de near-death experience. Puissant en ouverture d'album ou en track solo introductive."
+    },
+    {
+      "id": "coup-055",
+      "adaptation_fr": "On m'a volé mon enfance dans un immeuble de treize étages\nPas d'un coup — lentement, à petites doses, au fil des âges\nLa violence ordinaire est la plus difficile à nommer\nParce qu'elle n'a pas de visage clair, juste une atmosphère\nJ'ai grandi dans un endroit où la peur était l'air conditionné\nOù tu respirais l'anxiété comme une donnée\nJe ne savais pas que c'était pas normal jusqu'à vingt-cinq ans\nQuand un psy m'a dit : ce que tu décris, c'est pas toi — c'est l'endroit qui t'appartient\nCe mot-là a tout changé — pas libéré, mais éclairé\nJe suis pas abîmé, je suis le produit de ce qu'on m'a donné",
+      "theme": ["trauma", "enfance", "thérapie", "résilience"],
+      "ton": "sombre, libérateur",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["étages/âges", "nommer/atmosphère", "conditionné/donnée", "ans/appartient", "éclairé/donné"],
+      "note_usage": "70–80 BPM, boom bap thérapeutique. Couplet sur le trauma d'enfance et sa reconnaissance tardive. Rare et courageux en rap FR."
+    },
+    {
+      "id": "coup-056",
+      "adaptation_fr": "La loyauté est un mot que tout le monde prononce et personne ne tient\nComme un serment écrit sur du sable — beau jusqu'à la première vague qui vient\nJ'ai juré sur ma vie, on a juré sur nos vies, les mains serrées sous la lune\nEt la lune a tourné, les mains se sont desserrées, une par une\nJe ne cherche plus à qui donner la faute — elle est partagée\nEntre celui qui a craqué et celui qui avait trop demandé\nLa loyauté absolue est une utopie que les humains ne peuvent pas tenir\nMais l'intention de tenir — ça, c'est réel, et ça suffit pour bâtir\nJe reconstruis avec ceux qui trébuchent mais qui se relèvent face à moi\nC'est ça la vraie loyauté — pas la perfection, juste l'effort de la foi",
+      "theme": ["loyauté", "amitié", "trahison partiellement pardonnée"],
+      "ton": "sage, nuancé",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["tient/vient", "lune/une", "partagée/demandé", "tenir/bâtir", "moi/foi"],
+      "note_usage": "75–85 BPM, boom bap réflexif. Couplet nuancé sur la loyauté — ni idéaliste ni cynique. Mature et rare."
+    },
+    {
+      "id": "coup-057",
+      "adaptation_fr": "Je viens d'une lignée de gens qui ont construit sans jamais posséder\nDes mains qui ont bâti des villes dans lesquelles ils ne pouvaient pas entrer\nMon arrière-grand-père creusait des routes pour des voitures qui ne s'arrêtaient pas\nMa grand-mère lavait des maisons dans lesquelles sa famille ne dormait pas\nJe porte cette histoire dans les os, pas comme un fardeau mais comme une fondation\nElles m'ont précédé, leurs luttes sont ma langue, ma nation\nAujourd'hui je marche sur des pavés qu'ils ont posés sans en réclamer la gloire\nJe les appelle dans chaque concert — c'est leur victoire\nL'héritage n'est pas une dette à rembourser, c'est un flambeau\nJe cours avec, je passe à mes enfants — c'est la seule beau",
+      "theme": ["héritage", "ancêtres", "mémoire familiale"],
+      "ton": "solennel, fier",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["posséder/entrer", "pas/pas", "fondation/nation", "gloire/victoire", "flambeau/beau"],
+      "note_usage": "75–85 BPM, boom bap avec samples africains ou orientaux. Couplet sur la lignée et l'héritage. Fort en titre d'hommage générationnel."
+    },
+    {
+      "id": "coup-058",
+      "adaptation_fr": "Le succès est une fenêtre qu'on t'ouvre une seule fois généralement\nSi tu la ratas, elle ne repasse pas deux fois — c'est uniquement\nJ'ai failli la rater à cause d'un orgueil qui prenait de la place\nQui refusait les compromis nécessaires, faisait la grimace\nJ'ai appris à différencier les compromis qui grandissent\nDe ceux qui diminuent — et à choisir ceux qui font les promesses\nL'industrie est une machine avec ses règles et ses biais \nMais les machines ont des failles et les failles sont des essais\nJ'ai trouvé ma faille, je m'y suis glissé sans permission\nEt de l'autre côté il y avait de l'espace pour ma version",
+      "theme": ["industrie musicale", "compromis", "stratégie", "succès"],
+      "ton": "froid, stratégique",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["généralement/uniquement", "place/grimace", "grandissent/promesses", "biais/essais", "permission/version"],
+      "note_usage": "90–100 BPM, trap ou boom bap tendu. Couplet sur la navigation dans l'industrie musicale. Honnête et stratégique."
+    },
+    {
+      "id": "coup-059",
+      "adaptation_fr": "J'ai chanté dans des caves où la condensation tombait sur les câbles\nOù le public était six personnes et deux chiens sur des tables\nJ'ai chanté sans cachet, sans transport, parfois sans manger après\nParce que la musique ne demande pas si t'as mangé — elle demande juste si t'es prêt\nCes soirs-là m'ont appris plus que tous les succès qui ont suivi\nLa connexion brute entre une voix et six paires d'oreilles — c'est la vie\nSans filtres, sans éclairages, sans ingé son qui compense\nJuste toi et ta sincérité dans un espace qui récompense\nJe retourne parfois dans ces caves en imagination\nPour me souvenir de ce que c'était avant le bruit — ma fondation",
+      "theme": ["début de carrière", "authenticité", "scènes underground"],
+      "ton": "nostalgique, reconnaissant",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["câbles/tables", "après/prêt", "suivi/vie", "compense/récompense", "imagination/fondation"],
+      "note_usage": "80–90 BPM, boom bap chaleureux. Couplet sur les débuts underground. Fort en milieu de projet ou en texte de gratitude."
+    },
+    {
+      "id": "coup-060",
+      "adaptation_fr": "Le racisme n'est pas toujours un cri ou un coup ou un crachat\nParfois c'est un silence bien placé, une porte un peu pas\nUn sourire de trop qui te dit qu'on est surpris par ton langage\nUn CV retourné pour un prénom d'un autre âge\nJ'ai appris à décoder ces micro-signaux sans perdre du temps à douter\nÀ ne pas gaslighter ma propre expérience pour rassurer\nJe sais ce que j'ai vécu — personne ne me l'enlève en le renommant\nLa violence subtile est une violence — un traitement\nJe ne crie pas ma couleur, je la vis — c'est déjà du travail\nJe demande juste qu'on lise mon nom avant de lire mon détail",
+      "theme": ["racisme ordinaire", "microagressions", "dignité"],
+      "ton": "calme, déterminé",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["crachat/pas", "langage/âge", "douter/rassurer", "renommant/traitement", "travail/détail"],
+      "note_usage": "80–90 BPM, boom bap conscient. Couplet sur le racisme institutionnel subtil. Précis et fort, éviter la caricature."
+    },
+    {
+      "id": "coup-061",
+      "adaptation_fr": "Je me souviens de la première fois où j'ai vu quelqu'un qui me ressemblait à la télé\nQui parlait comme moi, qui venait d'où je venais — j'ai pleuré\nDes larmes que j'aurais pas su expliquer alors — la reconnaissance\nL'existence prouvée par le reflet — c'est une renaissance\nLa représentation n'est pas un luxe, c'est une nécessité biologique\nLes enfants ont besoin de se voir pour imaginer leur mythologie\nJ'écris pour le gamin de douze ans qui cherche son nom dans les lyrics\nQui se demande si quelqu'un comme lui peut franchir les barrières et les trics\nJe suis pas un modèle, je suis un miroir qui marche\nEt dans ce miroir il peut se voir grand — c'est pour ça que je cherche",
+      "theme": ["représentation", "identité", "jeunesse", "modèle"],
+      "ton": "solennel, généreux",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["télé/pleuré", "reconnaissance/renaissance", "biologique/mythologie", "lyrics/trics", "cherche/marche"],
+      "note_usage": "75–85 BPM, boom bap conscient. Couplet sur la représentation culturelle. Idéal pour un artiste issu d'une minorité visible."
+    },
+    {
+      "id": "coup-062",
+      "adaptation_fr": "J'ai arrêté de courir après l'approbation des gens un matin de novembre\nJ'ai posé le besoin sur la table comme on pose une valise — c'était encombre\nLa validation externe est une addiction propre et socialement acceptée\nMais elle te vide autant que les autres, de manière plus discrète\nJ'ai passé des années à écrire pour être compris, aimé, respecté\nJusqu'au jour où j'ai compris que le seul regard qui compte est le premier\nCelui de moi devant ma feuille avant que les autres existent\nLà où je décide si c'est bien ou pas — sans liste\nAujourd'hui j'écris pour moi d'abord, le reste suit ou ne suit pas\nLa liberté de l'artiste commence là — dans ce premier regard à toi",
+      "theme": ["validation externe", "liberté créative", "ego"],
+      "ton": "libérateur, lucide",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["novembre/encombre", "acceptée/discrète", "respecté/premier", "liste/existent", "pas/toi"],
+      "note_usage": "80–90 BPM, boom bap introspectif. Couplet sur la libération du regard des autres. Fort en pivot de carrière ou après une période de critique."
+    },
+    {
+      "id": "coup-063",
+      "adaptation_fr": "Le monde a essayé de me mettre dans des cases trop petites pour mon nom\nJ'ai refusé — les cases laissent des marques dans les os, dans le fond\nOn m'a dit choisir : artiste ou père, accessible ou difficile\nComme si l'existence humaine était un formulaire à cochets fragile\nJe suis tout ça en même temps et simultanément\nLe père qui doute et l'artiste qui persiste et l'homme qui apprend lentement\nLa complexité n'est pas un défaut de fabrication\nC'est la preuve que j'existe en dehors de leur narration\nJe suis la somme de mes contradictions, pas leur résolution\nEt cette somme-là ne rentre dans aucune case — c'est ma constitution",
+      "theme": ["identité multiple", "complexité", "liberté"],
+      "ton": "fier, affirmé",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["nom/fond", "difficile/fragile", "simultanément/lentement", "narration/fabrication", "résolution/constitution"],
+      "note_usage": "90–100 BPM, trap ou boom bap affirmé. Couplet sur le refus des cases identitaires. Fort en single ou en manifeste."
+    },
+    {
+      "id": "coup-064",
+      "adaptation_fr": "La vieillesse de mes parents est la chose la plus difficile que j'ai regardée\nLe dos qui se courbe là où il se tenait droit — une main posée\nLe nom des gens qui leur échappe, les yeux qui cherchent\nCeux qui ont tout porté cherchent à présent où poser leurs bras tendres\nMon père ne sait plus le nom du film qu'il regardait hier\nLui qui connaissait chaque rue, chaque visage, chaque frontière\nJe lui tiens la main maintenant comme il m'a tenu les mains\nL'amour fait des allers-retours — c'est lui, puis toi, puis lui demain\nJe ne suis pas prêt pour leur départ — personne n'est jamais prêt\nMais je les aime dans le présent, pleinement, tout ce qui est fait",
+      "theme": ["vieillesse des parents", "temps qui passe", "amour filial"],
+      "ton": "tendre, mélancolique",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["regardée/posée", "cherchent/tendres", "hier/frontière", "mains/demain", "prêt/fait"],
+      "note_usage": "60–70 BPM, instru douce et lente. Couplet sur le vieillissement des parents. Moment de rare tendresse dans un rap FR souvent viril."
+    },
+    {
+      "id": "coup-065",
+      "adaptation_fr": "Il était deux heures du matin quand le commissariat m'a appelé\nIls avaient mon numéro parce qu'on m'avait désigné — pas consulté\nJe suis arrivé avec une peur dans la gorge et une carte dans la poche\nJ'ai vu mon frère derrière une vitre, les yeux vides — une approche\nIl avait l'air d'un étranger dans son propre visage ce soir-là\nComme si la nuit avait effacé quelque chose qui ne reviendrait pas\nJ'ai signé les papiers sans comprendre, comme on signe tout en urgence\nEt dans la voiture du retour il n'a rien dit — une démergence\nCe silence entre nous dure encore, différent, mais là\nCertaines nuits changent les gens avant même l'aube — et c'est comme ça",
+      "theme": ["fratrie", "police", "nuit difficile", "silence"],
+      "ton": "sombre, réaliste",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["appelé/consulté", "poche/approche", "là/pas", "urgence/démergence", "là/ça"],
+      "note_usage": "75–85 BPM, boom bap tendu. Couplet narratif très cinématographique. Fort en track storytelling ou en titre semi-autobiographique."
+    },
+    {
+      "id": "coup-066",
+      "adaptation_fr": "Je réclame rien que la paix — pas l'oubli, juste la paix\nLa paix de dormir sans que le passé fasse ses effets\nLe passé est une ville qu'on peut quitter sans brûler les cartes\nOn laisse les rues derrière mais on garde la carte\nJ'ai compris que le pardon n'efface pas — il désarme\nIl enlève le couteau de la main sans enlever la larme\nJe ne suis plus en guerre avec ce qui a été — c'est fermé\nMais le dossier reste là dans ma bibliothèque, numéroté\nJe peux l'ouvrir et le refermer sans qu'il prenne le contrôle\nC'est ça la liberté — pas l'amnésie, juste le bon rôle",
+      "theme": ["pardon", "paix intérieure", "mémoire"],
+      "ton": "apaisé, sage",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["paix/effets", "cartes/carte", "désarme/larme", "fermé/numéroté", "contrôle/rôle"],
+      "note_usage": "65–75 BPM, instru contemplative. Couplet de réconciliation avec le passé. Fort en outro ou en track de clôture de projet."
+    },
+    {
+      "id": "coup-067",
+      "adaptation_fr": "La rue m'a appris à mentir avant de m'apprendre à parler vrai\nÀ construire des façades solides et des fondations en carton qui craignent\nJ'ai menti sur mes peurs, sur mes manques, sur mes larmes ravalées\nPour que personne ne cible la fissure dans l'armure gravée\nMais les mensonges empilés finissent par peser plus que le secret\nLa façade réclame un entretien constant — c'est un projet net\nUn matin j'ai arrêté de construire et j'ai laissé voir le chantier\nJ'ai été surpris que les gens restent — même face aux décombres entiers\nLa vérité demande du courage mais elle pèse rien à porter\nUn homme qui n'a rien à cacher peut marcher sans se surveiller",
+      "theme": ["mensonge", "vérité", "authenticité", "libération"],
+      "ton": "libérateur, honnête",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["vrai/craignent", "ravalées/gravée", "secret/net", "chantier/entiers", "porter/surveiller"],
+      "note_usage": "80–90 BPM, boom bap. Couplet sur la libération par la vérité. Fort en deuxième couplet d'un titre de confession artistique."
+    },
+    {
+      "id": "coup-068",
+      "adaptation_fr": "La mort de l'innocence n'a pas de date officielle dans les calendriers\nElle arrive sans prévenir pendant un récré ou derrière un pilier\nMoi c'était un été où quelque chose a changé dans le regard des hommes\nOù j'ai commencé à comprendre les conversations entre des tombes\nLe monde adulte s'est ouvert comme un gouffre sans fond visible\nEt j'y suis tombé lentement, dans le silence des choses lisibles\nJ'aurais voulu rester de l'autre côté encore quelques années\nMais les enfants des quartiers grandissent plus vite — c'est une nécessité\nJe porte encore en moi ce gamin qui voulait juste jouer\nJe lui fais une place dans mes textes — c'est tout ce que je peux donner",
+      "theme": ["enfance perdue", "maturité forcée", "nostalgie"],
+      "ton": "mélancolique, doux",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["calendriers/pilier", "hommes/tombes", "visible/lisibles", "nécessité/années", "jouer/donner"],
+      "note_usage": "65–75 BPM, boom bap nostalgique ou soul rap. Couplet sur la fin de l'enfance dans les quartiers. Touchant et universel."
+    },
+    {
+      "id": "coup-069",
+      "adaptation_fr": "On parle de liberté comme si elle était distribuée pareil à chacun\nComme un droit égal inscrit dans la chair de tous les humains\nMais la liberté a une adresse, un code, un passeport, un visage\nElle est plus libre selon la couleur et l'étage\nJ'ai connu la liberté surveillée — celle des quartiers caméras\nOù chaque mouvement est noté, classifié, dans les radars\nJe revendique la liberté de marcher sans être lu comme une menace\nDe sourire sans qu'on cherche à décoder la grimace\nCe n'est pas grand-chose — c'est l'essentiel humain\nEt pourtant pour certains c'est encore un combat de demain",
+      "theme": ["liberté", "inégalités", "surveillance", "droits"],
+      "ton": "politique, calme",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["chacun/humains", "visage/étage", "caméras/radars", "menace/grimace", "humain/demain"],
+      "note_usage": "85–95 BPM, boom bap conscient. Couplet politique sur la liberté différenciée. Précis, documenté, fort."
+    },
+    {
+      "id": "coup-070",
+      "adaptation_fr": "J'ai rencontré ma peur en face dans un miroir de vestiaire\nElle avait mon visage et mes yeux mais elle était plus claire\nJe lui ai demandé ce qu'elle voulait — elle voulait être reconnue\nPas combattue, pas niée — juste vue\nDepuis ce jour je l'emmène avec moi comme une co-pilote sobre\nElle m'avertit des précipices, elle connaît les bonnes octobre\nJe ne suis plus en guerre contre ce que je suis fait d'avoir peur\nLa peur bien gérée est une boussole, pas une blessure\nLes hommes qu'on appelle courageux ne sont pas ceux sans peur dedans\nCe sont ceux qui avancent avec la peur mais qui refusent son commandement",
+      "theme": ["peur", "courage", "développement personnel"],
+      "ton": "introspectif, fort",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["vestiaire/claire", "reconnue/vue", "sobre/octobre", "blessure/boussole", "dedans/commandement"],
+      "note_usage": "80–90 BPM, boom bap ou trap mid-tempo. Couplet philosophique sur la peur comme outil. Rare et efficace."
+    },
+    {
+      "id": "coup-071",
+      "adaptation_fr": "Le titre ne changera jamais ce que j'ai traversé pour l'avoir\nNi les claques à seize ans ni les nuits sans espoir à avoir\nJe viens de là-bas — et là-bas ne part pas avec le contrat signé\nIl reste dans la façon dont je tiens le micro, dans ce que j'ai gagné\nOn me dira que j'ai changé — oui, j'ai appris, j'ai évolué\nMais les valeurs du bas des tours ne se négocient pas, elles sont gravées\nLe succès n'est pas une trahison si tu gardes la source allumée\nSi tu tends la main en haut sans lâcher celle d'en bas — ainsi\nJe suis le même homme avec plus d'espace pour respirer\nNon pas élevé au-dessus de ma rue — élevé avec ma rue — c'est différencier",
+      "theme": ["succès", "origines", "fidélité à soi"],
+      "ton": "fier, ancré",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["avoir/avoir", "signé/gagné", "évolué/gravées", "allumée/ainsi", "respirer/différencier"],
+      "note_usage": "90–100 BPM, boom bap ou trap conscient. Couplet sur l'intégrité maintenue malgré le succès. Idéal en réponse aux accusations de trahison."
+    },
+    {
+      "id": "coup-072",
+      "adaptation_fr": "Dans chaque ville il y a une rue qui s'appelle la rue des Soupirs ou quelque chose comme ça\nOù les gens qui n'ont plus rien à perdre dorment assis dans des escaliers encombrés là\nJ'y ai marché un soir avec cent euros dans la poche et la honte\nDe ne pas savoir comment donner sans humilier la personne qui surmonte\nLa solidarité n'est pas un billet plié dans une main tendue\nC'est regarder les yeux, nommer la dignité — elle est là, elle a été vue\nJ'ai appris ce soir-là que l'aide la plus vraie commence par le regard\nAvant le geste, avant l'argent — regarder, sans décart\nNous sommes à une décision, une nuit, une fracture de cette rue\nCette conscience-là me garde humble et ne disparaît pas",
+      "theme": ["sans-abrisme", "solidarité", "dignité humaine"],
+      "ton": "humble, social",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["là/là", "surmonte/honte", "vue/tendue", "regard/décart", "rue/pas"],
+      "note_usage": "70–80 BPM, boom bap social. Couplet sur la pauvreté urbaine et la vraie solidarité. Fort en titre d'engagement ou en track collective."
+    },
+    {
+      "id": "coup-073",
+      "adaptation_fr": "Quand j'avais dix ans je voulais être invisible — pour survivre\nÀ vingt ans je voulais être vu — pour exister, pour vivre\nÀ trente ans j'ai compris que les deux ne s'excluent pas\nQu'on peut choisir quand être vu et quand ne pas être là\nLa visibilité est un pouvoir qu'on t'accorde ou qu'on te retire\nJ'ai appris à la reprendre, à choisir quand je veux instruire\nLe micro est un choix d'exposition calculée\nPas une nudité totale — une ouverture dosée\nJe partage ce que je veux, garde ce que je veux garder\nL'art n'impose pas tout — il offre ce qui peut libérer",
+      "theme": ["visibilité", "intimité", "choix artistique"],
+      "ton": "lucide, maîtrisé",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["survivre/vivre", "pas/là", "retirer/instruire", "calculée/dosée", "garder/libérer"],
+      "note_usage": "80–90 BPM, boom bap introspectif. Couplet sur la dialectique visibilité/intimité en tant qu'artiste public."
+    },
+    {
+      "id": "coup-074",
+      "adaptation_fr": "Le dernier soir avant que tout change je ne savais pas encore\nQue demain serait différent, que la vie allait prendre son essor\nJe dormais dans le même lit, sous la même fenêtre de toujours\nSans savoir que c'était la dernière nuit de mes anciens jours\nOn n'annonce pas les tournants — ils arrivent silencieux\nEt ce n'est qu'en regardant derrière qu'on voit le nœud\nJ'aurais voulu graver cette nuit ordinaire dans la mémoire\nManger plus lentement, écouter plus attentivement l'histoire\nLe présent est précieux précisément parce qu'on ne sait pas qu'il finit\nJe vis plus lentement depuis — chaque instant a du prix infini",
+      "theme": ["présent", "temps", "transition", "conscience"],
+      "ton": "contemplatif, sage",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["encore/essor", "toujours/jours", "silencieux/nœud", "mémoire/histoire", "finit/infini"],
+      "note_usage": "65–75 BPM, instru douce. Couplet de pleine conscience et de carpe diem. Fort en outro ou en position finale d'album."
+    },
+    {
+      "id": "coup-075",
+      "adaptation_fr": "Je ferme les yeux et je vois la cour du bas — les gosses, le bruit, le soleil bas\nLes vélos rouillés contre le mur, l'été qui s'étire dans les bras\nCette image m'accompagne partout comme une photo dans le portefeuille\nElle ne me rend pas triste — elle me rappelle d'où je cueille\nChaque mot que j'écris vient de cette cour, de cet asphalte chaud\nDe ces voix qui m'ont appris à rimer avant que je le sache, faut\nJe suis la synthèse de tout ce que cette cour m'a inculqué\nDes rires, des larmes, des règles non écrites, du tout parqué\nAujourd'hui je donne tout ça en musique à ceux qui y ressemblent\nPour qu'ils sachent que leur cour, elle aussi, peut résonner — elle assemble\nJe pose le micro un soir — mais je ne pose jamais la rue\nElle est gravée dans chaque syllabe que j'ai choisie, que j'ai vue",
+      "theme": ["rue", "enfance", "origines", "boucle"],
+      "ton": "nostalgique, triomphal, conclusif",
+      "type": "couplet",
+      "source": "original",
+      "droits": "original",
+      "rimes_fr": ["bas/bras", "portefeuille/cueille", "chaud/faut", "inculqué/parqué", "assemble/ressemblent", "rue/vue"],
+      "note_usage": "85–95 BPM, boom bap classique ou sample vinyle. Couplet de clôture d'album, thème de la boucle et du retour aux origines. 12 lignes pour un outro extended possible."
+    }
+  ]
+}

@@ -1,7 +1,8 @@
-# RODT — NUMÉRO INCONNU (schéma Willy + parle aux meufs)
+# RODT — NUMÉRO INCONNU (schéma Willy + images niveau Sofiane)
 
-Schéma hook = formule Willylancien : phrase-mantra répétée, contraste AVANT/APRÈS, mot sticky ("brille"/"oui"), vocalises.
-Contenu = parle aux meufs : on la valorise, glow-up (avant brisée / maintenant reine). Cloud planant RODT.
+Hook = schéma Willy (avant/après, mantra, sticky, vocalises).
+Écriture = procédés "Elle était Belle" : comparaisons paradoxales (belle comme...), anaphore (plus.../plus...),
+sensations concrètes, antithèses. Parle aux meufs (glow-up, valorisation). Cloud planant RODT.
 
 === PAROLES (champ Lyrics Suno) ===
 
@@ -10,48 +11,48 @@ eyy... han...
 ohhh-oh-oh...
 
 [Hook]
-avant elle pleurait dans l'noir... maintenant elle brille, oui
+belle comme un dernier soir... fragile comme un château d'sable
 eyy...
-ils ont brisé son cœur... maintenant c'est elle la reine, oui
-han...
 avant elle pleurait dans l'noir... maintenant elle brille, oui
+han...
+ils l'ont aimée à moitié... elle s'est r'construite en entier
 ohhh-oh-oh...
 
 [Verse 1]
-elle a donné son cœur... ils l'ont pris pour un jeu
+elle avait l'sourire de celles... qui pleurent quand la porte se ferme
 hannn...
-elle a séché ses larmes... toute seule, sans personne, eyy
+plus on lui prenait... plus elle apprenait à donner
 héééé...
-mais regarde-la aujourd'hui... plus belle qu'avant, debout
-celui qui l'a fait pleurer... aujourd'hui il s'en mord les doigts
+belle comme une bougie... qui s'éteint pour réchauffer
+elle aimait à en mourir... eux, ils jouaient à s'aimer
 
 [Hook]
-avant elle pleurait dans l'noir... maintenant elle brille, oui
+belle comme un dernier soir... fragile comme un château d'sable
 eyy...
-ils ont brisé son cœur... maintenant c'est elle la reine, oui
-han...
 avant elle pleurait dans l'noir... maintenant elle brille, oui
+han...
+ils l'ont aimée à moitié... elle s'est r'construite en entier
 ohhh-oh-oh...
 
 [Verse 2]
-avant elle doutait d'elle... maintenant elle sait c'qu'elle vaut
+elle a fait d'ses blessures... une armure et une couronne
 hannn...
-numéro inconnu... elle répond plus aux faux, eyy
+numéro inconnu... elle répond plus aux hommes qui mentent
 héééé...
-elle s'est r'construite seule... pierre par pierre, sans bruit
-la plus belle des guerrières... c'est elle, crois-moi, oui
+belle comme un lever d'soleil... sur un quartier qui dort encore
+celui qui l'a laissée partir... a perdu plus qu'un trésor
 
 [Bridge]
 eyy... ahhh...
 elle brille... elle brille...
-ils l'ont cru au sol... elle s'est r'levée, reine
+celle qu'on a cru fragile... a survécu à l'orage
 
 [Hook]
-avant elle pleurait dans l'noir... maintenant elle brille, oui
+belle comme un dernier soir... fragile comme un château d'sable
 eyy...
-ils ont brisé son cœur... maintenant c'est elle la reine, oui
-han...
 avant elle pleurait dans l'noir... maintenant elle brille, oui
+han...
+ils l'ont aimée à moitié... elle s'est r'construite en entier
 ohhh-oh-oh...
 
 [Outro]

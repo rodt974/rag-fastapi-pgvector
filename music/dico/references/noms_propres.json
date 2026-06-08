@@ -1,0 +1,4080 @@
+{
+  "module": "references",
+  "langue_finale": "fr",
+  "entrees": [
+    {
+      "id": "ref-001",
+      "texte": "Icare",
+      "langue": "fr",
+      "traduction_fr": "celui qui vola trop près du soleil",
+      "adaptation_fr": "J'ai des ailes d'Icare mais j'ai cramé le ciel",
+      "theme": [
+        "ambition",
+        "mort",
+        "douleur"
+      ],
+      "ton": "épique",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "soleil",
+        "sommeil",
+        "réveil"
+      ],
+      "note_usage": "évoque l'ambition qui mène à la chute"
+    },
+    {
+      "id": "ref-002",
+      "texte": "Achille",
+      "langue": "fr",
+      "traduction_fr": "le guerrier invincible mais vulnérable",
+      "adaptation_fr": "J'suis l'Achille du game, cherche mon talon avant d'me défier",
+      "theme": [
+        "ego",
+        "ambition",
+        "douleur"
+      ],
+      "ton": "épique",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ville",
+        "tranquille",
+        "péril"
+      ],
+      "note_usage": "évoque la force avec une faiblesse cachée"
+    },
+    {
+      "id": "ref-003",
+      "texte": "Sisyphe",
+      "langue": "fr",
+      "traduction_fr": "condamné à recommencer éternellement",
+      "adaptation_fr": "Ma vie c'est Sisyphe, je pousse ce rocher sans jamais m'arrêter",
+      "theme": [
+        "galere",
+        "douleur",
+        "nostalgie"
+      ],
+      "ton": "mélancolique",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "rife",
+        "strife",
+        "vie"
+      ],
+      "note_usage": "évoque l'effort répété sans récompense"
+    },
+    {
+      "id": "ref-004",
+      "texte": "Zeus",
+      "langue": "fr",
+      "traduction_fr": "le maître du tonnerre, souverain absolu",
+      "adaptation_fr": "Dans cette rue je règne comme Zeus sur l'Olympe",
+      "theme": [
+        "ego",
+        "ambition",
+        "rue"
+      ],
+      "ton": "dominant",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "deux",
+        "eux",
+        "feux"
+      ],
+      "note_usage": "symbole du pouvoir suprême"
+    },
+    {
+      "id": "ref-005",
+      "texte": "Méduse",
+      "langue": "fr",
+      "traduction_fr": "celle qui pétrifie d'un regard",
+      "adaptation_fr": "Mon regard comme Méduse, je pétrifie les ennemis",
+      "theme": [
+        "ego",
+        "vengeance",
+        "rue"
+      ],
+      "ton": "menaçant",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ruse",
+        "fuse",
+        "excuse"
+      ],
+      "note_usage": "évoque un regard ou une présence paralysante"
+    },
+    {
+      "id": "ref-006",
+      "texte": "Prométhée",
+      "langue": "fr",
+      "traduction_fr": "celui qui vola le feu aux dieux et souffrit",
+      "adaptation_fr": "Comme Prométhée j'ai volé le feu, maintenant l'aigle me ronge",
+      "theme": [
+        "ambition",
+        "douleur",
+        "revolte"
+      ],
+      "ton": "tragique",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "fée",
+        "défié",
+        "sacrifié"
+      ],
+      "note_usage": "évoque le sacrifice pour apporter la lumière aux autres"
+    },
+    {
+      "id": "ref-007",
+      "texte": "Hadès",
+      "langue": "fr",
+      "traduction_fr": "le dieu des enfers, seigneur des morts",
+      "adaptation_fr": "Dans ces rues sombres je marche comme Hadès entre les ombres",
+      "theme": [
+        "mort",
+        "rue",
+        "douleur"
+      ],
+      "ton": "sombre",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ès",
+        "paix",
+        "jamais"
+      ],
+      "note_usage": "évoque le monde souterrain, la mort, le règne des ombres"
+    },
+    {
+      "id": "ref-008",
+      "texte": "Médée",
+      "langue": "fr",
+      "traduction_fr": "la sorcière trahie qui se venge sans pitié",
+      "adaptation_fr": "Tu m'as trahi comme Jason, j'ai l'âme de Médée maintenant",
+      "theme": [
+        "trahison",
+        "vengeance",
+        "douleur"
+      ],
+      "ton": "tragique",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "idée",
+        "cité",
+        "pitié"
+      ],
+      "note_usage": "évoque la vengeance absolue née de la trahison"
+    },
+    {
+      "id": "ref-009",
+      "texte": "Cerbère",
+      "langue": "fr",
+      "traduction_fr": "le chien à trois têtes gardien des enfers",
+      "adaptation_fr": "Je garde ce quartier comme Cerbère, personne ne passe sans mon accord",
+      "theme": [
+        "rue",
+        "mort",
+        "ego"
+      ],
+      "ton": "menaçant",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "père",
+        "terre",
+        "guerre"
+      ],
+      "note_usage": "évoque le gardien implacable d'un territoire"
+    },
+    {
+      "id": "ref-010",
+      "texte": "Narcisse",
+      "langue": "fr",
+      "traduction_fr": "amoureux de sa propre image jusqu'à la mort",
+      "adaptation_fr": "T'es comme Narcisse, tu t'noies dans ton propre reflet",
+      "theme": [
+        "ego",
+        "seduction",
+        "mort"
+      ],
+      "ton": "ironique",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "lisse",
+        "caprice",
+        "justice"
+      ],
+      "note_usage": "critique de l'égocentrisme excessif"
+    },
+    {
+      "id": "ref-011",
+      "texte": "Orphée",
+      "langue": "fr",
+      "traduction_fr": "celui qui descendit aux enfers par amour",
+      "adaptation_fr": "J'irais comme Orphée jusqu'en enfer pour te ramener",
+      "theme": [
+        "amour",
+        "deuil",
+        "douleur"
+      ],
+      "ton": "romantique",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "fée",
+        "défié",
+        "allée"
+      ],
+      "note_usage": "évoque l'amour absolu qui transcende la mort"
+    },
+    {
+      "id": "ref-012",
+      "texte": "Ulysse",
+      "langue": "fr",
+      "traduction_fr": "le voyageur qui erre dix ans pour rentrer chez lui",
+      "adaptation_fr": "Dix ans d'errance, je me sens comme Ulysse sans Ithaque",
+      "theme": [
+        "exil",
+        "nostalgie",
+        "famille"
+      ],
+      "ton": "mélancolique",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "lisse",
+        "coulisse",
+        "malice"
+      ],
+      "note_usage": "évoque l'exil long et le désir de retour aux sources"
+    },
+    {
+      "id": "ref-013",
+      "texte": "Arès",
+      "langue": "fr",
+      "traduction_fr": "le dieu de la guerre, violence et fureur",
+      "adaptation_fr": "J'entre en scène comme Arès, la guerre c'est mon domaine",
+      "theme": [
+        "rue",
+        "revolte",
+        "ego"
+      ],
+      "ton": "agressif",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "paix",
+        "jamais",
+        "frais"
+      ],
+      "note_usage": "évoque la fureur guerrière et l'instinct de combat"
+    },
+    {
+      "id": "ref-014",
+      "texte": "Athéna",
+      "langue": "fr",
+      "traduction_fr": "déesse de la sagesse et de la stratégie",
+      "adaptation_fr": "Moi je joue comme Athéna, chaque move calculé au millimètre",
+      "theme": [
+        "ambition",
+        "ego",
+        "revolte"
+      ],
+      "ton": "stratégique",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ça",
+        "déjà",
+        "là"
+      ],
+      "note_usage": "évoque la sagesse tactique et la stratégie gagnante"
+    },
+    {
+      "id": "ref-015",
+      "texte": "Poséidon",
+      "langue": "fr",
+      "traduction_fr": "maître des océans et des tempêtes",
+      "adaptation_fr": "Je déchaîne les flots comme Poséidon, ce son c'est un raz-de-marée",
+      "theme": [
+        "ego",
+        "ambition",
+        "fete"
+      ],
+      "ton": "épique",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "don",
+        "maison",
+        "raison"
+      ],
+      "note_usage": "évoque une force dévastatrice et incontrôlable"
+    },
+    {
+      "id": "ref-016",
+      "texte": "Héphaïstos",
+      "langue": "fr",
+      "traduction_fr": "le forgeron des dieux, artisan du divin",
+      "adaptation_fr": "Dans mon studio je suis Héphaïstos, je forge des armes qui tuent",
+      "theme": [
+        "ambition",
+        "ego",
+        "rue"
+      ],
+      "ton": "artisanal",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "cost",
+        "boost",
+        "lost"
+      ],
+      "note_usage": "évoque la création de quelque chose de puissant"
+    },
+    {
+      "id": "ref-017",
+      "texte": "Hercule",
+      "langue": "fr",
+      "traduction_fr": "le demi-dieu aux douze travaux impossibles",
+      "adaptation_fr": "Mes douze travaux sont les rues, je sors du lot comme Hercule",
+      "theme": [
+        "galere",
+        "ambition",
+        "ego"
+      ],
+      "ton": "épique",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "cule",
+        "calcule",
+        "recule"
+      ],
+      "note_usage": "évoque la force surhumaine et les épreuves surmontées"
+    },
+    {
+      "id": "ref-018",
+      "texte": "Œdipe",
+      "langue": "fr",
+      "traduction_fr": "celui qui accomplit son destin malgré lui",
+      "adaptation_fr": "Comme Œdipe j'ai fui le destin, c'est lui qui m'a rattrapé",
+      "theme": [
+        "douleur",
+        "famille",
+        "nostalgie"
+      ],
+      "ton": "tragique",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "pipe",
+        "type",
+        "stripe"
+      ],
+      "note_usage": "évoque le destin inévitable qui se réalise"
+    },
+    {
+      "id": "ref-019",
+      "texte": "Tantale",
+      "langue": "fr",
+      "traduction_fr": "supplicié par ce qu'il ne peut pas atteindre",
+      "adaptation_fr": "Le succès à portée de main mais comme Tantale je n'y touche pas",
+      "theme": [
+        "galere",
+        "douleur",
+        "ambition"
+      ],
+      "ton": "mélancolique",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "tale",
+        "rale",
+        "scandale"
+      ],
+      "note_usage": "évoque la frustration d'avoir presque tout et de ne rien obtenir"
+    },
+    {
+      "id": "ref-020",
+      "texte": "Pandore",
+      "langue": "fr",
+      "traduction_fr": "celle qui libéra tous les maux du monde",
+      "adaptation_fr": "T'as ouvert la boîte de Pandore, maintenant tout s'effondre",
+      "theme": [
+        "trahison",
+        "douleur",
+        "revolte"
+      ],
+      "ton": "dramatique",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "encore",
+        "dehors",
+        "remord"
+      ],
+      "note_usage": "évoque une erreur irréparable qui libère le chaos"
+    },
+    {
+      "id": "ref-021",
+      "texte": "Aphrodite",
+      "langue": "fr",
+      "traduction_fr": "déesse de l'amour et de la beauté absolue",
+      "adaptation_fr": "Elle marche comme Aphrodite, même les dieux se retournent",
+      "theme": [
+        "seduction",
+        "amour",
+        "fete"
+      ],
+      "ton": "sensuel",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ite",
+        "mite",
+        "invite"
+      ],
+      "note_usage": "évoque une beauté divine et irrésistible"
+    },
+    {
+      "id": "ref-022",
+      "texte": "Apollon",
+      "langue": "fr",
+      "traduction_fr": "dieu du soleil, de la musique et des arts",
+      "adaptation_fr": "Sur ce mic je suis Apollon, chaque barre est un rayon de lumière",
+      "theme": [
+        "ambition",
+        "ego",
+        "fete"
+      ],
+      "ton": "lumineux",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "non",
+        "son",
+        "bon"
+      ],
+      "note_usage": "évoque la maîtrise artistique et la beauté solaire"
+    },
+    {
+      "id": "ref-023",
+      "texte": "Dionysos",
+      "langue": "fr",
+      "traduction_fr": "dieu du vin, de l'ivresse et de la fête",
+      "adaptation_fr": "Ce soir on célèbre comme Dionysos, l'excès c'est notre religion",
+      "theme": [
+        "fete",
+        "drogue",
+        "seduction"
+      ],
+      "ton": "festif",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "sos",
+        "repos",
+        "beau"
+      ],
+      "note_usage": "évoque l'excès festif et l'ivresse collective"
+    },
+    {
+      "id": "ref-024",
+      "texte": "Circé",
+      "langue": "fr",
+      "traduction_fr": "la magicienne qui transforme les hommes en bêtes",
+      "adaptation_fr": "Elle m'a envoûté comme Circé, je suis plus moi-même",
+      "theme": [
+        "seduction",
+        "amour",
+        "trahison"
+      ],
+      "ton": "envoûtant",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "cé",
+        "pitié",
+        "décidé"
+      ],
+      "note_usage": "évoque une femme aux pouvoirs de manipulation absolue"
+    },
+    {
+      "id": "ref-025",
+      "texte": "Midas",
+      "langue": "fr",
+      "traduction_fr": "tout ce qu'il touche se transforme en or",
+      "adaptation_fr": "Touch de Midas, chaque projet que je lance devient or",
+      "theme": [
+        "argent",
+        "ambition",
+        "ego"
+      ],
+      "ton": "triomphant",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "as",
+        "bras",
+        "déjà"
+      ],
+      "note_usage": "évoque la capacité à transformer tout en succès financier"
+    },
+    {
+      "id": "ref-026",
+      "texte": "Titan",
+      "langue": "fr",
+      "traduction_fr": "les géants anciens qui précédaient les dieux",
+      "adaptation_fr": "Je suis un Titan dans ce jeu, les dieux eux-mêmes me craignent",
+      "theme": [
+        "ego",
+        "ambition",
+        "revolte"
+      ],
+      "ton": "colossal",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "an",
+        "plan",
+        "maman"
+      ],
+      "note_usage": "évoque une puissance primordiale et écrasante"
+    },
+    {
+      "id": "ref-027",
+      "texte": "Pénélope",
+      "langue": "fr",
+      "traduction_fr": "celle qui attend fidèlement pendant des années",
+      "adaptation_fr": "Ma mère attendait comme Pénélope, j'étais son Ulysse perdu",
+      "theme": [
+        "famille",
+        "amour",
+        "exil",
+        "nostalgie"
+      ],
+      "ton": "émouvant",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "lope",
+        "enveloppe",
+        "galope"
+      ],
+      "note_usage": "évoque la fidélité et l'attente douloureuse"
+    },
+    {
+      "id": "ref-028",
+      "texte": "Hécate",
+      "langue": "fr",
+      "traduction_fr": "déesse de la magie noire et des carrefours",
+      "adaptation_fr": "Au carrefour de ma vie j'ai rencontré Hécate, elle m'a montré la voie sombre",
+      "theme": [
+        "mort",
+        "douleur",
+        "rue"
+      ],
+      "ton": "mystérieux",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "kate",
+        "fate",
+        "late"
+      ],
+      "note_usage": "évoque les choix décisifs et la magie obscure"
+    },
+    {
+      "id": "ref-029",
+      "texte": "Cassandre",
+      "langue": "fr",
+      "traduction_fr": "prophétesse que personne ne croyait",
+      "adaptation_fr": "J'étais Cassandre, j'avais tout prévu, personne a écouté",
+      "theme": [
+        "trahison",
+        "douleur",
+        "nostalgie"
+      ],
+      "ton": "amer",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "andre",
+        "scandre",
+        "pendre"
+      ],
+      "note_usage": "évoque la vérité ignorée et la solitude du visionnaire"
+    },
+    {
+      "id": "ref-030",
+      "texte": "Pégase",
+      "langue": "fr",
+      "traduction_fr": "le cheval ailé, symbole d'inspiration",
+      "adaptation_fr": "Ma plume est Pégase, elle s'envole là où personne ne va",
+      "theme": [
+        "ambition",
+        "ego",
+        "fete"
+      ],
+      "ton": "lyrique",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ase",
+        "phase",
+        "extase"
+      ],
+      "note_usage": "évoque l'élévation artistique et l'inspiration divine"
+    },
+    {
+      "id": "ref-031",
+      "texte": "Iphigénie",
+      "langue": "fr",
+      "traduction_fr": "sacrifiée par son propre père pour la gloire",
+      "adaptation_fr": "Sacrifié comme Iphigénie par ceux qui m'aimaient soi-disant",
+      "theme": [
+        "trahison",
+        "famille",
+        "douleur"
+      ],
+      "ton": "tragique",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "nie",
+        "infini",
+        "unie"
+      ],
+      "note_usage": "évoque la trahison par les proches au nom d'intérêts supérieurs"
+    },
+    {
+      "id": "ref-032",
+      "texte": "Sphinx",
+      "langue": "fr",
+      "traduction_fr": "la créature dont l'énigme tue ceux qui échouent",
+      "adaptation_fr": "Je pose des énigmes de Sphinx, peu ont survécu à mes flows",
+      "theme": [
+        "ego",
+        "rue",
+        "ambition"
+      ],
+      "ton": "mystérieux",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "inks",
+        "thinks",
+        "drinks"
+      ],
+      "note_usage": "évoque la complexité et le danger de l'incompréhension"
+    },
+    {
+      "id": "ref-033",
+      "texte": "Harpies",
+      "langue": "fr",
+      "traduction_fr": "les démons ailés qui tourmentent sans répit",
+      "adaptation_fr": "Ces rumeurs volent comme des Harpies, elles m'arrachent la paix",
+      "theme": [
+        "trahison",
+        "douleur",
+        "rue"
+      ],
+      "ton": "harcelant",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ie",
+        "pitié",
+        "ici"
+      ],
+      "note_usage": "évoque le harcèlement incessant et les attaques répétées"
+    },
+    {
+      "id": "ref-034",
+      "texte": "Œil de Cyclope",
+      "langue": "fr",
+      "traduction_fr": "le géant aveugle à un seul œil",
+      "adaptation_fr": "Personne voit ce que je vois, ils ont tous l'œil de Cyclope",
+      "theme": [
+        "ego",
+        "rue",
+        "douleur"
+      ],
+      "ton": "provocateur",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "lope",
+        "galope",
+        "enveloppe"
+      ],
+      "note_usage": "évoque la vision limitée ou unique sur le monde"
+    },
+    {
+      "id": "ref-035",
+      "texte": "Hydre",
+      "langue": "fr",
+      "traduction_fr": "le monstre qui repousse deux têtes quand on en coupe une",
+      "adaptation_fr": "Ce système est une Hydre, tu coupes un dealer, dix reviennent",
+      "theme": [
+        "rue",
+        "revolte",
+        "galere"
+      ],
+      "ton": "politique",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "libre",
+        "vivre",
+        "givre"
+      ],
+      "note_usage": "évoque un problème qui se multiplie quand on le combat"
+    },
+    {
+      "id": "ref-036",
+      "texte": "Anubis",
+      "langue": "fr",
+      "traduction_fr": "le dieu chacal qui pèse les âmes des morts",
+      "adaptation_fr": "Quand je mourrai Anubis pèsera mon cœur, j'espère qu'il est léger",
+      "theme": [
+        "mort",
+        "deuil",
+        "foi"
+      ],
+      "ton": "spirituel",
+      "type": "reference",
+      "source": "mythologie egyptienne",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "bis",
+        "ici",
+        "prix"
+      ],
+      "note_usage": "évoque le jugement après la mort et la pesée des actes"
+    },
+    {
+      "id": "ref-037",
+      "texte": "Râ",
+      "langue": "fr",
+      "traduction_fr": "le dieu soleil tout-puissant d'Égypte",
+      "adaptation_fr": "Je brille comme Râ, mon éclat traverse les siècles",
+      "theme": [
+        "ego",
+        "ambition",
+        "foi"
+      ],
+      "ton": "solaire",
+      "type": "reference",
+      "source": "mythologie egyptienne",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "là",
+        "déjà",
+        "voilà"
+      ],
+      "note_usage": "évoque la lumière divine et la toute-puissance solaire"
+    },
+    {
+      "id": "ref-038",
+      "texte": "Osiris",
+      "langue": "fr",
+      "traduction_fr": "le dieu mort et ressuscité, maître des enfers",
+      "adaptation_fr": "Comme Osiris j'ai été tué et je suis revenu plus fort",
+      "theme": [
+        "douleur",
+        "ambition",
+        "foi",
+        "mort"
+      ],
+      "ton": "mystique",
+      "type": "reference",
+      "source": "mythologie egyptienne",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ris",
+        "Paris",
+        "esprit"
+      ],
+      "note_usage": "évoque la renaissance après la destruction totale"
+    },
+    {
+      "id": "ref-039",
+      "texte": "Isis",
+      "langue": "fr",
+      "traduction_fr": "la déesse mère, puissante magicienne",
+      "adaptation_fr": "Ma mère c'est Isis, elle a tout reconstruit avec ses mains",
+      "theme": [
+        "famille",
+        "amour",
+        "foi"
+      ],
+      "ton": "émouvant",
+      "type": "reference",
+      "source": "mythologie egyptienne",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "crise",
+        "devise",
+        "surprise"
+      ],
+      "note_usage": "évoque la force maternelle et la magie reconstructrice"
+    },
+    {
+      "id": "ref-040",
+      "texte": "Horus",
+      "langue": "fr",
+      "traduction_fr": "le dieu faucon, vengeur et protecteur",
+      "adaptation_fr": "L'œil d'Horus sur moi, je vois tout et je protège les miens",
+      "theme": [
+        "famille",
+        "vengeance",
+        "foi"
+      ],
+      "ton": "protecteur",
+      "type": "reference",
+      "source": "mythologie egyptienne",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "cours",
+        "toujours",
+        "amours"
+      ],
+      "note_usage": "évoque la protection divine et la vision totale"
+    },
+    {
+      "id": "ref-041",
+      "texte": "Seth",
+      "langue": "fr",
+      "traduction_fr": "le dieu du chaos et de la destruction",
+      "adaptation_fr": "Seth en moi quand on me pousse à bout, je détruис tout sur mon passage",
+      "theme": [
+        "revolte",
+        "rue",
+        "douleur"
+      ],
+      "ton": "chaotique",
+      "type": "reference",
+      "source": "mythologie egyptienne",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "sept",
+        "concept",
+        "accept"
+      ],
+      "note_usage": "évoque la force destructrice du chaos libéré"
+    },
+    {
+      "id": "ref-042",
+      "texte": "Thoth",
+      "langue": "fr",
+      "traduction_fr": "dieu de la sagesse, de l'écriture et des secrets",
+      "adaptation_fr": "Mes paroles sont de Thoth, chaque mot pèse comme une tablette d'or",
+      "theme": [
+        "ambition",
+        "ego",
+        "foi"
+      ],
+      "ton": "savant",
+      "type": "reference",
+      "source": "mythologie egyptienne",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "mot",
+        "beau",
+        "chaud"
+      ],
+      "note_usage": "évoque la maîtrise du langage et de la connaissance sacrée"
+    },
+    {
+      "id": "ref-043",
+      "texte": "Pharaon",
+      "langue": "fr",
+      "traduction_fr": "le dieu-roi d'Égypte, autorité absolue",
+      "adaptation_fr": "Je règne sur ce quartier comme un Pharaon sur le Nil",
+      "theme": [
+        "ego",
+        "argent",
+        "ambition"
+      ],
+      "ton": "royal",
+      "type": "reference",
+      "source": "mythologie egyptienne",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "on",
+        "bon",
+        "maison"
+      ],
+      "note_usage": "évoque la royauté absolue et le commandement divin"
+    },
+    {
+      "id": "ref-044",
+      "texte": "Sphinx égyptien",
+      "langue": "fr",
+      "traduction_fr": "gardien millénaire, mystère et éternité",
+      "adaptation_fr": "J'observe tout en silence comme le Sphinx, j'attends mon heure",
+      "theme": [
+        "ambition",
+        "nostalgie",
+        "ego"
+      ],
+      "ton": "patient",
+      "type": "reference",
+      "source": "mythologie egyptienne",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "inks",
+        "thinks",
+        "links"
+      ],
+      "note_usage": "évoque la patience absolue et l'observation silencieuse"
+    },
+    {
+      "id": "ref-045",
+      "texte": "Cléopâtre",
+      "langue": "fr",
+      "traduction_fr": "la reine séductrice qui domina des empires",
+      "adaptation_fr": "Elle règne comme Cléopâtre, même les plus puissants tombent à ses pieds",
+      "theme": [
+        "seduction",
+        "ambition",
+        "argent"
+      ],
+      "ton": "fastueux",
+      "type": "reference",
+      "source": "mythologie egyptienne",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "âtre",
+        "théâtre",
+        "paraître"
+      ],
+      "note_usage": "évoque la séduction politique et le pouvoir féminin absolu"
+    },
+    {
+      "id": "ref-046",
+      "texte": "Nefertiti",
+      "langue": "fr",
+      "traduction_fr": "la reine à la beauté légendaire",
+      "adaptation_fr": "Son profil comme Nefertiti, sculptée dans le temps",
+      "theme": [
+        "seduction",
+        "amour",
+        "nostalgie"
+      ],
+      "ton": "admiratif",
+      "type": "reference",
+      "source": "mythologie egyptienne",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "titi",
+        "merci",
+        "oui"
+      ],
+      "note_usage": "évoque une beauté intemporelle et artistique"
+    },
+    {
+      "id": "ref-047",
+      "texte": "Toutânkhamon",
+      "langue": "fr",
+      "traduction_fr": "le pharaon enfant dont le trésor fascinait",
+      "adaptation_fr": "Ma tombe sera riche comme Toutânkhamon, l'histoire retiendra mon nom",
+      "theme": [
+        "mort",
+        "ambition",
+        "argent"
+      ],
+      "ton": "grandiose",
+      "type": "reference",
+      "source": "mythologie egyptienne",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "mon",
+        "nom",
+        "maison"
+      ],
+      "note_usage": "évoque la richesse posthume et la gloire éternelle"
+    },
+    {
+      "id": "ref-048",
+      "texte": "Pyramides",
+      "langue": "fr",
+      "traduction_fr": "les monuments éternels construits pour les dieux",
+      "adaptation_fr": "Je bâtis mon empire comme les Pyramides, pour l'éternité",
+      "theme": [
+        "ambition",
+        "argent",
+        "ego"
+      ],
+      "ton": "monumental",
+      "type": "reference",
+      "source": "mythologie egyptienne",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ides",
+        "rides",
+        "vides"
+      ],
+      "note_usage": "évoque la construction d'un héritage qui traverse les âges"
+    },
+    {
+      "id": "ref-049",
+      "texte": "Bastet",
+      "langue": "fr",
+      "traduction_fr": "la déesse chatte, protectrice et sensuelle",
+      "adaptation_fr": "Elle ronronne comme Bastet, douce mais griffes dehors si tu t'approches",
+      "theme": [
+        "seduction",
+        "trahison",
+        "amour"
+      ],
+      "ton": "ambigu",
+      "type": "reference",
+      "source": "mythologie egyptienne",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "tet",
+        "secret",
+        "parfait"
+      ],
+      "note_usage": "évoque la douceur trompeuse cachant une dangerosité réelle"
+    },
+    {
+      "id": "ref-050",
+      "texte": "Amon",
+      "langue": "fr",
+      "traduction_fr": "le dieu caché, roi invisible des dieux égyptiens",
+      "adaptation_fr": "Comme Amon je reste caché, mon influence est partout sans qu'on me voie",
+      "theme": [
+        "rue",
+        "ambition",
+        "ego"
+      ],
+      "ton": "mystérieux",
+      "type": "reference",
+      "source": "mythologie egyptienne",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "on",
+        "non",
+        "bon"
+      ],
+      "note_usage": "évoque l'influence cachée et le pouvoir discret"
+    },
+    {
+      "id": "ref-051",
+      "texte": "Odin",
+      "langue": "fr",
+      "traduction_fr": "le père des dieux nordiques, sage et guerrier",
+      "adaptation_fr": "Comme Odin j'ai sacrifié un œil pour voir la vérité",
+      "theme": [
+        "ambition",
+        "douleur",
+        "foi"
+      ],
+      "ton": "sacrificiel",
+      "type": "reference",
+      "source": "mythologie nordique",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "din",
+        "destin",
+        "matin"
+      ],
+      "note_usage": "évoque le sacrifice consenti pour atteindre la sagesse"
+    },
+    {
+      "id": "ref-052",
+      "texte": "Thor",
+      "langue": "fr",
+      "traduction_fr": "le dieu du tonnerre, force brute",
+      "adaptation_fr": "Mon flow frappe comme Thor, chaque barre est un coup de marteau",
+      "theme": [
+        "ego",
+        "rue",
+        "ambition"
+      ],
+      "ton": "percutant",
+      "type": "reference",
+      "source": "mythologie nordique",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "or",
+        "encore",
+        "dehors"
+      ],
+      "note_usage": "évoque une puissance physique et sonore dévastatrice"
+    },
+    {
+      "id": "ref-053",
+      "texte": "Valhalla",
+      "langue": "fr",
+      "traduction_fr": "le paradis des guerriers morts au combat",
+      "adaptation_fr": "Si je meurs dans cette rue, Valhalla m'attend les bras ouverts",
+      "theme": [
+        "mort",
+        "rue",
+        "foi"
+      ],
+      "ton": "épique",
+      "type": "reference",
+      "source": "mythologie nordique",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "la",
+        "voilà",
+        "déjà"
+      ],
+      "note_usage": "évoque la mort glorieuse et la récompense des braves"
+    },
+    {
+      "id": "ref-054",
+      "texte": "Fenrir",
+      "langue": "fr",
+      "traduction_fr": "le loup géant enchaîné qui se libérera à la fin du monde",
+      "adaptation_fr": "T'as essayé de m'enchaîner mais je suis Fenrir, le jour venu tu verras",
+      "theme": [
+        "revolte",
+        "prison",
+        "ambition"
+      ],
+      "ton": "menaçant",
+      "type": "reference",
+      "source": "mythologie nordique",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ir",
+        "partir",
+        "venir"
+      ],
+      "note_usage": "évoque la colère contenue qui explosera inévitablement"
+    },
+    {
+      "id": "ref-055",
+      "texte": "Loki",
+      "langue": "fr",
+      "traduction_fr": "le dieu de la ruse et du chaos",
+      "adaptation_fr": "J'suis le Loki de ce game, imprévisible et toujours un coup d'avance",
+      "theme": [
+        "trahison",
+        "rue",
+        "ego"
+      ],
+      "ton": "malicieux",
+      "type": "reference",
+      "source": "mythologie nordique",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "oki",
+        "poky",
+        "rocky"
+      ],
+      "note_usage": "évoque la ruse, l'imprévisibilité et la manipulation"
+    },
+    {
+      "id": "ref-056",
+      "texte": "Ragnarok",
+      "langue": "fr",
+      "traduction_fr": "la fin du monde nordique, apocalypse des dieux",
+      "adaptation_fr": "Ce soir c'est le Ragnarok dans cette salle, on laisse rien debout",
+      "theme": [
+        "revolte",
+        "fete",
+        "rue"
+      ],
+      "ton": "apocalyptique",
+      "type": "reference",
+      "source": "mythologie nordique",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "rock",
+        "choc",
+        "bloc"
+      ],
+      "note_usage": "évoque une destruction totale et définitive"
+    },
+    {
+      "id": "ref-057",
+      "texte": "Valkyrie",
+      "langue": "fr",
+      "traduction_fr": "les guerrières qui choisissent les morts au combat",
+      "adaptation_fr": "Elle est ma Valkyrie, elle choisit les hommes qui méritent de vivre",
+      "theme": [
+        "amour",
+        "mort",
+        "seduction"
+      ],
+      "ton": "épique",
+      "type": "reference",
+      "source": "mythologie nordique",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "rie",
+        "vie",
+        "envie"
+      ],
+      "note_usage": "évoque une femme forte qui détient le pouvoir de vie ou de mort"
+    },
+    {
+      "id": "ref-058",
+      "texte": "Yggdrasil",
+      "langue": "fr",
+      "traduction_fr": "l'arbre du monde qui relie tous les univers",
+      "adaptation_fr": "Mes racines comme Yggdrasil, je touche les enfers et le ciel",
+      "theme": [
+        "famille",
+        "ambition",
+        "foi"
+      ],
+      "ton": "cosmique",
+      "type": "reference",
+      "source": "mythologie nordique",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "il",
+        "fil",
+        "profil"
+      ],
+      "note_usage": "évoque la connexion entre les mondes et les générations"
+    },
+    {
+      "id": "ref-059",
+      "texte": "Mjolnir",
+      "langue": "fr",
+      "traduction_fr": "le marteau de Thor, arme indestructible",
+      "adaptation_fr": "Mon poing comme Mjolnir, je forge la victoire à chaque coup",
+      "theme": [
+        "ego",
+        "rue",
+        "ambition"
+      ],
+      "ton": "brutal",
+      "type": "reference",
+      "source": "mythologie nordique",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ir",
+        "venir",
+        "finir"
+      ],
+      "note_usage": "évoque une arme ou un style qui frappe avec une puissance divine"
+    },
+    {
+      "id": "ref-060",
+      "texte": "Freya",
+      "langue": "fr",
+      "traduction_fr": "déesse nordique de l'amour, de la guerre et de la mort",
+      "adaptation_fr": "Belle comme Freya en amour, mortelle comme elle en guerre",
+      "theme": [
+        "seduction",
+        "amour",
+        "mort"
+      ],
+      "ton": "ambivalent",
+      "type": "reference",
+      "source": "mythologie nordique",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ya",
+        "là",
+        "déjà"
+      ],
+      "note_usage": "évoque la dualité entre séduction et dangerosité"
+    },
+    {
+      "id": "ref-061",
+      "texte": "Niflheim",
+      "langue": "fr",
+      "traduction_fr": "le royaume des morts nordique, brume et glace",
+      "adaptation_fr": "Dans mes nuits sombres je traverse Niflheim pour rester en vie",
+      "theme": [
+        "douleur",
+        "mort",
+        "prison"
+      ],
+      "ton": "sombre",
+      "type": "reference",
+      "source": "mythologie nordique",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "heim",
+        "time",
+        "crime"
+      ],
+      "note_usage": "évoque la traversée d'une période de noirceur totale"
+    },
+    {
+      "id": "ref-062",
+      "texte": "Berserker",
+      "langue": "fr",
+      "traduction_fr": "le guerrier nordique en transe de furie incontrôlable",
+      "adaptation_fr": "Je passe en mode Berserker, ils savent plus à qui ils ont affaire",
+      "theme": [
+        "rue",
+        "revolte",
+        "ego"
+      ],
+      "ton": "furieux",
+      "type": "reference",
+      "source": "mythologie nordique",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ker",
+        "mer",
+        "hier"
+      ],
+      "note_usage": "évoque la furie guerrière incontrôlable et terrifiante"
+    },
+    {
+      "id": "ref-063",
+      "texte": "Baldr",
+      "langue": "fr",
+      "traduction_fr": "le dieu de la lumière et de la pureté tué par trahison",
+      "adaptation_fr": "Comme Baldr j'étais invincible jusqu'à ce qu'un proche me plante",
+      "theme": [
+        "trahison",
+        "douleur",
+        "famille"
+      ],
+      "ton": "tragique",
+      "type": "reference",
+      "source": "mythologie nordique",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "dr",
+        "leader",
+        "cedar"
+      ],
+      "note_usage": "évoque la trahison par un proche qui brise une invincibilité supposée"
+    },
+    {
+      "id": "ref-064",
+      "texte": "Jormungandr",
+      "langue": "fr",
+      "traduction_fr": "le serpent du monde qui se mord la queue",
+      "adaptation_fr": "Ce système tourne comme Jormungandr, le serpent qui mange sa propre queue",
+      "theme": [
+        "revolte",
+        "galere",
+        "rue"
+      ],
+      "ton": "philosophique",
+      "type": "reference",
+      "source": "mythologie nordique",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "dr",
+        "order",
+        "border"
+      ],
+      "note_usage": "évoque un cycle vicieux sans fin et l'absurdité du système"
+    },
+    {
+      "id": "ref-065",
+      "texte": "Huginn et Muninn",
+      "langue": "fr",
+      "traduction_fr": "les corbeaux d'Odin, mémoire et pensée",
+      "adaptation_fr": "Mes deux corbeaux sont la rue et le micro, ils m'informent de tout",
+      "theme": [
+        "ego",
+        "ambition",
+        "nostalgie"
+      ],
+      "ton": "mystique",
+      "type": "reference",
+      "source": "mythologie nordique",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "in",
+        "destin",
+        "matin"
+      ],
+      "note_usage": "évoque les sources d'information et de connaissance omnisciente"
+    },
+    {
+      "id": "ref-066",
+      "texte": "Napoléon",
+      "langue": "fr",
+      "traduction_fr": "le conquérant corse qui domina l'Europe",
+      "adaptation_fr": "Comme Napoléon j'ai tout conquis, même l'exil ne m'a pas brisé",
+      "theme": [
+        "ambition",
+        "ego",
+        "galere"
+      ],
+      "ton": "conquérant",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "on",
+        "bon",
+        "maison"
+      ],
+      "note_usage": "évoque l'ambition totale, la gloire et la chute tragique"
+    },
+    {
+      "id": "ref-067",
+      "texte": "César",
+      "langue": "fr",
+      "traduction_fr": "le conquérant romain trahi par ses proches",
+      "adaptation_fr": "Et tu Brutus? — j'ai mon César dans l'entourage, j'ai les yeux ouverts",
+      "theme": [
+        "trahison",
+        "ambition",
+        "famille"
+      ],
+      "ton": "dramatique",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "sar",
+        "bar",
+        "départ"
+      ],
+      "note_usage": "évoque la trahison ultime par celui en qui on avait confiance"
+    },
+    {
+      "id": "ref-068",
+      "texte": "Hannibal",
+      "langue": "fr",
+      "traduction_fr": "le général carthaginois qui traversa les Alpes",
+      "adaptation_fr": "Comme Hannibal je passe par où personne n'attendait, surprise totale",
+      "theme": [
+        "ambition",
+        "ego",
+        "rue"
+      ],
+      "ton": "stratégique",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "al",
+        "rival",
+        "canal"
+      ],
+      "note_usage": "évoque la stratégie audacieuse qui prend l'ennemi à revers"
+    },
+    {
+      "id": "ref-069",
+      "texte": "Gengis Khan",
+      "langue": "fr",
+      "traduction_fr": "le conquérant mongol qui domina le monde connu",
+      "adaptation_fr": "Je m'étends comme Gengis Khan, mon empire n'a pas de frontières",
+      "theme": [
+        "ambition",
+        "ego",
+        "argent"
+      ],
+      "ton": "expansif",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "an",
+        "plan",
+        "tyran"
+      ],
+      "note_usage": "évoque une domination absolue sur un territoire immense"
+    },
+    {
+      "id": "ref-070",
+      "texte": "Spartacus",
+      "langue": "fr",
+      "traduction_fr": "l'esclave qui se rebella contre Rome",
+      "adaptation_fr": "Comme Spartacus j'ai brisé mes chaînes, cette révolte vient des bas-fonds",
+      "theme": [
+        "revolte",
+        "prison",
+        "galere"
+      ],
+      "ton": "révolutionnaire",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "cus",
+        "plus",
+        "dessus"
+      ],
+      "note_usage": "évoque la rébellion des opprimés contre le système"
+    },
+    {
+      "id": "ref-071",
+      "texte": "Jeanne d'Arc",
+      "langue": "fr",
+      "traduction_fr": "la pucelle qui combattit pour sa nation et mourut brûlée",
+      "adaptation_fr": "Comme Jeanne d'Arc j'ai tout donné pour les miens, et ils m'ont brûlé quand même",
+      "theme": [
+        "trahison",
+        "revolte",
+        "douleur",
+        "foi"
+      ],
+      "ton": "tragique",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "arc",
+        "remarque",
+        "marque"
+      ],
+      "note_usage": "évoque le sacrifice total suivi d'une trahison par ceux qu'on défendait"
+    },
+    {
+      "id": "ref-072",
+      "texte": "Alexandre le Grand",
+      "langue": "fr",
+      "traduction_fr": "le conquérant qui mourut à 32 ans après avoir tout pris",
+      "adaptation_fr": "Comme Alexandre le Grand j'ai tout eu jeune, le monde était trop petit",
+      "theme": [
+        "ambition",
+        "mort",
+        "ego"
+      ],
+      "ton": "épique",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "grand",
+        "avant",
+        "enfant"
+      ],
+      "note_usage": "évoque l'ambition démesurée et la gloire atteinte très jeune"
+    },
+    {
+      "id": "ref-073",
+      "texte": "Attila",
+      "langue": "fr",
+      "traduction_fr": "le fléau de Dieu qui terrifiait les empires",
+      "adaptation_fr": "J'arrive dans ce game comme Attila, le fléau que personne n'attendait",
+      "theme": [
+        "ego",
+        "rue",
+        "revolte"
+      ],
+      "ton": "dévastateur",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "la",
+        "voilà",
+        "là"
+      ],
+      "note_usage": "évoque une force destructrice qui défie les empires établis"
+    },
+    {
+      "id": "ref-074",
+      "texte": "Sun Tzu",
+      "langue": "fr",
+      "traduction_fr": "le stratège qui écrivit l'art de la guerre",
+      "adaptation_fr": "L'Art de la Guerre de Sun Tzu, c'est ma bible dans la rue",
+      "theme": [
+        "rue",
+        "ambition",
+        "ego"
+      ],
+      "ton": "stratégique",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "zu",
+        "bu",
+        "nu"
+      ],
+      "note_usage": "évoque la stratégie calculée et la maîtrise des conflits"
+    },
+    {
+      "id": "ref-075",
+      "texte": "Léonidas",
+      "langue": "fr",
+      "traduction_fr": "le roi spartiate qui tint les Thermopyles à 300",
+      "adaptation_fr": "300 contre tous, comme Léonidas on tient notre position",
+      "theme": [
+        "revolte",
+        "rue",
+        "famille"
+      ],
+      "ton": "héroïque",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "as",
+        "bras",
+        "déjà"
+      ],
+      "note_usage": "évoque la résistance héroïque d'un petit groupe face à une armée"
+    },
+    {
+      "id": "ref-076",
+      "texte": "Machiavel",
+      "langue": "fr",
+      "traduction_fr": "le penseur de la politique sans morale",
+      "adaptation_fr": "Je joue à la Machiavel, la fin justifie les moyens",
+      "theme": [
+        "ambition",
+        "trahison",
+        "rue"
+      ],
+      "ton": "cynique",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "vel",
+        "ciel",
+        "tel"
+      ],
+      "note_usage": "évoque le cynisme politique et la stratégie sans scrupules"
+    },
+    {
+      "id": "ref-077",
+      "texte": "Malcolm X",
+      "langue": "fr",
+      "traduction_fr": "le militant noir américain assassiné pour ses idées",
+      "adaptation_fr": "Comme Malcolm X je parle cash, et c'est pour ça qu'ils veulent me faire taire",
+      "theme": [
+        "revolte",
+        "foi",
+        "mort"
+      ],
+      "ton": "militant",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "X",
+        "paix",
+        "jamais"
+      ],
+      "note_usage": "évoque l'engagement radical pour la communauté et le risque que ça implique"
+    },
+    {
+      "id": "ref-078",
+      "texte": "Martin Luther King",
+      "langue": "fr",
+      "traduction_fr": "le pasteur qui rêva d'égalité et fut assassiné",
+      "adaptation_fr": "J'ai un rêve comme MLK, mais le réveil est brutal dans ces rues",
+      "theme": [
+        "revolte",
+        "foi",
+        "douleur"
+      ],
+      "ton": "inspirant",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "king",
+        "thing",
+        "ring"
+      ],
+      "note_usage": "évoque l'idéal de justice et la violence de la réalité qui le brise"
+    },
+    {
+      "id": "ref-079",
+      "texte": "Che Guevara",
+      "langue": "fr",
+      "traduction_fr": "le révolutionnaire romantique devenu icône",
+      "adaptation_fr": "Mon visage un jour sur des T-shirts comme Che Guevara, icône malgré moi",
+      "theme": [
+        "revolte",
+        "ambition",
+        "mort"
+      ],
+      "ton": "romantique",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ara",
+        "là",
+        "déjà"
+      ],
+      "note_usage": "évoque la révolution et le paradoxe de devenir une icône commerciale"
+    },
+    {
+      "id": "ref-080",
+      "texte": "Mandela",
+      "langue": "fr",
+      "traduction_fr": "27 ans en prison puis président",
+      "adaptation_fr": "27 ans derrière les barreaux comme Mandela, sorti plus fort que jamais",
+      "theme": [
+        "prison",
+        "revolte",
+        "ambition"
+      ],
+      "ton": "résilient",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ela",
+        "voilà",
+        "là"
+      ],
+      "note_usage": "évoque la résilience absolue face à l'emprisonnement injuste"
+    },
+    {
+      "id": "ref-081",
+      "texte": "Robespierre",
+      "langue": "fr",
+      "traduction_fr": "le révolutionnaire qui finit guillotiné par sa propre révolution",
+      "adaptation_fr": "Méfie-toi du jeu de Robespierre, la révolution mange ses enfants",
+      "theme": [
+        "trahison",
+        "revolte",
+        "mort"
+      ],
+      "ton": "politique",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ierre",
+        "guerre",
+        "pierre"
+      ],
+      "note_usage": "évoque la tragédie du révolutionnaire détruit par son propre système"
+    },
+    {
+      "id": "ref-082",
+      "texte": "Toussaint Louverture",
+      "langue": "fr",
+      "traduction_fr": "le libérateur d'Haïti qui brisa l'esclavage",
+      "adaptation_fr": "Comme Toussaint Louverture j'ai libéré mon peuple de leurs chaînes invisibles",
+      "theme": [
+        "revolte",
+        "liberté",
+        "galere"
+      ],
+      "ton": "libérateur",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ture",
+        "culture",
+        "nature"
+      ],
+      "note_usage": "évoque la libération d'un peuple par la révolte armée"
+    },
+    {
+      "id": "ref-083",
+      "texte": "Staline",
+      "langue": "fr",
+      "traduction_fr": "le dictateur soviétique à la main de fer",
+      "adaptation_fr": "Ce boss règne comme Staline, même ses alliés tremblent à son nom",
+      "theme": [
+        "ambition",
+        "trahison",
+        "rue"
+      ],
+      "ton": "oppressif",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ine",
+        "machine",
+        "mine"
+      ],
+      "note_usage": "évoque le pouvoir absolu exercé par la terreur sur les siens"
+    },
+    {
+      "id": "ref-084",
+      "texte": "Copernic",
+      "langue": "fr",
+      "traduction_fr": "celui qui démontra que la Terre tourne autour du Soleil",
+      "adaptation_fr": "Je suis le Copernic du rap, je renverse tous les systèmes",
+      "theme": [
+        "ambition",
+        "revolte",
+        "ego"
+      ],
+      "ton": "révolutionnaire",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ic",
+        "public",
+        "unique"
+      ],
+      "note_usage": "évoque le renversement radical d'une vérité établie"
+    },
+    {
+      "id": "ref-085",
+      "texte": "Galilée",
+      "langue": "fr",
+      "traduction_fr": "condamné pour avoir dit la vérité",
+      "adaptation_fr": "J'dis la vérité comme Galilée, même si ça me coûte tout",
+      "theme": [
+        "revolte",
+        "trahison",
+        "foi"
+      ],
+      "ton": "intègre",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ée",
+        "vérité",
+        "liberté"
+      ],
+      "note_usage": "évoque la vérité dite au prix du sacrifice personnel"
+    },
+    {
+      "id": "ref-086",
+      "texte": "Christophe Colomb",
+      "langue": "fr",
+      "traduction_fr": "celui qui traversa l'inconnu pour découvrir un nouveau monde",
+      "adaptation_fr": "J'explore comme Colomb, ce son ouvre des continents inconnus",
+      "theme": [
+        "ambition",
+        "exil",
+        "ego"
+      ],
+      "ton": "explorateur",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "omb",
+        "bomb",
+        "tom"
+      ],
+      "note_usage": "évoque l'exploration de territoires nouveaux au prix du risque total"
+    },
+    {
+      "id": "ref-087",
+      "texte": "Makaveli",
+      "langue": "fr",
+      "traduction_fr": "le pseudonyme de Tupac, référence à Machiavel",
+      "adaptation_fr": "Je reviens comme Makaveli, on me croyait mort mais j'étais juste en veille",
+      "theme": [
+        "mort",
+        "ambition",
+        "ego"
+      ],
+      "ton": "mystique",
+      "type": "reference",
+      "source": "culture hip-hop",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "li",
+        "ici",
+        "merci"
+      ],
+      "note_usage": "évoque le retour spectaculaire de quelqu'un qu'on croyait définitivement disparu"
+    },
+    {
+      "id": "ref-088",
+      "texte": "Léonard de Vinci",
+      "langue": "fr",
+      "traduction_fr": "le génie universel de la Renaissance",
+      "adaptation_fr": "Je suis le De Vinci du mic, j'invente un art que personne comprend encore",
+      "theme": [
+        "ego",
+        "ambition",
+        "art"
+      ],
+      "ton": "visionnaire",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ci",
+        "ici",
+        "merci"
+      ],
+      "note_usage": "évoque le génie multidimensionnel en avance sur son époque"
+    },
+    {
+      "id": "ref-089",
+      "texte": "Copernic",
+      "langue": "fr",
+      "traduction_fr": "révolutionnaire scientifique",
+      "adaptation_fr": "Mon album est le Copernic du game, tout tourne autour de lui maintenant",
+      "theme": [
+        "ego",
+        "ambition",
+        "revolte"
+      ],
+      "ton": "arrogant",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ic",
+        "public",
+        "classique"
+      ],
+      "note_usage": "évoque le point central autour duquel tout s'organise"
+    },
+    {
+      "id": "ref-090",
+      "texte": "Spartiate",
+      "langue": "fr",
+      "traduction_fr": "le guerrier entraîné pour la mort dès l'enfance",
+      "adaptation_fr": "Élevé comme un Spartiate dans ce ghetto, la douleur c'est ma formation",
+      "theme": [
+        "galere",
+        "rue",
+        "douleur"
+      ],
+      "ton": "guerrier",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ate",
+        "trait",
+        "parfait"
+      ],
+      "note_usage": "évoque une éducation par la souffrance qui forge l'acier"
+    },
+    {
+      "id": "ref-091",
+      "texte": "Cléopâtre (histoire)",
+      "langue": "fr",
+      "traduction_fr": "dernière pharaonne qui séduisit César et Marc-Antoine",
+      "adaptation_fr": "Elle a l'ambition de Cléopâtre, elle veut l'empire pas juste le trône",
+      "theme": [
+        "seduction",
+        "ambition",
+        "argent"
+      ],
+      "ton": "royal",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "âtre",
+        "théâtre",
+        "maître"
+      ],
+      "note_usage": "évoque l'alliance du pouvoir et de la séduction pour dominer"
+    },
+    {
+      "id": "ref-092",
+      "texte": "Vercingétorix",
+      "langue": "fr",
+      "traduction_fr": "le chef gaulois qui résista à César",
+      "adaptation_fr": "Je suis le Vercingétorix de ma cité, résistance jusqu'au bout",
+      "theme": [
+        "revolte",
+        "galere",
+        "famille"
+      ],
+      "ton": "résistant",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "rix",
+        "prix",
+        "paradis"
+      ],
+      "note_usage": "évoque la résistance locale face à une puissance dominante"
+    },
+    {
+      "id": "ref-093",
+      "texte": "Genghis",
+      "langue": "fr",
+      "traduction_fr": "la terreur des steppes qui remodela le monde",
+      "adaptation_fr": "Mon passage sur ce beat comme Genghis, je laisse des ruines",
+      "theme": [
+        "ego",
+        "rue",
+        "ambition"
+      ],
+      "ton": "destructeur",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "is",
+        "ici",
+        "merci"
+      ],
+      "note_usage": "évoque le passage dévastateur qui transforme tout sur son chemin"
+    },
+    {
+      "id": "ref-094",
+      "texte": "Clovis",
+      "langue": "fr",
+      "traduction_fr": "premier roi des Francs, fondateur de la France",
+      "adaptation_fr": "Clovis a fondé la France, moi j'en refonde les codes depuis la rue",
+      "theme": [
+        "ambition",
+        "revolte",
+        "ego"
+      ],
+      "ton": "fondateur",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "is",
+        "ici",
+        "paradis"
+      ],
+      "note_usage": "évoque la fondation d'un nouvel ordre à partir de rien"
+    },
+    {
+      "id": "ref-095",
+      "texte": "Bolivar",
+      "langue": "fr",
+      "traduction_fr": "le libérateur de l'Amérique latine",
+      "adaptation_fr": "Je suis le Bolivar de ces quartiers, je libère les consciences",
+      "theme": [
+        "revolte",
+        "ambition",
+        "exil"
+      ],
+      "ton": "libérateur",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ar",
+        "départ",
+        "regard"
+      ],
+      "note_usage": "évoque la libération d'un peuple par la vision et l'action"
+    },
+    {
+      "id": "ref-096",
+      "texte": "Ali",
+      "langue": "fr",
+      "traduction_fr": "Muhammad Ali, le plus grand, papillon et abeille",
+      "adaptation_fr": "Je vole comme un papillon, je pique comme Ali, tu vois même pas venir",
+      "theme": [
+        "ego",
+        "ambition",
+        "rue"
+      ],
+      "ton": "légendaire",
+      "type": "reference",
+      "source": "sport",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ali",
+        "ici",
+        "merci"
+      ],
+      "note_usage": "évoque la grâce combinée à la puissance dévastatrice"
+    },
+    {
+      "id": "ref-097",
+      "texte": "Tyson",
+      "langue": "fr",
+      "traduction_fr": "Iron Mike, le plus terrifiant des boxeurs",
+      "adaptation_fr": "Je rentre dans la pièce comme Tyson, la tension monte avant même que je frappe",
+      "theme": [
+        "rue",
+        "ego",
+        "douleur"
+      ],
+      "ton": "intimidant",
+      "type": "reference",
+      "source": "sport",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "son",
+        "maison",
+        "raison"
+      ],
+      "note_usage": "évoque une présence terrifiante qui paralyse avant même le combat"
+    },
+    {
+      "id": "ref-098",
+      "texte": "Jordan",
+      "langue": "fr",
+      "traduction_fr": "Michael Jordan, the GOAT du basketball",
+      "adaptation_fr": "Dans mon domaine je suis Jordan, il y a moi et puis les autres",
+      "theme": [
+        "ego",
+        "ambition",
+        "argent"
+      ],
+      "ton": "suprême",
+      "type": "reference",
+      "source": "sport",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "an",
+        "plan",
+        "avant"
+      ],
+      "note_usage": "évoque la domination absolue dans un domaine donné"
+    },
+    {
+      "id": "ref-099",
+      "texte": "Maradona",
+      "langue": "fr",
+      "traduction_fr": "le génie imparfait du football argentin",
+      "adaptation_fr": "Comme Maradona la main de Dieu, je triche quand il le faut pour survivre",
+      "theme": [
+        "rue",
+        "ambition",
+        "galere"
+      ],
+      "ton": "controversé",
+      "type": "reference",
+      "source": "sport",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ona",
+        "là",
+        "voilà"
+      ],
+      "note_usage": "évoque le génie couplé à la transgression des règles"
+    },
+    {
+      "id": "ref-100",
+      "texte": "Senna",
+      "langue": "fr",
+      "traduction_fr": "le pilote brésilien mort en course, légende absolue",
+      "adaptation_fr": "Je roule à la Senna, à fond jusqu'à la fin même si ça me tue",
+      "theme": [
+        "ambition",
+        "mort",
+        "douleur"
+      ],
+      "ton": "enflammé",
+      "type": "reference",
+      "source": "sport",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "na",
+        "là",
+        "voilà"
+      ],
+      "note_usage": "évoque la vitesse absolue et l'engagement total qui mène à la mort"
+    },
+    {
+      "id": "ref-101",
+      "texte": "Zidane",
+      "langue": "fr",
+      "traduction_fr": "le génie du ballon qui perdit tout sur un coup de tête",
+      "adaptation_fr": "Comme Zidane j'ai tout gâché sur un coup de tête, l'orgueil m'a coûté",
+      "theme": [
+        "ego",
+        "douleur",
+        "galere"
+      ],
+      "ton": "amer",
+      "type": "reference",
+      "source": "sport",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ane",
+        "peine",
+        "scène"
+      ],
+      "note_usage": "évoque l'orgueil qui détruit en un instant une carrière entière"
+    },
+    {
+      "id": "ref-102",
+      "texte": "Ronaldo",
+      "langue": "fr",
+      "traduction_fr": "Cristiano Ronaldo, obsession du travail et de la perfection",
+      "adaptation_fr": "Je m'entraîne comme Ronaldo, pendant que vous dormez je sculpte ma légende",
+      "theme": [
+        "ambition",
+        "ego",
+        "argent"
+      ],
+      "ton": "acharné",
+      "type": "reference",
+      "source": "sport",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "aldo",
+        "aldo",
+        "Paulo"
+      ],
+      "note_usage": "évoque l'acharnement au travail comme seul chemin vers l'excellence"
+    },
+    {
+      "id": "ref-103",
+      "texte": "Messi",
+      "langue": "fr",
+      "traduction_fr": "le génie argentin discret qui domina le monde",
+      "adaptation_fr": "Je parle peu comme Messi mais sur le terrain je montre qui je suis",
+      "theme": [
+        "ambition",
+        "ego",
+        "galere"
+      ],
+      "ton": "humble",
+      "type": "reference",
+      "source": "sport",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "essi",
+        "merci",
+        "ici"
+      ],
+      "note_usage": "évoque la domination silencieuse et les actes qui parlent d'eux-mêmes"
+    },
+    {
+      "id": "ref-104",
+      "texte": "Foreman",
+      "langue": "fr",
+      "traduction_fr": "George Foreman, la force pure battue par la ruse d'Ali",
+      "adaptation_fr": "T'as la force de Foreman mais j'ai la ruse d'Ali, c'est plié",
+      "theme": [
+        "rue",
+        "ego",
+        "ambition"
+      ],
+      "ton": "stratégique",
+      "type": "reference",
+      "source": "sport",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "an",
+        "plan",
+        "avant"
+      ],
+      "note_usage": "évoque la victoire de l'intelligence sur la force brute"
+    },
+    {
+      "id": "ref-105",
+      "texte": "Floyd Mayweather",
+      "langue": "fr",
+      "traduction_fr": "le boxeur invaincu qui vendait le show autant que la boxe",
+      "adaptation_fr": "Invaincu comme Mayweather, 50-0 dans ma carrière, aucune défaite",
+      "theme": [
+        "argent",
+        "ego",
+        "ambition"
+      ],
+      "ton": "fanfaron",
+      "type": "reference",
+      "source": "sport",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "her",
+        "air",
+        "fier"
+      ],
+      "note_usage": "évoque l'invincibilité et l'ego assumé dans la victoire"
+    },
+    {
+      "id": "ref-106",
+      "texte": "Pelé",
+      "langue": "fr",
+      "traduction_fr": "le roi du football brésilien",
+      "adaptation_fr": "Le seul vrai roi c'est Pelé, tous les autres jouent pour la deuxième place",
+      "theme": [
+        "ego",
+        "ambition",
+        "fete"
+      ],
+      "ton": "royal",
+      "type": "reference",
+      "source": "sport",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "lé",
+        "passé",
+        "liberté"
+      ],
+      "note_usage": "évoque l'indétrônable statut de roi dans un domaine"
+    },
+    {
+      "id": "ref-107",
+      "texte": "Usain Bolt",
+      "langue": "fr",
+      "traduction_fr": "l'homme le plus rapide du monde",
+      "adaptation_fr": "Je dépasse tout le monde comme Bolt, pas le temps de regarder derrière",
+      "theme": [
+        "ambition",
+        "ego",
+        "fete"
+      ],
+      "ton": "foudroyant",
+      "type": "reference",
+      "source": "sport",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "olt",
+        "vault",
+        "fault"
+      ],
+      "note_usage": "évoque une vitesse d'exécution qui laisse tout le monde sur place"
+    },
+    {
+      "id": "ref-108",
+      "texte": "Bruce Lee",
+      "langue": "fr",
+      "traduction_fr": "le maître des arts martiaux, philosophe du combat",
+      "adaptation_fr": "Sois comme l'eau, comme Bruce Lee, je m'adapte à n'importe quel ennemi",
+      "theme": [
+        "ambition",
+        "ego",
+        "rue"
+      ],
+      "ton": "philosophique",
+      "type": "reference",
+      "source": "sport",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "lee",
+        "city",
+        "free"
+      ],
+      "note_usage": "évoque l'adaptabilité et la maîtrise parfaite du corps et de l'esprit"
+    },
+    {
+      "id": "ref-109",
+      "texte": "Canelo",
+      "langue": "fr",
+      "traduction_fr": "le boxeur mexicain dur au mal",
+      "adaptation_fr": "Je prends les coups comme Canelo, je reste debout peu importe",
+      "theme": [
+        "douleur",
+        "galere",
+        "ambition"
+      ],
+      "ton": "résilient",
+      "type": "reference",
+      "source": "sport",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "lo",
+        "beau",
+        "nouveau"
+      ],
+      "note_usage": "évoque la capacité à encaisser et rester debout contre vents et marées"
+    },
+    {
+      "id": "ref-110",
+      "texte": "Roberto Durán",
+      "langue": "fr",
+      "traduction_fr": "les mains de pierre, légendaire boxeur panaméen",
+      "adaptation_fr": "J'ai les mains de Durán, en or dans la rue, en pierre sur le ring",
+      "theme": [
+        "rue",
+        "ego",
+        "douleur"
+      ],
+      "ton": "dur",
+      "type": "reference",
+      "source": "sport",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "an",
+        "plan",
+        "avant"
+      ],
+      "note_usage": "évoque une dureté physique et mentale forgée dans la souffrance"
+    },
+    {
+      "id": "ref-111",
+      "texte": "Federer",
+      "langue": "fr",
+      "traduction_fr": "l'élégance absolue du tennis",
+      "adaptation_fr": "Dans mon style c'est du Federer, une élégance qui assassine proprement",
+      "theme": [
+        "ego",
+        "ambition",
+        "argent"
+      ],
+      "ton": "élégant",
+      "type": "reference",
+      "source": "sport",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "er",
+        "hier",
+        "fier"
+      ],
+      "note_usage": "évoque une maîtrise technique tellement parfaite qu'elle paraît facile"
+    },
+    {
+      "id": "ref-112",
+      "texte": "Lebron",
+      "langue": "fr",
+      "traduction_fr": "le roi du basket moderne, polyvalent et dominant",
+      "adaptation_fr": "Je suis le Lebron de ma génération, le roi qui fait tout et mieux que tous",
+      "theme": [
+        "ambition",
+        "ego",
+        "argent"
+      ],
+      "ton": "royal",
+      "type": "reference",
+      "source": "sport",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "on",
+        "bon",
+        "maison"
+      ],
+      "note_usage": "évoque la polyvalence absolue et la domination sur une génération entière"
+    },
+    {
+      "id": "ref-113",
+      "texte": "Ayrton",
+      "langue": "fr",
+      "traduction_fr": "Ayrton Senna, le prodige qui sentait la pluie",
+      "adaptation_fr": "Comme Ayrton dans la pluie, je suis le seul à maîtriser ce chaos",
+      "theme": [
+        "ambition",
+        "douleur",
+        "ego"
+      ],
+      "ton": "mystique",
+      "type": "reference",
+      "source": "sport",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "on",
+        "bon",
+        "maison"
+      ],
+      "note_usage": "évoque la maîtrise unique d'une situation que personne d'autre ne peut gérer"
+    },
+    {
+      "id": "ref-114",
+      "texte": "Schumacher",
+      "langue": "fr",
+      "traduction_fr": "le champion F1 aux sept titres mondiaux",
+      "adaptation_fr": "Sept titres comme Schumacher, ma domination est statistique",
+      "theme": [
+        "ego",
+        "ambition",
+        "argent"
+      ],
+      "ton": "précis",
+      "type": "reference",
+      "source": "sport",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "er",
+        "hier",
+        "fier"
+      ],
+      "note_usage": "évoque la domination chiffrée et incontestable dans sa discipline"
+    },
+    {
+      "id": "ref-115",
+      "texte": "Kobe",
+      "langue": "fr",
+      "traduction_fr": "Kobe Bryant, Mamba mentality",
+      "adaptation_fr": "Mamba mentality, comme Kobe je n'accepte pas la défaite",
+      "theme": [
+        "ambition",
+        "ego",
+        "douleur"
+      ],
+      "ton": "obsessionnel",
+      "type": "reference",
+      "source": "sport",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "be",
+        "vibe",
+        "tribe"
+      ],
+      "note_usage": "évoque le dépassement de soi absolu et le refus de la médiocrité"
+    },
+    {
+      "id": "ref-116",
+      "texte": "Al Capone",
+      "langue": "fr",
+      "traduction_fr": "le parrain de Chicago, l'empire du crime organisé",
+      "adaptation_fr": "J'ai monté mon empire comme Capone, légal en façade, solide dans l'ombre",
+      "theme": [
+        "argent",
+        "rue",
+        "ambition"
+      ],
+      "ton": "mafieux",
+      "type": "reference",
+      "source": "culture criminelle",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "one",
+        "tone",
+        "zone"
+      ],
+      "note_usage": "évoque la construction d'un empire criminel avec une façade légitime"
+    },
+    {
+      "id": "ref-117",
+      "texte": "Escobar",
+      "langue": "fr",
+      "traduction_fr": "Pablo Escobar, le baron de la cocaïne colombien",
+      "adaptation_fr": "Dans mon cartel de la rime je règne comme Escobar, plata o plomo",
+      "theme": [
+        "argent",
+        "rue",
+        "mort"
+      ],
+      "ton": "cartel",
+      "type": "reference",
+      "source": "culture criminelle",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ar",
+        "départ",
+        "regard"
+      ],
+      "note_usage": "évoque la richesse obscène et le pouvoir absolu au prix de la violence"
+    },
+    {
+      "id": "ref-118",
+      "texte": "Scarface",
+      "langue": "fr",
+      "traduction_fr": "Tony Montana, du rien au sommet puis la chute",
+      "adaptation_fr": "Du carton à ce sommet, mon histoire c'est Scarface version Paname",
+      "theme": [
+        "argent",
+        "ambition",
+        "galere",
+        "mort"
+      ],
+      "ton": "ascension",
+      "type": "reference",
+      "source": "cinéma",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "face",
+        "place",
+        "trace"
+      ],
+      "note_usage": "évoque l'ascension fulgurante du rien vers tout, suivie de la chute"
+    },
+    {
+      "id": "ref-119",
+      "texte": "Corleone",
+      "langue": "fr",
+      "traduction_fr": "le parrain de la mafia, famille et pouvoir",
+      "adaptation_fr": "Je fais une offre comme Corleone, une qu'on refuse pas",
+      "theme": [
+        "famille",
+        "rue",
+        "ambition"
+      ],
+      "ton": "mafieux",
+      "type": "reference",
+      "source": "cinéma",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "one",
+        "tone",
+        "zone"
+      ],
+      "note_usage": "évoque le pouvoir irrésistible et la logique mafieuse de la famille"
+    },
+    {
+      "id": "ref-120",
+      "texte": "Lucky Luciano",
+      "langue": "fr",
+      "traduction_fr": "le fondateur de la mafia américaine moderne",
+      "adaptation_fr": "J'ai restructuré le game comme Lucky Luciano, nouvelle organisation",
+      "theme": [
+        "argent",
+        "ambition",
+        "rue"
+      ],
+      "ton": "organisateur",
+      "type": "reference",
+      "source": "culture criminelle",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ano",
+        "piano",
+        "scénario"
+      ],
+      "note_usage": "évoque la réorganisation stratégique d'un milieu pour en prendre le contrôle"
+    },
+    {
+      "id": "ref-121",
+      "texte": "Frank Lucas",
+      "langue": "fr",
+      "traduction_fr": "le trafiquant qui coupait la cocaïne directement en Asie",
+      "adaptation_fr": "Je coupe directement à la source comme Frank Lucas, zéro intermédiaire",
+      "theme": [
+        "argent",
+        "rue",
+        "ambition"
+      ],
+      "ton": "business",
+      "type": "reference",
+      "source": "culture criminelle",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "as",
+        "bras",
+        "déjà"
+      ],
+      "note_usage": "évoque l'élimination des intermédiaires pour maximiser le profit"
+    },
+    {
+      "id": "ref-122",
+      "texte": "Bumpy Johnson",
+      "langue": "fr",
+      "traduction_fr": "le parrain de Harlem",
+      "adaptation_fr": "Je règne sur mon Harlem comme Bumpy Johnson, respect oblige",
+      "theme": [
+        "rue",
+        "argent",
+        "famille"
+      ],
+      "ton": "patriarche",
+      "type": "reference",
+      "source": "culture criminelle",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "on",
+        "bon",
+        "maison"
+      ],
+      "note_usage": "évoque le contrôle bienveillant mais ferme d'un territoire"
+    },
+    {
+      "id": "ref-123",
+      "texte": "John Gotti",
+      "langue": "fr",
+      "traduction_fr": "le Parrain de Teflon, toujours acquitté",
+      "adaptation_fr": "Rien ne colle sur moi comme Gotti, la justice glisse",
+      "theme": [
+        "rue",
+        "ambition",
+        "argent"
+      ],
+      "ton": "intouchable",
+      "type": "reference",
+      "source": "culture criminelle",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ti",
+        "merci",
+        "ici"
+      ],
+      "note_usage": "évoque l'intouchabilité et le fait de passer à travers les mailles"
+    },
+    {
+      "id": "ref-124",
+      "texte": "Bugsy Siegel",
+      "langue": "fr",
+      "traduction_fr": "le gangster visionnaire qui inventa Las Vegas",
+      "adaptation_fr": "Vision de Bugsy Siegel, je construis mon Vegas dans le désert du game",
+      "theme": [
+        "ambition",
+        "argent",
+        "rue"
+      ],
+      "ton": "visionnaire",
+      "type": "reference",
+      "source": "culture criminelle",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "gel",
+        "ciel",
+        "tel"
+      ],
+      "note_usage": "évoque la vision d'un empire construit là où personne n'y croyait"
+    },
+    {
+      "id": "ref-125",
+      "texte": "El Chapo",
+      "langue": "fr",
+      "traduction_fr": "le baron des cartels mexicains qui s'évadait toujours",
+      "adaptation_fr": "Comme El Chapo on m'enferme, je creuse mon tunnel et je repars",
+      "theme": [
+        "prison",
+        "ambition",
+        "rue"
+      ],
+      "ton": "insaisissable",
+      "type": "reference",
+      "source": "culture criminelle",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "apo",
+        "repas",
+        "déjà"
+      ],
+      "note_usage": "évoque l'insaisissabilité et la capacité à s'échapper de toute prison"
+    },
+    {
+      "id": "ref-126",
+      "texte": "Griselda Blanco",
+      "langue": "fr",
+      "traduction_fr": "la marraine de la cocaïne, plus impitoyable que les hommes",
+      "adaptation_fr": "Elle joue à la Griselda Blanco, plus froide que n'importe quel homme dans ce game",
+      "theme": [
+        "ambition",
+        "argent",
+        "mort"
+      ],
+      "ton": "implacable",
+      "type": "reference",
+      "source": "culture criminelle",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "anco",
+        "banco",
+        "franco"
+      ],
+      "note_usage": "évoque une femme qui surpasse les hommes dans l'impitoyabilité"
+    },
+    {
+      "id": "ref-127",
+      "texte": "Whitey Bulger",
+      "langue": "fr",
+      "traduction_fr": "le parrain de Boston informateur secret du FBI",
+      "adaptation_fr": "Méfie-toi du Whitey dans ton crew, il balance à la police",
+      "theme": [
+        "trahison",
+        "rue",
+        "famille"
+      ],
+      "ton": "paranoïaque",
+      "type": "reference",
+      "source": "culture criminelle",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "er",
+        "hier",
+        "premier"
+      ],
+      "note_usage": "évoque le traître caché parmi les siens qui collabore en secret"
+    },
+    {
+      "id": "ref-128",
+      "texte": "Nino Brown",
+      "langue": "fr",
+      "traduction_fr": "le dealer fictif de New Jack City",
+      "adaptation_fr": "Nino Brown dans mes gènes, je prends le building entier",
+      "theme": [
+        "argent",
+        "rue",
+        "ambition"
+      ],
+      "ton": "territorial",
+      "type": "reference",
+      "source": "cinéma",
+      "droits": "droits_tiers",
+      "rimes_fr": [
+        "own",
+        "town",
+        "brown"
+      ],
+      "note_usage": "évoque la prise de contrôle totale d'un territoire par la force"
+    },
+    {
+      "id": "ref-129",
+      "texte": "Stringer Bell",
+      "langue": "fr",
+      "traduction_fr": "le dealer de The Wire qui étudiait l'économie",
+      "adaptation_fr": "Je gère mon business comme Stringer Bell, MBA et rue en même temps",
+      "theme": [
+        "argent",
+        "ambition",
+        "rue"
+      ],
+      "ton": "intelligent",
+      "type": "reference",
+      "source": "série TV",
+      "droits": "droits_tiers",
+      "rimes_fr": [
+        "ell",
+        "tel",
+        "ciel"
+      ],
+      "note_usage": "évoque l'application des principes académiques aux réalités de la rue"
+    },
+    {
+      "id": "ref-130",
+      "texte": "Barksdale",
+      "langue": "fr",
+      "traduction_fr": "le chef du gang de The Wire, pouvoir et codes",
+      "adaptation_fr": "Mon organisation, c'est du Barksdale, les codes sont respectés ou tu pars",
+      "theme": [
+        "rue",
+        "famille",
+        "ambition"
+      ],
+      "ton": "hiérarchique",
+      "type": "reference",
+      "source": "série TV",
+      "droits": "droits_tiers",
+      "rimes_fr": [
+        "dale",
+        "oval",
+        "mal"
+      ],
+      "note_usage": "évoque une organisation criminelle avec ses propres codes d'honneur"
+    },
+    {
+      "id": "ref-131",
+      "texte": "Omar Little",
+      "langue": "fr",
+      "traduction_fr": "le braqueur de dealers de The Wire, intègre à sa façon",
+      "adaptation_fr": "Comme Omar je braque ceux qui braquent, c'est ma propre morale",
+      "theme": [
+        "rue",
+        "revolte",
+        "ego"
+      ],
+      "ton": "libre",
+      "type": "reference",
+      "source": "série TV",
+      "droits": "droits_tiers",
+      "rimes_fr": [
+        "ttle",
+        "little",
+        "vitale"
+      ],
+      "note_usage": "évoque le code d'honneur personnel dans un monde sans morale officielle"
+    },
+    {
+      "id": "ref-132",
+      "texte": "Tony Soprano",
+      "langue": "fr",
+      "traduction_fr": "le parrain dépressif qui gérait famille et empire",
+      "adaptation_fr": "Comme Tony Soprano je tiens la façade mais intérieur c'est un gouffre",
+      "theme": [
+        "famille",
+        "douleur",
+        "argent"
+      ],
+      "ton": "ambivalent",
+      "type": "reference",
+      "source": "série TV",
+      "droits": "droits_tiers",
+      "rimes_fr": [
+        "ano",
+        "piano",
+        "scénario"
+      ],
+      "note_usage": "évoque la dualité entre la force apparente et la fragilité intérieure"
+    },
+    {
+      "id": "ref-133",
+      "texte": "Walter White",
+      "langue": "fr",
+      "traduction_fr": "le prof devenu baron de la drogue, transformation radicale",
+      "adaptation_fr": "J'ai fait ma transformation Walter White, Heisenberg c'est moi maintenant",
+      "theme": [
+        "ambition",
+        "douleur",
+        "argent"
+      ],
+      "ton": "transformé",
+      "type": "reference",
+      "source": "série TV",
+      "droits": "droits_tiers",
+      "rimes_fr": [
+        "ite",
+        "white",
+        "night"
+      ],
+      "note_usage": "évoque la transformation totale d'une personne par l'ambition et la nécessité"
+    },
+    {
+      "id": "ref-134",
+      "texte": "Chapo Guzmán",
+      "langue": "fr",
+      "traduction_fr": "l'empire de la drogue traversant les frontières",
+      "adaptation_fr": "Mon réseau comme Chapo Guzmán, frontières invisibles pour moi",
+      "theme": [
+        "argent",
+        "ambition",
+        "rue"
+      ],
+      "ton": "international",
+      "type": "reference",
+      "source": "culture criminelle",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "an",
+        "plan",
+        "avant"
+      ],
+      "note_usage": "évoque un réseau d'influence qui transcende les frontières géographiques"
+    },
+    {
+      "id": "ref-135",
+      "texte": "Mesrine",
+      "langue": "fr",
+      "traduction_fr": "l'ennemi public numéro un français",
+      "adaptation_fr": "Ennemi public comme Mesrine, l'État me traque mais je cours encore",
+      "theme": [
+        "revolte",
+        "rue",
+        "mort"
+      ],
+      "ton": "rebelle",
+      "type": "reference",
+      "source": "histoire française",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ine",
+        "machine",
+        "mine"
+      ],
+      "note_usage": "évoque la résistance à l'état et le statut d'ennemi public flamboyant"
+    },
+    {
+      "id": "ref-136",
+      "texte": "Bonnot",
+      "langue": "fr",
+      "traduction_fr": "la bande à Bonnot, anarchistes et braqueurs",
+      "adaptation_fr": "La bande à Bonnot revisitée, nos braquages sont des punchlines",
+      "theme": [
+        "revolte",
+        "rue",
+        "galere"
+      ],
+      "ton": "anarchiste",
+      "type": "reference",
+      "source": "histoire française",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ot",
+        "beau",
+        "nouveau"
+      ],
+      "note_usage": "évoque le crime comme acte politique et la résistance anarchiste"
+    },
+    {
+      "id": "ref-137",
+      "texte": "Sam Giancana",
+      "langue": "fr",
+      "traduction_fr": "le parrain de Chicago lié à la CIA et Kennedy",
+      "adaptation_fr": "Mes connexions comme Giancana, jusqu'au plus haut niveau sans qu'on le sache",
+      "theme": [
+        "ambition",
+        "argent",
+        "trahison"
+      ],
+      "ton": "mystérieux",
+      "type": "reference",
+      "source": "culture criminelle",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ana",
+        "là",
+        "déjà"
+      ],
+      "note_usage": "évoque les connexions secrètes avec les hautes sphères du pouvoir"
+    },
+    {
+      "id": "ref-138",
+      "texte": "Cartel",
+      "langue": "fr",
+      "traduction_fr": "l'organisation criminelle transnationale",
+      "adaptation_fr": "Mon label c'est un cartel, on contrôle les routes du son",
+      "theme": [
+        "argent",
+        "ambition",
+        "rue"
+      ],
+      "ton": "business",
+      "type": "reference",
+      "source": "culture criminelle",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "tel",
+        "ciel",
+        "appel"
+      ],
+      "note_usage": "évoque une organisation dominante qui contrôle un marché entier"
+    },
+    {
+      "id": "ref-139",
+      "texte": "Soprano",
+      "langue": "fr",
+      "traduction_fr": "puissance mafieuse transmise de génération en génération",
+      "adaptation_fr": "La famille Soprano sans les remords, on tient le bloc depuis trois générations",
+      "theme": [
+        "famille",
+        "argent",
+        "rue"
+      ],
+      "ton": "dynastique",
+      "type": "reference",
+      "source": "série TV",
+      "droits": "droits_tiers",
+      "rimes_fr": [
+        "ano",
+        "piano",
+        "scénario"
+      ],
+      "note_usage": "évoque la transmission du pouvoir dans une structure familiale criminelle"
+    },
+    {
+      "id": "ref-140",
+      "texte": "Don Vito",
+      "langue": "fr",
+      "traduction_fr": "le Parrain de Coppola, puissance et respect",
+      "adaptation_fr": "J'aspire à être Don Vito, le respect que ça commande sans élever la voix",
+      "theme": [
+        "famille",
+        "ambition",
+        "argent"
+      ],
+      "ton": "patriarche",
+      "type": "reference",
+      "source": "cinéma",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ito",
+        "dito",
+        "mito"
+      ],
+      "note_usage": "évoque le pouvoir absolu qui s'exprime dans le calme et le respect"
+    },
+    {
+      "id": "ref-141",
+      "texte": "Babylone",
+      "langue": "fr",
+      "traduction_fr": "la cité antique symbole d'excès et de corruption",
+      "adaptation_fr": "Cette ville c'est Babylone, la luxure et la chute en même temps",
+      "theme": [
+        "argent",
+        "fete",
+        "mort"
+      ],
+      "ton": "biblique",
+      "type": "reference",
+      "source": "histoire ancienne",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "lone",
+        "zone",
+        "zone"
+      ],
+      "note_usage": "évoque la cité de tous les excès qui court vers sa propre destruction"
+    },
+    {
+      "id": "ref-142",
+      "texte": "Rome",
+      "langue": "fr",
+      "traduction_fr": "l'empire éternel qui domina le monde connu",
+      "adaptation_fr": "Tous les chemins mènent à Rome, et tous les flows mènent à moi",
+      "theme": [
+        "ambition",
+        "ego",
+        "argent"
+      ],
+      "ton": "impérial",
+      "type": "reference",
+      "source": "histoire ancienne",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ome",
+        "comme",
+        "homme"
+      ],
+      "note_usage": "évoque la centralité absolue et l'empire incontournable"
+    },
+    {
+      "id": "ref-143",
+      "texte": "Troie",
+      "langue": "fr",
+      "traduction_fr": "la cité invincible tombée par ruse",
+      "adaptation_fr": "Comme Troie j'étais imprenable, jusqu'au cheval dans mon entourage",
+      "theme": [
+        "trahison",
+        "douleur",
+        "famille"
+      ],
+      "ton": "tragique",
+      "type": "reference",
+      "source": "histoire ancienne",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "oie",
+        "foi",
+        "moi"
+      ],
+      "note_usage": "évoque la forteresse imprenable détruite de l'intérieur par la ruse"
+    },
+    {
+      "id": "ref-144",
+      "texte": "Carthage",
+      "langue": "fr",
+      "traduction_fr": "la rivale de Rome détruite et effacée de l'histoire",
+      "adaptation_fr": "Je veux pas finir comme Carthage, effacé de la carte, oublié",
+      "theme": [
+        "mort",
+        "douleur",
+        "ambition"
+      ],
+      "ton": "hantise",
+      "type": "reference",
+      "source": "histoire ancienne",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "age",
+        "rage",
+        "passage"
+      ],
+      "note_usage": "évoque la peur d'être détruit et effacé par une puissance plus grande"
+    },
+    {
+      "id": "ref-145",
+      "texte": "Empire ottoman",
+      "langue": "fr",
+      "traduction_fr": "l'empire qui dura six siècles entre trois continents",
+      "adaptation_fr": "Mon empire comme les Ottomans, je règne sur trois continents à la fois",
+      "theme": [
+        "ambition",
+        "argent",
+        "ego"
+      ],
+      "ton": "expansif",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "an",
+        "plan",
+        "avant"
+      ],
+      "note_usage": "évoque un empire vaste qui transcende les frontières culturelles"
+    },
+    {
+      "id": "ref-146",
+      "texte": "Trône de fer",
+      "langue": "fr",
+      "traduction_fr": "le siège du pouvoir absolu forgé dans la douleur",
+      "adaptation_fr": "Le trône de fer m'a déchiré mais je le garde, le pouvoir a un prix",
+      "theme": [
+        "ambition",
+        "douleur",
+        "ego"
+      ],
+      "ton": "épique",
+      "type": "reference",
+      "source": "fiction",
+      "droits": "droits_tiers",
+      "rimes_fr": [
+        "er",
+        "hier",
+        "fier"
+      ],
+      "note_usage": "évoque le pouvoir absolu qui blesse celui qui le détient"
+    },
+    {
+      "id": "ref-147",
+      "texte": "Bagdad",
+      "langue": "fr",
+      "traduction_fr": "la cité des mille et une nuits, splendeur et destruction",
+      "adaptation_fr": "Mes nuits sont les mille et une de Bagdad, chaque soir un conte",
+      "theme": [
+        "nostalgie",
+        "fete",
+        "exil"
+      ],
+      "ton": "orientaliste",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ad",
+        "bad",
+        "dad"
+      ],
+      "note_usage": "évoque la richesse culturelle et le contraste avec la destruction moderne"
+    },
+    {
+      "id": "ref-148",
+      "texte": "El Dorado",
+      "langue": "fr",
+      "traduction_fr": "la cité d'or mythique que personne n'a trouvée",
+      "adaptation_fr": "Je cherche mon El Dorado, la fortune promise qu'on voit jamais",
+      "theme": [
+        "argent",
+        "galere",
+        "ambition"
+      ],
+      "ton": "illusoire",
+      "type": "reference",
+      "source": "mythologie américaine",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ado",
+        "beau",
+        "nouveau"
+      ],
+      "note_usage": "évoque la richesse promise qui reste toujours hors de portée"
+    },
+    {
+      "id": "ref-149",
+      "texte": "Versailles",
+      "langue": "fr",
+      "traduction_fr": "le palais de Louis XIV, faste et absolutisme",
+      "adaptation_fr": "Mon studio c'est Versailles, j'y règne sans partage",
+      "theme": [
+        "argent",
+        "ego",
+        "ambition"
+      ],
+      "ton": "fastueux",
+      "type": "reference",
+      "source": "histoire française",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ailles",
+        "médailles",
+        "canailles"
+      ],
+      "note_usage": "évoque le luxe ostentatoire et le règne absolu dans son domaine"
+    },
+    {
+      "id": "ref-150",
+      "texte": "Harlem",
+      "langue": "fr",
+      "traduction_fr": "le quartier noir de New York, berceau de la culture",
+      "adaptation_fr": "Mon Harlem à moi c'est cette cité, je l'ai dans le sang",
+      "theme": [
+        "rue",
+        "famille",
+        "nostalgie"
+      ],
+      "ton": "fier",
+      "type": "reference",
+      "source": "culture urbaine",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "lem",
+        "problème",
+        "extrême"
+      ],
+      "note_usage": "évoque l'attachement profond à un quartier comme identité fondatrice"
+    },
+    {
+      "id": "ref-151",
+      "texte": "Olympe",
+      "langue": "fr",
+      "traduction_fr": "la montagne des dieux, le sommet inaccessible",
+      "adaptation_fr": "Mon sommet c'est l'Olympe, je n'y reçois que les dieux",
+      "theme": [
+        "ego",
+        "ambition",
+        "argent"
+      ],
+      "ton": "hautain",
+      "type": "reference",
+      "source": "mythologie grecque",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "pe",
+        "type",
+        "pipe"
+      ],
+      "note_usage": "évoque la hauteur absolue et l'inaccessibilité du niveau atteint"
+    },
+    {
+      "id": "ref-152",
+      "texte": "Alcatraz",
+      "langue": "fr",
+      "traduction_fr": "la prison réputée inéchappable dans la baie de San Francisco",
+      "adaptation_fr": "Ils m'ont mis en Alcatraz mental, mais j'ai quand même trouvé la sortie",
+      "theme": [
+        "prison",
+        "revolte",
+        "douleur"
+      ],
+      "ton": "oppressif",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "az",
+        "jazz",
+        "déjà"
+      ],
+      "note_usage": "évoque la prison inéchappable dont on trouve néanmoins l'issue"
+    },
+    {
+      "id": "ref-153",
+      "texte": "Compton",
+      "langue": "fr",
+      "traduction_fr": "la ville californienne berceau du gangsta rap",
+      "adaptation_fr": "Mon bloc c'est mon Compton, j'en suis sorti mais il est en moi",
+      "theme": [
+        "rue",
+        "famille",
+        "nostalgie"
+      ],
+      "ton": "fier",
+      "type": "reference",
+      "source": "culture hip-hop",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "on",
+        "bon",
+        "maison"
+      ],
+      "note_usage": "évoque l'origine difficile comme marque identitaire indélébile"
+    },
+    {
+      "id": "ref-154",
+      "texte": "Versailles (cour)",
+      "langue": "fr",
+      "traduction_fr": "l'hypocrisie des courtisans sous la magnificence",
+      "adaptation_fr": "L'industrie c'est Versailles, les courtisans sourient et poignardent",
+      "theme": [
+        "trahison",
+        "ambition",
+        "argent"
+      ],
+      "ton": "cynique",
+      "type": "reference",
+      "source": "histoire française",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ailles",
+        "médailles",
+        "batailles"
+      ],
+      "note_usage": "évoque les relations de façade cachant des calculs et des trahisons"
+    },
+    {
+      "id": "ref-155",
+      "texte": "Beyrouth",
+      "langue": "fr",
+      "traduction_fr": "la ville déchirée par la guerre mais toujours vivante",
+      "adaptation_fr": "Cette cité comme Beyrouth, bombardée mais jamais morte",
+      "theme": [
+        "douleur",
+        "revolte",
+        "exil"
+      ],
+      "ton": "résilient",
+      "type": "reference",
+      "source": "géopolitique",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "outh",
+        "truth",
+        "youth"
+      ],
+      "note_usage": "évoque la résilience d'une ville ou d'un peuple face à la destruction"
+    },
+    {
+      "id": "ref-156",
+      "texte": "Hiroshima",
+      "langue": "fr",
+      "traduction_fr": "la ville rasée par la bombe atomique en 1945",
+      "adaptation_fr": "Mon impact sur ce beat c'est Hiroshima, rien ne reste debout après",
+      "theme": [
+        "mort",
+        "douleur",
+        "revolte"
+      ],
+      "ton": "dévastateur",
+      "type": "reference",
+      "source": "histoire",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ima",
+        "cima",
+        "prima"
+      ],
+      "note_usage": "évoque une destruction totale et instantanée sans survivants"
+    },
+    {
+      "id": "ref-157",
+      "texte": "Pompéi",
+      "langue": "fr",
+      "traduction_fr": "la ville figée dans la lave, morte en un instant",
+      "adaptation_fr": "Comme Pompéi figée sous la lave, cette génération mourra dans ses habitudes",
+      "theme": [
+        "mort",
+        "nostalgie",
+        "douleur"
+      ],
+      "ton": "mélancolique",
+      "type": "reference",
+      "source": "histoire ancienne",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ei",
+        "jamais",
+        "paix"
+      ],
+      "note_usage": "évoque le gel d'une époque détruite en un instant sous l'impulsion d'une force supérieure"
+    },
+    {
+      "id": "ref-158",
+      "texte": "Sparta",
+      "langue": "fr",
+      "traduction_fr": "la cité-état des guerriers indomptables",
+      "adaptation_fr": "Mon éducation à la dure, c'est Sparta dans le 9-3",
+      "theme": [
+        "galere",
+        "douleur",
+        "rue"
+      ],
+      "ton": "dur",
+      "type": "reference",
+      "source": "histoire ancienne",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ta",
+        "là",
+        "voilà"
+      ],
+      "note_usage": "évoque une éducation par la dureté qui produit des guerriers"
+    },
+    {
+      "id": "ref-159",
+      "texte": "Tour de Babel",
+      "langue": "fr",
+      "traduction_fr": "l'orgueil qui mena à la confusion des langues",
+      "adaptation_fr": "Mon label a construit une Tour de Babel, egos trop grands pour cohabiter",
+      "theme": [
+        "trahison",
+        "ambition",
+        "ego"
+      ],
+      "ton": "moralisateur",
+      "type": "reference",
+      "source": "Bible",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "bel",
+        "ciel",
+        "appel"
+      ],
+      "note_usage": "évoque la destruction d'un projet collectif par l'orgueil de ses membres"
+    },
+    {
+      "id": "ref-160",
+      "texte": "Sodome",
+      "langue": "fr",
+      "traduction_fr": "la ville détruite pour ses péchés",
+      "adaptation_fr": "Cette industrie c'est Sodome, la foudre va tomber sur les corrompus",
+      "theme": [
+        "mort",
+        "revolte",
+        "drogue"
+      ],
+      "ton": "prophétique",
+      "type": "reference",
+      "source": "Bible",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ome",
+        "comme",
+        "homme"
+      ],
+      "note_usage": "évoque un milieu tellement corrompu qu'il court à sa propre destruction"
+    },
+    {
+      "id": "ref-161",
+      "texte": "Rolex",
+      "langue": "fr",
+      "traduction_fr": "la montre qui dit que tu es arrivé",
+      "adaptation_fr": "La Rolex au poignet, le temps m'appartient maintenant",
+      "theme": [
+        "argent",
+        "ambition",
+        "fete"
+      ],
+      "ton": "ostentatoire",
+      "type": "reference",
+      "source": "marque luxe",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ex",
+        "complex",
+        "reflex"
+      ],
+      "note_usage": "symbole de la réussite matérielle visible portée au poignet"
+    },
+    {
+      "id": "ref-162",
+      "texte": "Louis Vuitton",
+      "langue": "fr",
+      "traduction_fr": "le monogramme qui sépare ceux qui arrivent de ceux qui rêvent",
+      "adaptation_fr": "Du carton au Louis Vuitton, ma vie est une collection capsule",
+      "theme": [
+        "argent",
+        "ambition",
+        "galere"
+      ],
+      "ton": "évolution",
+      "type": "reference",
+      "source": "marque luxe",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "on",
+        "bon",
+        "maison"
+      ],
+      "note_usage": "évoque le passage symbolique de la misère au luxe"
+    },
+    {
+      "id": "ref-163",
+      "texte": "Lamborghini",
+      "langue": "fr",
+      "traduction_fr": "la voiture des fous qui ont réussi trop vite",
+      "adaptation_fr": "Lamborghini sous mes fesses, le quartier me regardait en rêvant",
+      "theme": [
+        "argent",
+        "fete",
+        "ambition"
+      ],
+      "ton": "flambeur",
+      "type": "reference",
+      "source": "marque luxe",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ni",
+        "ici",
+        "merci"
+      ],
+      "note_usage": "évoque la réussite matérielle excessive et le retour triomphal aux origines"
+    },
+    {
+      "id": "ref-164",
+      "texte": "Versace",
+      "langue": "fr",
+      "traduction_fr": "le luxe flamboyant et la démesure italienne",
+      "adaptation_fr": "Versace de la tête aux pieds, j'ai habillé ma douleur en or",
+      "theme": [
+        "argent",
+        "douleur",
+        "fete"
+      ],
+      "ton": "baroque",
+      "type": "reference",
+      "source": "marque luxe",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ace",
+        "place",
+        "trace"
+      ],
+      "note_usage": "évoque l'habillage de la souffrance sous des atours de luxe ostentatoire"
+    },
+    {
+      "id": "ref-165",
+      "texte": "Gucci",
+      "langue": "fr",
+      "traduction_fr": "le GG comme symbole d'appartenance à l'élite",
+      "adaptation_fr": "Double G Gucci sur mon cœur mais triple G dans la rue",
+      "theme": [
+        "argent",
+        "rue",
+        "ego"
+      ],
+      "ton": "duel",
+      "type": "reference",
+      "source": "marque luxe",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ucci",
+        "poucci",
+        "ici"
+      ],
+      "note_usage": "évoque le contraste entre le symbole du luxe et les réalités de la rue"
+    },
+    {
+      "id": "ref-166",
+      "texte": "Ferrari",
+      "langue": "fr",
+      "traduction_fr": "le cheval cabré symbole de vitesse et de passion",
+      "adaptation_fr": "Je passe sur ce beat comme une Ferrari dans le tunnel",
+      "theme": [
+        "argent",
+        "ego",
+        "ambition"
+      ],
+      "ton": "rapide",
+      "type": "reference",
+      "source": "marque luxe",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ari",
+        "mari",
+        "Paris"
+      ],
+      "note_usage": "évoque une vitesse et une passion dévastatrices dans un espace contraint"
+    },
+    {
+      "id": "ref-167",
+      "texte": "Champagne",
+      "langue": "fr",
+      "traduction_fr": "la boisson de la victoire et de l'excès",
+      "adaptation_fr": "Champagne sur les plaies, j'arrose ma douleur avec de la victoire",
+      "theme": [
+        "fete",
+        "argent",
+        "douleur"
+      ],
+      "ton": "festif",
+      "type": "reference",
+      "source": "culture",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "agne",
+        "campagne",
+        "montagne"
+      ],
+      "note_usage": "évoque la célébration excessive comme manière de couvrir la douleur"
+    },
+    {
+      "id": "ref-168",
+      "texte": "Birkin",
+      "langue": "fr",
+      "traduction_fr": "le sac Hermès à 30 000 euros liste d'attente",
+      "adaptation_fr": "T'attends en Birkin list pendant que moi j'y suis déjà",
+      "theme": [
+        "argent",
+        "ambition",
+        "ego"
+      ],
+      "ton": "snob",
+      "type": "reference",
+      "source": "marque luxe",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "in",
+        "destin",
+        "matin"
+      ],
+      "note_usage": "évoque l'exclusivité absolue et l'appartenance à un cercle fermé"
+    },
+    {
+      "id": "ref-169",
+      "texte": "Air Jordan",
+      "langue": "fr",
+      "traduction_fr": "la sneaker qui transcende le sport et la rue",
+      "adaptation_fr": "Mes Air Jordan neuves sur du bitume sale, c'est mon histoire entière",
+      "theme": [
+        "rue",
+        "argent",
+        "nostalgie"
+      ],
+      "ton": "nostalgique",
+      "type": "reference",
+      "source": "marque streetwear",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "an",
+        "plan",
+        "avant"
+      ],
+      "note_usage": "évoque le contraste entre l'aspiration au luxe et la réalité de la rue"
+    },
+    {
+      "id": "ref-170",
+      "texte": "Balmain",
+      "langue": "fr",
+      "traduction_fr": "le luxe parisien adopté par la rue",
+      "adaptation_fr": "Du Balmain cousu main sur un corps taillé dans la rue",
+      "theme": [
+        "argent",
+        "rue",
+        "ambition"
+      ],
+      "ton": "parisien",
+      "type": "reference",
+      "source": "marque luxe",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ain",
+        "main",
+        "demain"
+      ],
+      "note_usage": "évoque la fusion du luxe haute couture et de la culture urbaine"
+    },
+    {
+      "id": "ref-171",
+      "texte": "Rolls-Royce",
+      "langue": "fr",
+      "traduction_fr": "la voiture des empereurs modernes",
+      "adaptation_fr": "Rolls-Royce Ghost dans ma vie fantôme, on voit que le luxe",
+      "theme": [
+        "argent",
+        "ambition",
+        "ego"
+      ],
+      "ton": "royal",
+      "type": "reference",
+      "source": "marque luxe",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "oice",
+        "voice",
+        "choice"
+      ],
+      "note_usage": "évoque le summum du luxe automobile et le statut royal contemporain"
+    },
+    {
+      "id": "ref-172",
+      "texte": "Cartier",
+      "langue": "fr",
+      "traduction_fr": "le joaillier des rois et des rappeurs",
+      "adaptation_fr": "Love Cartier au poignet, chaque anneau une douleur enkystée en or",
+      "theme": [
+        "amour",
+        "argent",
+        "douleur"
+      ],
+      "ton": "romantique",
+      "type": "reference",
+      "source": "marque luxe",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ier",
+        "hier",
+        "fier"
+      ],
+      "note_usage": "évoque la transformation de la souffrance en ornement précieux"
+    },
+    {
+      "id": "ref-173",
+      "texte": "Cristal",
+      "langue": "fr",
+      "traduction_fr": "le Cristal Roederer, champagne des rappeurs",
+      "adaptation_fr": "Cristal dans les coupes pour noyer les coups du sort",
+      "theme": [
+        "fete",
+        "argent",
+        "douleur"
+      ],
+      "ton": "extravagant",
+      "type": "reference",
+      "source": "marque luxe",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "al",
+        "rival",
+        "canal"
+      ],
+      "note_usage": "évoque la fête comme exutoire à la douleur accumulée"
+    },
+    {
+      "id": "ref-174",
+      "texte": "Patek Philippe",
+      "langue": "fr",
+      "traduction_fr": "la montre qu'on garde pour ses enfants",
+      "adaptation_fr": "Patek Philippe, je construis pour mes fils ce que mon père n'a pas pu",
+      "theme": [
+        "famille",
+        "argent",
+        "ambition"
+      ],
+      "ton": "paternel",
+      "type": "reference",
+      "source": "marque luxe",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "pe",
+        "type",
+        "stripe"
+      ],
+      "note_usage": "évoque la construction d'un héritage tangible pour la génération suivante"
+    },
+    {
+      "id": "ref-175",
+      "texte": "Bentley",
+      "langue": "fr",
+      "traduction_fr": "la voiture anglaise de l'aristocratie et du rap",
+      "adaptation_fr": "Bentley Continental sur le périph, les rois passent discrètement",
+      "theme": [
+        "argent",
+        "ego",
+        "ambition"
+      ],
+      "ton": "discret",
+      "type": "reference",
+      "source": "marque luxe",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ley",
+        "key",
+        "free"
+      ],
+      "note_usage": "évoque le luxe discret des vrais grands face aux nouveaux riches"
+    },
+    {
+      "id": "ref-176",
+      "texte": "Audemars Piguet",
+      "langue": "fr",
+      "traduction_fr": "l'AP Royal Oak, la montre de ceux qui savent",
+      "adaptation_fr": "AP au poignet, pas pour montrer, pour savoir l'heure de ma révolution",
+      "theme": [
+        "argent",
+        "ambition",
+        "revolte"
+      ],
+      "ton": "initié",
+      "type": "reference",
+      "source": "marque luxe",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "get",
+        "set",
+        "jet"
+      ],
+      "note_usage": "évoque le luxe comme connaissance initiatique plutôt que simple ostentation"
+    },
+    {
+      "id": "ref-177",
+      "texte": "Dior",
+      "langue": "fr",
+      "traduction_fr": "la maison couture du new look, élégance française",
+      "adaptation_fr": "J'habille mes peines en Dior, la misère en couture c'est mon esthétique",
+      "theme": [
+        "douleur",
+        "argent",
+        "ambition"
+      ],
+      "ton": "élégant",
+      "type": "reference",
+      "source": "marque luxe",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "or",
+        "encore",
+        "dehors"
+      ],
+      "note_usage": "évoque la transformation artistique de la douleur en quelque chose de beau"
+    },
+    {
+      "id": "ref-178",
+      "texte": "Chanel",
+      "langue": "fr",
+      "traduction_fr": "l'élégance intemporelle de Coco Chanel",
+      "adaptation_fr": "Chanel numéro 5 sur ses poignets, elle porte le luxe comme une armure",
+      "theme": [
+        "seduction",
+        "argent",
+        "amour"
+      ],
+      "ton": "raffiné",
+      "type": "reference",
+      "source": "marque luxe",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "nel",
+        "ciel",
+        "tel"
+      ],
+      "note_usage": "évoque le luxe féminin comme protection et affirmation de soi"
+    },
+    {
+      "id": "ref-179",
+      "texte": "Supreme",
+      "langue": "fr",
+      "traduction_fr": "la marque streetwear devenue objet de culte",
+      "adaptation_fr": "Red Supreme box logo sur mon cœur, j'appartiens à la culture",
+      "theme": [
+        "rue",
+        "argent",
+        "ego"
+      ],
+      "ton": "culte",
+      "type": "reference",
+      "source": "marque streetwear",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "eme",
+        "même",
+        "extrême"
+      ],
+      "note_usage": "évoque l'appartenance à une sous-culture élevée au rang de religion"
+    },
+    {
+      "id": "ref-180",
+      "texte": "Porsche",
+      "langue": "fr",
+      "traduction_fr": "la voiture du millionnaire discret",
+      "adaptation_fr": "Porsche garé devant la tour, le quartier sait que j'ai réussi sans le dire",
+      "theme": [
+        "argent",
+        "ambition",
+        "rue"
+      ],
+      "ton": "subtil",
+      "type": "reference",
+      "source": "marque luxe",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "che",
+        "blanche",
+        "anche"
+      ],
+      "note_usage": "évoque la réussite discrète qui impressionne plus que l'ostentatoire"
+    },
+    {
+      "id": "ref-181",
+      "texte": "Hennessy",
+      "langue": "fr",
+      "traduction_fr": "le cognac de la rue et des studios",
+      "adaptation_fr": "Hennessy dans le verre, on trinque aux morts et aux vivants",
+      "theme": [
+        "deuil",
+        "fete",
+        "rue"
+      ],
+      "ton": "élégiaques",
+      "type": "reference",
+      "source": "marque alcool",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ney",
+        "money",
+        "honey"
+      ],
+      "note_usage": "évoque la cérémonie de la boisson partagée entre la fête et le deuil"
+    },
+    {
+      "id": "ref-182",
+      "texte": "Prada",
+      "langue": "fr",
+      "traduction_fr": "le luxe milanais au triangle inversé",
+      "adaptation_fr": "Prada nylon sur mes épaules, je porte le luxe sans effort",
+      "theme": [
+        "argent",
+        "ego",
+        "ambition"
+      ],
+      "ton": "cool",
+      "type": "reference",
+      "source": "marque luxe",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ada",
+        "canada",
+        "armada"
+      ],
+      "note_usage": "évoque le luxe porté naturellement comme signe d'aisance réelle"
+    },
+    {
+      "id": "ref-183",
+      "texte": "Balenciaga",
+      "langue": "fr",
+      "traduction_fr": "la marque oversize du rap et de la mode",
+      "adaptation_fr": "Balenciaga triple S sur ces rues sales, mes pieds ne touchent pas le bas",
+      "theme": [
+        "argent",
+        "rue",
+        "ego"
+      ],
+      "ton": "déconnecté",
+      "type": "reference",
+      "source": "marque luxe",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ga",
+        "déjà",
+        "là"
+      ],
+      "note_usage": "évoque l'élévation symbolique au-dessus des réalités de la rue grâce au luxe"
+    },
+    {
+      "id": "ref-184",
+      "texte": "Courvoisier",
+      "langue": "fr",
+      "traduction_fr": "le cognac du empereur, les connaisseurs seulement",
+      "adaptation_fr": "Courvoisier dans ma coupe, je bois à l'ancienne comme les empereurs",
+      "theme": [
+        "argent",
+        "fete",
+        "ego"
+      ],
+      "ton": "impérial",
+      "type": "reference",
+      "source": "marque alcool",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ier",
+        "hier",
+        "fier"
+      ],
+      "note_usage": "évoque la consommation comme acte de royauté et de distinction"
+    },
+    {
+      "id": "ref-185",
+      "texte": "Off-White",
+      "langue": "fr",
+      "traduction_fr": "la marque de Virgil Abloh, entre art et streetwear",
+      "adaptation_fr": "Off-White comme mon âme, entre deux mondes sans appartenir à aucun",
+      "theme": [
+        "exil",
+        "ambition",
+        "nostalgie"
+      ],
+      "ton": "existentiel",
+      "type": "reference",
+      "source": "marque streetwear",
+      "droits": "domaine_public",
+      "rimes_fr": [
+        "ite",
+        "white",
+        "night"
+      ],
+      "note_usage": "évoque la position inconfortable entre deux cultures ou deux mondes"
+    }
+  ]
+}

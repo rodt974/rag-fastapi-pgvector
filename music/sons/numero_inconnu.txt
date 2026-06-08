@@ -1,66 +1,67 @@
-# RODT — NUMÉRO INCONNU (version cité)
+# RODT — NUMÉRO INCONNU (version qui parle aux meufs)
 
-Concept : un mec de cité parle d'une go qui le ghoste (cartonne chez les meufs) + cœur brisé RODT.
-Registre : argot réel (go, tej, seum, miskina, laissé sur vu, bédave, mytho), sans en faire trop.
-Signature : "sous l'masque j'souris jamais".
+Cible : public féminin. On s'adresse À ELLE, on la valorise, on comprend sa douleur.
+Le genre de son qu'elles repartagent. Langage simple/sincère (pas d'argot lourd), émotionnel.
+Concept numéro inconnu en fil léger (il est devenu l'inconnu qu'elle voit plus). Cloud planant RODT.
 
 === PAROLES (champ Lyrics Suno) ===
 
 [Intro]
 eyy... han...
-(numéro inconnu...)
+ohhh-oh-oh...
 
 [Hook: sung melodic, emotional]
-la go m'a tej... numéro inconnu quand j'rappelle
-hannn...
-elle m'a laissé sur vu... j'ai capté, frère, j'insiste plus
-héééé...
-elle souriait dans l'tieks... mais en vrai elle était au sol
-j'lui ai mis trop d'seum... son cœur a mis les voiles
+toi... t'as donné ton cœur... ils l'ont brisé en mille
+eyy...
+toi... tu mérites un roi... pas ceux qui jouent et qui filent
+han...
+relève la tête, princesse... ton sourire vaut de l'or
+celui qui t'a fait pleurer... un jour, crois-moi, il regrettera
 
-[Verse 1: spoken, laid-back]
-c'est la miskina du tieks... toujours là pour les siens
+[Verse 1: soft sung-rap]
+t'as grandi trop vite... t'as séché tes larmes seule
 hannn...
-elle donne tout c'qu'elle a... on lui rend que du chagrin
+t'as appris à donner... sans rien recevoir en retour
 héééé...
-les bonhommes l'ont fait tourner... promesses de bicraveur
-maintenant elle calcule plus... elle bédave pour tuer les heures
+ils ont vu ta beauté... jamais vu ton vrai cœur
+toi t'aimais pour de vrai... eux ils jouaient un rôle
 
 [Hook: sung melodic, emotional]
-la go m'a tej... numéro inconnu quand j'rappelle
-hannn...
-elle m'a laissé sur vu... j'ai capté, frère, j'insiste plus
-héééé...
-elle souriait dans l'tieks... mais en vrai elle était au sol
-j'lui ai mis trop d'seum... son cœur a mis les voiles
+toi... t'as donné ton cœur... ils l'ont brisé en mille
+eyy...
+toi... tu mérites un roi... pas ceux qui jouent et qui filent
+han...
+relève la tête, princesse... ton sourire vaut de l'or
+celui qui t'a fait pleurer... un jour, crois-moi, il regrettera
 
-[Verse 2: spoken, laid-back]
-moi j'ai fait l'mytho... j'ai bluffé, j'ai cramé la perle
+[Verse 2: soft sung-rap]
+si tu m'lis, numéro inconnu... sache que t'es une reine
 hannn...
-trop d'orgueil pour m'excuser... j'rumine le seum, masqué, tout seul
+celui qui t'méritera... t'fera plus jamais d'la peine
 héééé...
-sous l'masque j'souris jamais... depuis qu't'as bloqué mon numéro
-si tu lis ça miskina... ce reuf t'aimait pour de vrai
+arrête de douter d'toi... c'est eux l'problème, c'est pas toi
+un cœur comme le tien... ça s'trouve qu'une fois, crois-moi
 
 [Bridge]
 eyy... ahhh...
-décroche... wallah décroche...
-même en numéro inconnu... je capte que c'est toi
+essuie tes larmes...
+la plus belle des guerrières... c'est toi
 
 [Hook: sung melodic, emotional]
-la go m'a tej... numéro inconnu quand j'rappelle
-hannn...
-elle m'a laissé sur vu... j'ai capté, frère, j'insiste plus
-héééé...
-elle souriait dans l'tieks... mais en vrai elle était au sol
-j'lui ai mis trop d'seum... son cœur a mis les voiles
+toi... t'as donné ton cœur... ils l'ont brisé en mille
+eyy...
+toi... tu mérites un roi... pas ceux qui jouent et qui filent
+han...
+relève la tête, princesse... ton sourire vaut de l'or
+celui qui t'a fait pleurer... un jour, crois-moi, il regrettera
 
 [Outro]
 eyy... han...
-numéro inconnu... elle répond plus...
+relève la tête... princesse...
+ohhh-oh-oh...
 
 === STYLE PROMPT (champ Style Suno) ===
-french rap, melodic cloud rap, emotional street melancholic, trap beat, deep 808 bass, soft hi-hats, deep raspy male verses with melodic sung chorus, autotune, spacious, slow laid-back flow, half-time 130 BPM
+french rap, melodic cloud rap, emotional romantic, tender melancholic, trap beat, deep 808 bass, soft hi-hats, deep warm male voice with melodic sung chorus, autotune, spacious, slow laid-back, half-time 125 BPM
 
 === EXCLUDE STYLES ===
 EDM, electro, house, future bass, synthwave, dance

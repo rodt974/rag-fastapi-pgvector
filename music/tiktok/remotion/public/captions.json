@@ -207,5 +207,27 @@
    "end": 41.8,
    "text": "me calme"
   }
+ ],
+ "staticLines": [
+  {
+   "start": 108.5,
+   "end": 114.0,
+   "text": "SOUS L'MASQUE"
+  },
+  {
+   "start": 114.0,
+   "end": 120.0,
+   "text": "J'SOURIS JAMAIS"
+  },
+  {
+   "start": 120.0,
+   "end": 127.5,
+   "text": "LE BLANC\nC'EST L'DEUIL"
+  },
+  {
+   "start": 127.5,
+   "end": 134.5,
+   "text": "FISSURÉ\nMAIS PLEIN D'ORGUEIL"
+  }
  ]
 }

@@ -33,7 +33,7 @@ export const RemotionRoot: React.FC = () => {
   return (
     <>
       <Composition
-        id="Clip1_Hook"
+        id="Clip1-Hook"
         component={MasqueFissure}
         fps={FPS}
         width={1080}
@@ -42,7 +42,7 @@ export const RemotionRoot: React.FC = () => {
         defaultProps={clip1}
       />
       <Composition
-        id="Clip2_Verse"
+        id="Clip2-Verse"
         component={MasqueFissure}
         fps={FPS}
         width={1080}
@@ -51,7 +51,7 @@ export const RemotionRoot: React.FC = () => {
         defaultProps={clip2}
       />
       <Composition
-        id="Clip3_Climax"
+        id="Clip3-Climax"
         component={MasqueFissure}
         fps={FPS}
         width={1080}
@@ -60,7 +60,7 @@ export const RemotionRoot: React.FC = () => {
         defaultProps={clip3}
       />
       <Composition
-        id="Clip4_Full"
+        id="Clip4-Full"
         component={MasqueFissure}
         fps={FPS}
         width={1080}

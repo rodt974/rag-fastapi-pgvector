@@ -1,7 +1,7 @@
-# ROUND 2 — ANALYSE SCIENCE DU HOOK
+# ROUND 2 — ANALYSE SCIENCE DU HOOK — VERSION FINALE
 ## Cluster Cloud FR : Mécanique de viralité TikTok décortiquée
-> Analyste : Science du Hook — 9 juin 2026
-> Sources : willylancien "Magique", Paquetá "Besoin d'air", Zemi "la même", ombre2rue "T'es où", franklin ctoi, batmo + FINAL_RODT_PERSONNE.md
+> Analyste Science du Hook — 9 juin 2026
+> Sources lues : willylancien.md (Magique), paqueta_zemi.md (Besoin d'air, la même), ombre2rue_franklin.md (T'es où), batmo_zeyn.md (A mon avis) + FINAL_RODT_PERSONNE.md
 
 ---
 

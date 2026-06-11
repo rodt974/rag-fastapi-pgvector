@@ -1,0 +1,757 @@
+{
+  "module": "imagerie_moderne",
+  "langue_finale": "fr",
+  "fichier": "relatable_2.json",
+  "entrees": [
+    {
+      "id": "img-076",
+      "texte": "se retrouver sur une photo de groupe sans avoir été prévenu",
+      "adaptation_fr": "T'as posté la photo de groupe sans me prévenir, j'avais l'air de quoi là-dessus",
+      "theme": ["galere", "réseaux sociaux", "image de soi"],
+      "ton": "léger / légèrement agacé",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "peut servir d'accroche humoristique légère avant un sujet plus lourd"
+    },
+    {
+      "id": "img-077",
+      "texte": "lire et relire le dernier message envoyé",
+      "adaptation_fr": "Je lis mon dernier message envoyé depuis hier, je comprends pas pourquoi t'as pas répondu",
+      "theme": ["amour", "douleur", "obsession"],
+      "ton": "anxieux / honnête",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour le cycle de rumination post-silence, très fort pour l'auto-analyse douloureuse"
+    },
+    {
+      "id": "img-078",
+      "texte": "recevoir un message d'un inconnu avant de lui",
+      "adaptation_fr": "Un numéro inconnu m'a écrit avant toi ce matin, c'est triste à dire mais c'est vrai",
+      "theme": ["solitude", "rupture", "humour sombre"],
+      "ton": "autodérisoire / triste",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "image tragicomique, bon pour les moments d'autodérision dans un couplet"
+    },
+    {
+      "id": "img-079",
+      "texte": "les vieux tweets douloureux",
+      "adaptation_fr": "J'ai retrouvé mes vieux tweets de quand j'allais vraiment pas, je reconnais pas cette personne",
+      "theme": ["santé mentale", "passage du temps", "identité"],
+      "ton": "mélancolique / réflexif",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour les passages sur la croissance personnelle après une période sombre"
+    },
+    {
+      "id": "img-080",
+      "texte": "les stories de son week-end sans toi",
+      "adaptation_fr": "Tu postes ton week-end, t'as l'air bien, c'est ce que je voulais voir mais pas maintenant",
+      "theme": ["rupture", "jalousie", "douleur"],
+      "ton": "ambigu / douloureux",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "ambivalence entre vouloir le bien de l'autre et souffrir de le voir avancer"
+    },
+    {
+      "id": "img-081",
+      "texte": "attendre la nuit pour envoyer le message",
+      "adaptation_fr": "J'attends qu'il soit tard pour t'écrire, comme si l'obscurité rendait ça moins grave",
+      "theme": ["amour", "nuit", "hésitation"],
+      "ton": "pudique / doux",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "la nuit comme permission de se montrer vulnérable — très poétique"
+    },
+    {
+      "id": "img-082",
+      "texte": "le contact renommé après la rupture",
+      "adaptation_fr": "J'ai changé ton prénom en 'réponds pas' dans mes contacts, ça a pas aidé",
+      "theme": ["rupture", "humour sombre", "dépendance affective"],
+      "ton": "autodérisoire / triste",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "touche d'humour sombre sur les stratégies désespérées post-rupture"
+    },
+    {
+      "id": "img-083",
+      "texte": "la géolocalisation qui montre qu'elle est chez quelqu'un",
+      "adaptation_fr": "Ta localisation chez quelqu'un à minuit, j'aurais pas dû regarder",
+      "theme": ["jalousie", "rupture", "trahison"],
+      "ton": "douloureux / direct",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "le partage de localisation comme couteau dans le dos — très contemporain"
+    },
+    {
+      "id": "img-084",
+      "texte": "déconnecter d'Instagram pour pas voir",
+      "adaptation_fr": "J'ai désinstallé Insta trois jours, quand j'ai réinstallé t'étais avec quelqu'un d'autre",
+      "theme": ["rupture", "fuite", "douleur inévitable"],
+      "ton": "amer / résigné",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "inutilité de la fuite numérique face à la douleur réelle"
+    },
+    {
+      "id": "img-085",
+      "texte": "le double-tick gris qui devient bleu des années après",
+      "adaptation_fr": "T'as lu mon message d'il y a deux ans à 3h du mat, j'espère que t'allais bien",
+      "theme": ["nostalgie", "connexions passées", "douceur"],
+      "ton": "doux / mélancolique",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour les passages sur les liens anciens et la bienveillance malgré tout"
+    },
+    {
+      "id": "img-086",
+      "texte": "les mains qui tremblent avant d'appuyer sur envoyer",
+      "adaptation_fr": "Les doigts qui tremblent sur le bouton envoyer, trois jours que j'écris ce message",
+      "theme": ["amour", "peur", "courage"],
+      "ton": "fragile / courageux",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "le courage d'envoyer le message difficile — très physique et évocateur"
+    },
+    {
+      "id": "img-087",
+      "texte": "le compte à rebours de la dernière story",
+      "adaptation_fr": "Ta story expire dans deux heures, je l'ai regardée cinq fois, je me comprends plus",
+      "theme": ["obsession", "rupture", "réseaux sociaux"],
+      "ton": "obsessionnel / autodérisoire",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "la durée éphémère des stories comme tension — très actuel"
+    },
+    {
+      "id": "img-088",
+      "texte": "retrouver une conversation effacée par hasard",
+      "adaptation_fr": "J'ai retrouvé un screenshot de notre conversation, je savais plus qu'on était aussi bien",
+      "theme": ["nostalgie", "rupture", "mémoire"],
+      "ton": "doux / douloureux",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "le souvenir comme preuve d'une époque révolue"
+    },
+    {
+      "id": "img-089",
+      "texte": "taper 'toi aussi?' sans oser envoyer",
+      "adaptation_fr": "J'ai tapé 'toi aussi ?' j'ai gardé le doigt sur effacer, j'ai effacé",
+      "theme": ["amour", "peur du rejet", "retenue"],
+      "ton": "hésitant / vulnérable",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "la peur de se dévoiler — universel dans le début d'une relation"
+    },
+    {
+      "id": "img-090",
+      "texte": "prendre en photo l'écran pour garder une trace",
+      "adaptation_fr": "J'ai pris en screenshot notre conv avant de tout effacer, j'ai dit à personne pourquoi",
+      "theme": ["rupture", "nostalgie", "secret"],
+      "ton": "intime / honteux",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "geste secret de préservation du passé — très intime"
+    },
+    {
+      "id": "img-091",
+      "texte": "l'appel en absence à 4h du mat",
+      "adaptation_fr": "Appel en absence de toi à 4h14, je sais pas si j'aurais dû répondre",
+      "theme": ["amour", "nuit", "ambiguïté"],
+      "ton": "troublé / incertain",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "l'appel nocturne manqué comme moment charnière — fort pour les refrains"
+    },
+    {
+      "id": "img-092",
+      "texte": "se noyer dans TikTok pour ne pas penser",
+      "adaptation_fr": "Deux heures de TikTok pour pas penser, j'en sors plus hébété qu'avant",
+      "theme": ["solitude", "fuite", "vide numérique"],
+      "ton": "désabusé / honnête",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "la fuite dans le scroll comme aggravation du mal — très Gen Z"
+    },
+    {
+      "id": "img-093",
+      "texte": "les reels qui te rappellent quelqu'un",
+      "adaptation_fr": "L'algo me sort des Reels qui me font penser à toi, il sait des choses que j'aurais voulu oublier",
+      "theme": ["rupture", "technologie", "nostalgie"],
+      "ton": "amer / ironique",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "l'algorithme comme prolongateur de la douleur — très contemporain"
+    },
+    {
+      "id": "img-094",
+      "texte": "éteindre le téléphone mais le rallumer deux minutes après",
+      "adaptation_fr": "J'éteins le tel', je le rallume trente secondes après, force de caractère zéro",
+      "theme": ["dépendance affective", "faiblesse", "humour sombre"],
+      "ton": "autodérisoire / honnête",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "l'incapacité à se déconnecter — très relatable et peut alléger le ton"
+    },
+    {
+      "id": "img-095",
+      "texte": "la nuit sans couverture en été",
+      "adaptation_fr": "Trop chaud pour dormir, trop dans ma tête pour rester allongé",
+      "theme": ["solitude", "insomnie", "été"],
+      "ton": "oppressant / sensuel",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "l'insomnie estivale, pour les tracks d'été mélancoliques"
+    },
+    {
+      "id": "img-096",
+      "texte": "le bus de nuit presque vide",
+      "adaptation_fr": "Bus de nuit à 1h, trois personnes, chacun dans son monde, Paris qui tourne sans nous",
+      "theme": ["solitude", "nuit", "galere"],
+      "ton": "mélancolique / sociétal",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "image nocturne parisienne forte — sentiment d'être en marge de la fête"
+    },
+    {
+      "id": "img-097",
+      "texte": "la lumière bleue de l'écran dans le miroir",
+      "adaptation_fr": "Je me vois dans le miroir, éclairé par l'écran, j'ai une gueule de spectre",
+      "theme": ["solitude", "nuit", "identité"],
+      "ton": "visuel / inquiétant",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "image très visuelle pour clip — l'aliénation numérique rendue physique"
+    },
+    {
+      "id": "img-098",
+      "texte": "la pluie contre la fenêtre la nuit",
+      "adaptation_fr": "La pluie contre la fenêtre à 3h, le genre de son qui rend tout plus grand et plus triste",
+      "theme": ["solitude", "nuit", "mélancolie"],
+      "ton": "poétique / contemplatif",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "image sensorielle classique mais toujours efficace pour les nuits d'insomnie"
+    },
+    {
+      "id": "img-099",
+      "texte": "ouvrir le frigo sans avoir faim",
+      "adaptation_fr": "J'ouvre le frigo pour la cinquième fois, j'ai pas faim, je cherche autre chose",
+      "theme": ["vide émotionnel", "dépression", "quotidien"],
+      "ton": "factuel / symbolique",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "geste anodin chargé de sens — métaphore du vide intérieur"
+    },
+    {
+      "id": "img-100",
+      "texte": "l'appart trop silencieux après une fête",
+      "adaptation_fr": "Tout le monde est parti à 3h, l'appart trop silencieux, je range pour pas penser",
+      "theme": ["solitude", "après-fête", "vide"],
+      "ton": "morne / humain",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "la solitude post-événement social — parfait pour un contraste avec un refrain festif"
+    },
+    {
+      "id": "img-101",
+      "texte": "sourire en story, éteindre le téléphone, fixer le plafond",
+      "adaptation_fr": "Story souriante, j'éteins le tel', je fixe le plafond, bienvenue dans ma vraie vie",
+      "theme": ["santé mentale", "réseaux sociaux", "façade"],
+      "ton": "amer / lucide",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "séquence en trois temps très cinématique — parfait pour une clôture de couplet"
+    },
+    {
+      "id": "img-102",
+      "texte": "les médicaments sur la table de nuit",
+      "adaptation_fr": "Les cachets de sommeil sur la table de nuit, j'en suis là, c'est discret mais c'est là",
+      "theme": ["santé mentale", "dépression", "honnêteté"],
+      "ton": "vulnérable / sans pathos",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour aborder la santé mentale avec sobriété, sans dramatiser — très fort"
+    },
+    {
+      "id": "img-103",
+      "texte": "pleurer sans savoir pourquoi",
+      "adaptation_fr": "Les larmes qui viennent pour rien à 19h, même pas de raison, juste là",
+      "theme": ["santé mentale", "douleur", "incompréhension"],
+      "ton": "dérouté / sincère",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour les passages sur la dépression sans cause identifiable — très véridique"
+    },
+    {
+      "id": "img-104",
+      "texte": "répondre 'ouais ça va' alors que non",
+      "adaptation_fr": "Ouais ça va, j'ai dit ça vingt fois aujourd'hui, vingt fois c'était faux",
+      "theme": ["santé mentale", "façade", "épuisement social"],
+      "ton": "épuisé / amer",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour les passages sur la performance du bien-être en société"
+    },
+    {
+      "id": "img-105",
+      "texte": "le psy qui est complet pour trois mois",
+      "adaptation_fr": "J'ai enfin appelé, le psy est complet jusqu'en avril, j'ai raccroché et j'ai ri",
+      "theme": ["santé mentale", "système", "désillusion"],
+      "ton": "désabusé / amer",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "réalité du système de santé mentale en France — très actuel et impactant"
+    },
+    {
+      "id": "img-106",
+      "texte": "trouver du réconfort dans un son à 2h du mat",
+      "adaptation_fr": "Ce son à 2h du mat qui dit exactement ce que j'arrive pas à formuler",
+      "theme": ["solitude", "musique", "connexion"],
+      "ton": "doux / mélancolique",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "auto-référence possible dans un titre — la musique comme seul témoin de la nuit"
+    },
+    {
+      "id": "img-107",
+      "texte": "le casque qui coupe le monde",
+      "adaptation_fr": "Casque sur les oreilles, volume à fond, le monde peut s'effondrer j'entends plus rien",
+      "theme": ["fuite", "solitude", "protection"],
+      "ton": "déterminé / fragile",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "image de l'isolement volontaire comme mécanisme de protection"
+    },
+    {
+      "id": "img-108",
+      "texte": "les livraisons de nuit comme seule interaction humaine",
+      "adaptation_fr": "Le livreur à 23h, le seul à qui j'ai parlé aujourd'hui, je lui ai souri trop fort",
+      "theme": ["solitude", "galere", "connexion manquée"],
+      "ton": "triste / tragicomique",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour illustrer l'isolement social extrême de manière tragicomique"
+    },
+    {
+      "id": "img-109",
+      "texte": "se rappeler de quelle main elle tenait le café",
+      "adaptation_fr": "Je me souviens encore de quelle main tu tenais ton café, c'est les détails qui tuent",
+      "theme": ["rupture", "nostalgie", "obsession"],
+      "ton": "sensible / précis",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "le détail infime comme vecteur de mémoire — très poétique et touchant"
+    },
+    {
+      "id": "img-110",
+      "texte": "les trajets de bus mémorisés ensemble",
+      "adaptation_fr": "Je prends encore le même bus sans raison, les vieilles habitudes meurent lentement",
+      "theme": ["rupture", "mémoire corporelle", "nostalgie"],
+      "ton": "doux / mélancolique",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "la mémoire du corps qui perpétue les habitudes de couple"
+    },
+    {
+      "id": "img-111",
+      "texte": "sentir une odeur dans la rue qui te ramène en arrière",
+      "adaptation_fr": "Une odeur dans la rue, ton parfum, cinq secondes je suis revenu en arrière",
+      "theme": ["rupture", "mémoire sensorielle", "nostalgie"],
+      "ton": "soudain / douloureux",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "la mémoire olfactive comme déclencheur involontaire — très sensoriel"
+    },
+    {
+      "id": "img-112",
+      "texte": "le dossier 'nous' qu'on garde mais qu'on ouvre pas",
+      "adaptation_fr": "Y'a un dossier dans mon tel intitulé 'nous', j'ai pas le courage de l'ouvrir ni de l'effacer",
+      "theme": ["rupture", "blocage", "nostalgie"],
+      "ton": "paralysé / honnête",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour l'incapacité à clore le deuil d'une relation — très contemporain"
+    },
+    {
+      "id": "img-113",
+      "texte": "finir une conversation par 'ok' et se sentir vide",
+      "adaptation_fr": "T'as fini par 'ok', j'ai relu ça dix fois, 'ok' ça peut vouloir dire quoi au fond",
+      "theme": ["amour", "communication moderne", "douleur"],
+      "ton": "anxieux / absurde",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "l'hypersignification des messages courts — très relatable"
+    },
+    {
+      "id": "img-114",
+      "texte": "le silence entre deux bulles de messages",
+      "adaptation_fr": "Entre tes deux messages y'avait dix minutes, j'ai tout imaginé dans cet espace vide",
+      "theme": ["amour", "anxiété", "attente"],
+      "ton": "anxieux / intime",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "le silence numérique comme espace d'angoisse — très précis psychologiquement"
+    },
+    {
+      "id": "img-115",
+      "texte": "allumer la lumière du couloir pour ne pas être dans le noir total",
+      "adaptation_fr": "Je laisse la lumière du couloir allumée pour dormir, j'ai vingt-cinq ans et j'ai encore peur du noir",
+      "theme": ["solitude", "vulnérabilité", "enfance"],
+      "ton": "tendre / autodérisoire",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "régression douce vers l'enfance sous le stress — très humain et touchant"
+    },
+    {
+      "id": "img-116",
+      "texte": "le café froid parce qu'on a pas bougé depuis une heure",
+      "adaptation_fr": "Mon café froid sur la table, j'ai même pas bougé depuis une heure, j'étais où",
+      "theme": ["dissociation", "dépression", "quotidien"],
+      "ton": "flottant / inquiétant",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "petit signe de la dissociation dans les gestes du quotidien"
+    },
+    {
+      "id": "img-117",
+      "texte": "les escaliers de la station de métro",
+      "adaptation_fr": "Quatre étages d'escaliers à descendre sous terre, chaque matin c'est un recommencement",
+      "theme": ["galere", "quotidien", "effort"],
+      "ton": "pesant / poétique",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "métaphore du quotidien difficile dans le concret du métro parisien"
+    },
+    {
+      "id": "img-118",
+      "texte": "le 'ok' reçu après un long message",
+      "adaptation_fr": "J'ai écrit deux paragraphes, t'as répondu 'ok', j'ai souri parce que j'avais compris",
+      "theme": ["communication moderne", "rejet", "douleur"],
+      "ton": "retenu / amer",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "la déspropoortion entre l'effort fourni et la réponse reçue — très fort"
+    },
+    {
+      "id": "img-119",
+      "texte": "le SMIC et les fins de mois impossibles",
+      "adaptation_fr": "SMIC le 28, loyer le 5, ce mois-ci j'ai fait les maths, ça rentre pas",
+      "theme": ["galere", "injustice", "quotidien"],
+      "ton": "factuel / révolté",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "réalité économique directe — pour les titres engagés ou les portraits de vie réelle"
+    },
+    {
+      "id": "img-120",
+      "texte": "la flemme de chercher qui a raison, accepter d'être blessé",
+      "adaptation_fr": "J'ai même plus la force de débattre qui avait tort, je prends juste la douleur",
+      "theme": ["rupture", "épuisement", "résignation"],
+      "ton": "épuisé / sage",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour la fin d'un conflit ou d'une relation, la capitulation émotionnelle"
+    },
+    {
+      "id": "img-121",
+      "texte": "se voir sur une ancienne vidéo et ne plus se reconnaître",
+      "adaptation_fr": "Je regarde une vidéo de moi d'il y a deux ans, ce gars avait l'air de croire à quelque chose",
+      "theme": ["identité", "passage du temps", "désillusion"],
+      "ton": "mélancolique / lucide",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour les passages sur la perte d'innocence et les désillusions de l'âge adulte"
+    },
+    {
+      "id": "img-122",
+      "texte": "la voix de quelqu'un dans les transports qui ressemble à la sienne",
+      "adaptation_fr": "Une voix dans le métro, j'ai levé la tête, c'était pas toi, j'étais déçu et soulagé à la fois",
+      "theme": ["rupture", "hantise", "ambivalence"],
+      "ton": "doux / douloureux",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "l'hantise sensorielle de l'autre dans les espaces publics — très évocateur"
+    },
+    {
+      "id": "img-123",
+      "texte": "avoir la sensation d'être visible mais invisible",
+      "adaptation_fr": "Des centaines de vues sur mes posts, zéro personnes qui me demandent comment je vais",
+      "theme": ["réseaux sociaux", "solitude", "paradoxe"],
+      "ton": "amer / lucide",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour pointer le paradoxe de la visibilité numérique et de l'invisibilité humaine"
+    },
+    {
+      "id": "img-124",
+      "texte": "l'appartement loué trop cher pour ce que c'est",
+      "adaptation_fr": "800 euros pour 18 mètres carrés, les murs qui suintent, c'est Paris ou c'est une cellule",
+      "theme": ["galere", "logement", "injustice"],
+      "ton": "amer / révolté",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "réalité du logement parisien / urbain — très relatable pour les jeunes"
+    },
+    {
+      "id": "img-125",
+      "texte": "la coupure de courant/internet quand t'as besoin",
+      "adaptation_fr": "Internet coupé le soir où j'avais le plus besoin de décompresser, l'univers rigole",
+      "theme": ["galere", "quotidien", "malchance"],
+      "ton": "résigné / humoristique",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour les petites galères qui s'accumulent — peut apporter une touche d'humour"
+    },
+    {
+      "id": "img-126",
+      "texte": "se réveiller avec l'anxiété sans cause",
+      "adaptation_fr": "Je me réveille avec l'angoisse déjà là, même pas encore debout, déjà en retard sur moi-même",
+      "theme": ["santé mentale", "anxiété", "quotidien"],
+      "ton": "épuisé / précis",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "l'anxiété matinale comme point de départ d'une journée difficile"
+    },
+    {
+      "id": "img-127",
+      "texte": "penser à envoyer un message mais attendre trop longtemps",
+      "adaptation_fr": "J'allais t'écrire à midi, j'ai attendu, là c'est trop tard, demain peut-être, peut-être pas",
+      "theme": ["procrastination émotionnelle", "amour", "peur"],
+      "ton": "hésitant / mélancolique",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour les passages sur la paralysie face aux sentiments non exprimés"
+    },
+    {
+      "id": "img-128",
+      "texte": "les frais bancaires sur un compte déjà vide",
+      "adaptation_fr": "Frais bancaires sur le compte à zéro, ils prennent sur rien, c'est poétique à leur façon",
+      "theme": ["galere", "injustice financière", "sarcasme"],
+      "ton": "sarcastique / amer",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "absurdité du système bancaire — peut jouer sur l'ironie pour dénoncer"
+    },
+    {
+      "id": "img-129",
+      "texte": "fumer sa dernière clope seul et se dire demain j'arrête",
+      "adaptation_fr": "Dernière clope du paquet, le mégot qui brûle les doigts, demain j'arrête pour de vrai",
+      "theme": ["quotidien", "routine", "autodestruction douce"],
+      "ton": "connu / autodérisoire",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "rituel de la dernière clope — très universel, peut ponctuer un moment de solitude nocturne"
+    },
+    {
+      "id": "img-130",
+      "texte": "le badge qui refuse de lire dans le métro",
+      "adaptation_fr": "Mon badge qui passe pas au portillon, le monde derrière qui pousse, c'est une métaphore",
+      "theme": ["galere", "quotidien", "frustration"],
+      "ton": "léger / exaspéré",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "petite galère quotidienne — bon pour des intros ou des transitions légères"
+    },
+    {
+      "id": "img-131",
+      "texte": "l'algorithme qui te montre exactement ce qui te fait mal",
+      "adaptation_fr": "L'algo sait que je suis pas bien, il me pousse les contenus qui enfoncent le couteau",
+      "theme": ["technologie", "douleur", "solitude moderne"],
+      "ton": "paranoïaque / amer",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour une critique de la tech qui exploite la vulnérabilité émotionnelle"
+    },
+    {
+      "id": "img-132",
+      "texte": "la pile de vêtements qu'on a pas rangés depuis des semaines",
+      "adaptation_fr": "La pile de fringues sur la chaise depuis deux semaines, je range quand ça va mieux",
+      "theme": ["dépression", "quotidien", "signal"],
+      "ton": "factuel / symbolique",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "le chaos domestique comme indicateur de l'état mental — très concret"
+    },
+    {
+      "id": "img-133",
+      "texte": "les bougies allumées pour simuler une ambiance",
+      "adaptation_fr": "J'allume des bougies pour me convaincre que ça va, le decor compense, le reste non",
+      "theme": ["façade", "solitude", "autoduperie"],
+      "ton": "doux / ironique",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "la mise en scène de son propre bien-être pour soi-même — très contemporain"
+    },
+    {
+      "id": "img-134",
+      "texte": "faire du bruit pour remplir le silence",
+      "adaptation_fr": "Je mets de la musique, la télé, un podcast, n'importe quoi pour pas entendre le silence",
+      "theme": ["solitude", "vide", "fuite"],
+      "ton": "anxieux / honnête",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour les passages sur la peur du silence intérieur et de soi-même"
+    },
+    {
+      "id": "img-135",
+      "texte": "relire ses propres messages envoyés et avoir honte",
+      "adaptation_fr": "Je relis ce que j'ai envoyé à 3h du mat, je me cache sous la couverture de honte",
+      "theme": ["honte", "nuit", "impulsivité"],
+      "ton": "comique / embarrassé",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "auto-humiliation matinale post-nuit difficile — moment tragicomique universel"
+    },
+    {
+      "id": "img-136",
+      "texte": "la connexion internet lente le soir de fête",
+      "adaptation_fr": "Wi-Fi qui rame pendant qu'elle passe en story, le buffering comme une métaphore de ma vie",
+      "theme": ["galere", "humour", "frustration"],
+      "ton": "léger / autodérisoire",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour apporter de la légèreté dans un contexte lourd, l'absurde du quotidien"
+    },
+    {
+      "id": "img-137",
+      "texte": "le portable qui vibre et c'est pas elle",
+      "adaptation_fr": "Le tel qui vibre, j'attrape, c'est une pub, je repose, c'est tout",
+      "theme": ["attente", "déception", "amour"],
+      "ton": "sec / résigné",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "la déception de la notification inutile — simple et percutant"
+    },
+    {
+      "id": "img-138",
+      "texte": "s'endormir avec les mains sur le téléphone",
+      "adaptation_fr": "Je me réveille le tel' encore dans la main, j'ai dû m'endormir en attendant",
+      "theme": ["attente", "dépendance", "épuisement"],
+      "ton": "pathétique / doux",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "image forte de la dépendance affective numérique — très cinématique"
+    },
+    {
+      "id": "img-139",
+      "texte": "le groupe d'amis où on est devenu le silencieux",
+      "adaptation_fr": "Je réponds plus dans le groupe, ils ont arrêté de me tagger, tout le monde a accepté",
+      "theme": ["solitude", "amitié", "isolement"],
+      "ton": "mélancolique / résigné",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour les passages sur le retrait social progressif dans la dépression"
+    },
+    {
+      "id": "img-140",
+      "texte": "le miroir avant de sortir et décider de rester",
+      "adaptation_fr": "J'étais habillé pour sortir, je me suis vu dans le miroir, j'ai tout enlevé, je suis resté",
+      "theme": ["anxiété sociale", "dépression", "isolement"],
+      "ton": "honnête / douloureux",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour les passages sur l'anxiété sociale et le retrait de la vie sociale"
+    },
+    {
+      "id": "img-141",
+      "texte": "la clé USB avec les anciens projets",
+      "adaptation_fr": "J'ai retrouvé une clé USB avec mes tracks d'il y a cinq ans, j'osais tout à l'époque",
+      "theme": ["ambition", "passage du temps", "musique"],
+      "ton": "nostalgique / motivant",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour les passages sur les débuts artistiques et la peur perdue en grandissant"
+    },
+    {
+      "id": "img-142",
+      "texte": "écrire des paroles dans les notes du téléphone dans le RER",
+      "adaptation_fr": "Je note des phrases dans le RER, les gens me voient écrire, ils savent pas que c'est ma thérapie",
+      "theme": ["créativité", "galere", "musique"],
+      "ton": "discret / personnel",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "auto-référence sur l'écriture comme exutoire — parfait pour les artistes"
+    },
+    {
+      "id": "img-143",
+      "texte": "le mur de la chambre de la daronne",
+      "adaptation_fr": "Les mêmes murs depuis l'enfance, les mêmes rêves, juste un peu plus abîmés",
+      "theme": ["galere", "enfance", "ambition"],
+      "ton": "nostalgique / amer",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour les passages sur la stagnation et le retour aux origines"
+    },
+    {
+      "id": "img-144",
+      "texte": "les paniers Amazon annulés au dernier moment",
+      "adaptation_fr": "J'ai rempli le panier, la carte qui passe pas, j'ai tout vidé, c'est ma façon de vivre",
+      "theme": ["galere", "frustration", "rêves impossibles"],
+      "ton": "amer / factuel",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "image contemporaine du désir freiné par le manque d'argent"
+    },
+    {
+      "id": "img-145",
+      "texte": "les chaussures trop usées qu'on garde quand même",
+      "adaptation_fr": "Mes pompes percées depuis décembre, j'achète pas les nouvelles parce que le compte dit non",
+      "theme": ["galere", "quotidien", "dignité"],
+      "ton": "factuel / sans apitoiement",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "la galère dans les détails du corps — image forte et concrète"
+    },
+    {
+      "id": "img-146",
+      "texte": "le call vocal de groupe qui tourne jusqu'à 5h du mat",
+      "adaptation_fr": "On était en call jusqu'à 5h sans rien dire d'important, juste pour être ensemble à distance",
+      "theme": ["amitié", "solitude numérique", "connexion"],
+      "ton": "tendre / nostalgique",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "les appels Discord/FaceTime nocturnes comme forme moderne de lien — très Gen Z"
+    },
+    {
+      "id": "img-147",
+      "texte": "la nuit où tout le monde poste et toi t'es chez toi",
+      "adaptation_fr": "Tout le monde poste sa soirée, moi je suis en pyjama à regarder défiler leurs stories",
+      "theme": ["solitude", "FOMO", "comparaison sociale"],
+      "ton": "amer / honnête",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "le FOMO du samedi soir — très relatable pour les introvertis ou les gens qui galèrent"
+    },
+    {
+      "id": "img-148",
+      "texte": "voir son ex heureux sur les réseaux",
+      "adaptation_fr": "Tu souris sur les photos, t'as l'air libre, une partie de moi est contente, l'autre moins",
+      "theme": ["rupture", "ambivalence", "amour"],
+      "ton": "ambigu / mûr",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour les passages sur l'ambivalence mature post-rupture — pas de manichéisme"
+    },
+    {
+      "id": "img-149",
+      "texte": "le écouteur qui dépasse de la poche dans le métro",
+      "adaptation_fr": "Un seul écouteur dans l'oreille, l'autre qui pendouille, je suis là mais je suis pas là",
+      "theme": ["solitude", "quotidien", "présence absente"],
+      "ton": "visuel / mélancolique",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "image visuelle forte de la demi-présence au monde — pour les portraits"
+    },
+    {
+      "id": "img-150",
+      "texte": "finir le mois avec un peu plus de sagesse et un peu moins d'illusions",
+      "adaptation_fr": "J'ai fini le mois plus sage, un peu moins naïf, un peu plus seul aussi, c'est le deal",
+      "theme": ["passage du temps", "croissance", "désillusion"],
+      "ton": "résigné / sage",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "bonne conclusion de couplet ou de projet entier — clôture émotionnelle"
+    }
+  ]
+}

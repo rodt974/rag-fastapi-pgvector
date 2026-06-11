@@ -1,0 +1,67 @@
+# VALENTINA
+
+Vibe : mélodique afro-latino / reggaeton, sensuel, été. Hook = le prénom "Valentina" + "caramela" répétés (earworm).
+Code-switching FR/ES (dale, mami, corazón, reina, mamacita).
+
+=== PAROLES (champ Lyrics Suno) ===
+
+[Intro]
+eh... ouuh...
+(Valentina...)
+ohhh-oh-oh...
+
+[Hook]
+Valentina... elle a la peau caramela
+ouuh...
+Valentina... elle danse, j'perds la tête, ah
+hannn...
+elle me regarde une fois... mi corazón s'emballe
+Valentina... caramela...
+ohhh-oh-oh...
+
+[Verse 1]
+yeux couleur miel... démarche de reina
+elle bouge les hanches... tout l'quartier s'arrête, eh
+parfum de vanille... un sourire qui désarme
+mami tu m'rends fou... donne-moi ton numéro, va
+
+[Hook]
+Valentina... elle a la peau caramela
+ouuh...
+Valentina... elle danse, j'perds la tête, ah
+hannn...
+elle me regarde une fois... mi corazón s'emballe
+Valentina... caramela...
+ohhh-oh-oh...
+
+[Verse 2]
+elle vient pas pour rester... juste pour briser des cœurs
+caramela dehors... mais glacée à l'intérieur
+j'sais qu'elle joue avec moi... mais j'reviens quand même
+Valentina dis "dale"... et j'traverse la mer
+
+[Bridge]
+baila, baila... Valentina
+ouuh...
+sous la lune d'été... tu brilles, mamacita
+hannn...
+
+[Hook]
+Valentina... elle a la peau caramela
+ouuh...
+Valentina... elle danse, j'perds la tête, ah
+hannn...
+elle me regarde une fois... mi corazón s'emballe
+Valentina... caramela...
+ohhh-oh-oh...
+
+[Outro]
+eh... ouuh...
+Valentina... caramela...
+ohhh-oh-oh...
+
+=== STYLE PROMPT (champ Style Suno) ===
+french melodic rap, afro-latino, reggaeton dembow groove, summer sensual vibe, warm autotune male voice, catchy melodic hook, congas and guitar, smooth 808, 95 BPM, danceable, romantic
+
+=== EXCLUDE STYLES ===
+hard drill, dark, aggressive, EDM, hardstyle

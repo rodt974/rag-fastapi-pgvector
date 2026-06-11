@@ -1,10 +1,6 @@
-# RODT — MARDI
+# RODT — MARDI (v2, écrit en piochant dans le dico imagerie_moderne + captions)
 
-Concept : "état ultra-précis" = le ghosting, elle répond plus depuis mardi. Le vu sans réponse.
-Calibré pour TOUCHER (détails concrets qu'on a tous vécus) + percer (hook répété, ligne quotable, <2:30).
-Cloud émotionnel. Le masque sert juste l'anonymat (on n'en parle pas dans le texte).
-
-=== PAROLES (champ Lyrics Suno) ===
+=== PAROLES (Suno) ===
 
 [Short Intro]
 ouuh... hannn...
@@ -14,9 +10,9 @@ ohhh-oh-oh...
 [Hook]
 elle répond plus depuis mardi
 ouuh...
-j'relis nos messages, j'deviens fou
+j'relis mon dernier message... j'comprends pas
 hannn...
-"lu" à 21h47... jamais d'réponse
+"lu", jamais d'réponse... le silence, ça crie
 héééé...
 elle répond plus depuis mardi
 ohhh-oh-oh...
@@ -24,31 +20,31 @@ ohhh-oh-oh...
 [Verse 1]
 les trois p'tits points s'allument... puis ils s'éteignent
 ouuh...
-mon cœur fait pareil... j'attends, j'saigne
+j'attends un message... que t'enverras plus jamais
 hannn...
-j'lui invente des excuses... "elle a dû oublier"
+tu postes ton week-end, t'as l'air bien... c'est c'que j'voulais voir, mais pas maintenant
 héééé...
-mais au fond j'le sais... elle veut plus m'parler
+les doigts qui tremblent sur "envoyer"... trois jours que j'écris c'message
 ohhh...
 
 [Hook]
 elle répond plus depuis mardi
 ouuh...
-j'relis nos messages, j'deviens fou
+j'relis mon dernier message... j'comprends pas
 hannn...
-"lu" à 21h47... jamais d'réponse
+"lu", jamais d'réponse... le silence, ça crie
 héééé...
 elle répond plus depuis mardi
 ohhh-oh-oh...
 
 [Verse 2]
-j'check mon tél toutes les cinq minutes... comme un guetteur
+t'as fini par "ok"... j'ai relu ça dix fois
 ouuh...
-j'ai appris son silence par cœur... ça fait mal, frère
+"ok" ça veut dire quoi au fond... quand c'est la fin de nous
 hannn...
-elle est passée à autre chose... moi j'suis resté mardi
+j'attends qu'il soit tard pour t'écrire... comme si la nuit rendait ça moins grave
 héééé...
-bloqué un soir de semaine... pendant qu'elle, elle vit
+elle est passée à autre chose... moi j'suis resté mardi
 ohhh...
 
 [Bridge]
@@ -60,9 +56,9 @@ mais c'soir... encore un dernier message
 [Hook]
 elle répond plus depuis mardi
 ouuh...
-j'relis nos messages, j'deviens fou
+j'relis mon dernier message... j'comprends pas
 hannn...
-"lu" à 21h47... jamais d'réponse
+"lu", jamais d'réponse... le silence, ça crie
 héééé...
 elle répond plus depuis mardi
 ohhh-oh-oh...
@@ -72,14 +68,7 @@ ouuh... hannn...
 elle répond plus... depuis mardi...
 ohhh-oh-oh...
 
-=== STYLE PROMPT (champ Style Suno) ===
+=== STYLE PROMPT ===
 french cloud rap, melodic trap, emotional heartbreak melancholic, warm raspy breathy autotune male vocals, deep 808, soft hi-hats, ambient piano, 130 BPM half-time feel, rap français, all lyrics in French, male vocals, solo lead vocal
-
-=== EXCLUDE STYLES ===
-EDM, electro, house, pop, festive
-
-=== TIKTOK ===
-Titre : MARDI
-Accroche frame 0 : « Elle répond plus depuis mardi 🥀 »
-Lignes quotables (captions) : "moi j'suis resté mardi, pendant qu'elle, elle vit" · "j'ai appris son silence par cœur"
-Moment à clipper : le hook ("elle répond plus depuis mardi" + "lu à 21h47").
+=== EXCLUDE === EDM, electro, house, pop, festive
+=== TIKTOK === Accroche frame 0 : « Elle répond plus depuis mardi 🥀 » · quotable : "moi j'suis resté mardi"

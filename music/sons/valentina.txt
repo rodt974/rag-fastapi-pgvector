@@ -1,7 +1,7 @@
-# VALENTINA (version cloud rap planant)
+# VALENTINA (cloud rap planant — écriture montée d'un cran)
 
-Vibe : cloud rap planant / dreamy + autotune + vocalises + espace. Juste une TOUCHE afro-latino (pas un banger club).
-Hook = "Valentina" + "caramela" répétés (earworm). Code-switching FR/ES léger (mi corazón, mami, dale, mamacita).
+Vibe : cloud rap planant + autotune + vocalises + touche afro-latino. Hook = "Valentina/caramela" (earworm).
+Couplets en MONORIME (V1 = -el, V2 = -eur) + images + double-sens planant. Code-switching FR/ES léger.
 
 === PAROLES (champ Lyrics Suno) ===
 
@@ -13,52 +13,52 @@ ohhh-oh-oh...
 [Hook]
 Valentina... la peau caramela
 ouuh...
-elle plane dans ma tête... toute la nuit, ah
+elle danse dans mes rêves... me laisse à terre, ah
 hannn...
-un seul regard... mi corazón s'envole
+un seul de ses regards... et mon cœur se barre
 Valentina... caramela...
 ohhh-oh-oh...
 
 [Verse 1]
-yeux couleur miel... j'me noie dedans
+ses yeux, deux gouttes de miel... la bouche en caramel
 ouuh...
-elle bouge au ralenti... comme dans un rêve
+elle marche, le bitume tremble... démarche surnaturelle
 hannn...
-parfum de vanille... reste un peu, mami
+peau dorée au soleil... un mirage qui paraît réel
 héééé...
-j'plane sur sa peau... loin, très loin d'ici
+j'effleure sa taille un instant... et j'touche le ciel
 ohhh...
 
 [Hook]
 Valentina... la peau caramela
 ouuh...
-elle plane dans ma tête... toute la nuit, ah
+elle danse dans mes rêves... me laisse à terre, ah
 hannn...
-un seul regard... mi corazón s'envole
+un seul de ses regards... et mon cœur se barre
 Valentina... caramela...
 ohhh-oh-oh...
 
 [Verse 2]
-elle vient, elle s'en va... comme la fumée
+caramela dehors... cœur de glace à l'intérieur
 ouuh...
-caramela dehors... mais le cœur gelé
+elle collectionne les cœurs... moi j'fais l'beau pour une heure
 hannn...
-j'le sais, elle me perd... mais j'reviens quand même
+elle m'dit "dale" en partant... j'la suis, je connais ma peur
 héééé...
-Valentina dis "dale"... j'pars dans ton ciel
+brûlé comme un soleil... j'retombe de toute ma hauteur
 ohhh...
 
 [Bridge]
-baila... tout doucement... Valentina
+baila... rien qu'pour moi... Valentina
 ouuh... hannn...
-sous la lune... tu brilles, mamacita
+même si tu m'détruis... j'en r'demande, mamacita
 
 [Hook]
 Valentina... la peau caramela
 ouuh...
-elle plane dans ma tête... toute la nuit, ah
+elle danse dans mes rêves... me laisse à terre, ah
 hannn...
-un seul regard... mi corazón s'envole
+un seul de ses regards... et mon cœur se barre
 Valentina... caramela...
 ohhh-oh-oh...
 
@@ -67,15 +67,15 @@ ouuh... hannn...
 Valentina... caramela...
 ohhh-oh-oh...
 
-=== STYLE PROMPT (champ Style Suno) — optimisé selon le guide ===
+=== STYLE PROMPT (champ Style Suno) ===
 french cloud rap, afro-latino touch, dreamy sensual romantic, warm breathy autotune male vocals, ambient reverb pads, smooth deep 808, 130 BPM half-time feel, rap français, all lyrics in French, solo lead vocal
 
 === EXCLUDE STYLES (max 5) ===
 EDM, electro, house, pop, festive club
 
-=== NOTES (règles du guide appliquées) ===
-- Langue déclarée (rap français / all lyrics in French) + male vocals + solo lead (voix stable).
-- "130 BPM half-time feel" (jamais "80 BPM half-time" = piège qui ralentit tout).
-- Ancrage hip-hop (808) + afro-latino en TOUCHE seulement (pas de banger club).
-- Essentiel en tête (les ~200 premiers caractères comptent le plus).
-- Génère 4-5x, garde le meilleur hook ; si voix change → sauve une Persona/Voice.
+=== L'ÉCRITURE (ce qui a été musclé) ===
+- V1 monorime -el : miel / caramel / surnaturelle / réel / le ciel (images sensuelles + "touche le ciel" = planant).
+- V2 monorime -eur : intérieur / une heure / ma peur / ma hauteur (la meuf qui brise les cœurs + "retombe de toute ma hauteur" = chute planante).
+- Double-sens : "j'touche le ciel" (extase + élévation), "retombe de toute ma hauteur" (chute amoureuse + altitude).
+- Mélancolie sous le sucre : "caramela dehors, cœur de glace à l'intérieur".
+- Code-switching gardé léger : caramela, mi nada, dale, mamacita, baila.

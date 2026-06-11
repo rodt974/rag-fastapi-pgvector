@@ -1,0 +1,806 @@
+{
+  "module": "captions_quotables",
+  "langue_finale": "fr",
+  "entrees": [
+    {
+      "id": "cap-001",
+      "texte": "seul en haut, c'est mieux qu'entouré dans le vide",
+      "theme": ["solitude nocturne", "réussite vide", "faux amis"],
+      "ton": "amer / lucide",
+      "forme": "antithese",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / fin de couplet / accroche frame 0"
+    },
+    {
+      "id": "cap-002",
+      "texte": "je souris en photo, je pleure dans l'ascenseur",
+      "theme": ["faire semblant que ça va", "solitude nocturne"],
+      "ton": "mélancolique / précis",
+      "forme": "paradoxe",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / accroche TikTok frame 0"
+    },
+    {
+      "id": "cap-003",
+      "texte": "son parfum est parti, pas de mon pull",
+      "theme": ["ghosting/absence", "cœur brisé"],
+      "ton": "nostalgique / sensoriel",
+      "forme": "sensoriel",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "story / commentaire / fin de couplet"
+    },
+    {
+      "id": "cap-004",
+      "texte": "pourquoi on regrette toujours trop tard ?",
+      "theme": ["le temps qui passe", "cœur brisé"],
+      "ton": "introspectif / universel",
+      "forme": "question",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "accroche frame 0 / fin de refrain"
+    },
+    {
+      "id": "cap-005",
+      "texte": "elle m'a appris à mentir",
+      "theme": ["cœur brisé", "faux amis"],
+      "ton": "brutal / minimaliste",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / premier mot d'un couplet"
+    },
+    {
+      "id": "cap-006",
+      "texte": "j'ai plus personne à qui écrire à 3h du matin",
+      "theme": ["ghosting/absence", "solitude nocturne"],
+      "ton": "cru / intime",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "story nuit / fin de couplet lent"
+    },
+    {
+      "id": "cap-007",
+      "texte": "ma mère travaillait deux jobs pour que je manque de rien",
+      "theme": ["la mère", "l'enfance volée"],
+      "ton": "reconnaissant / douloureux",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption dédicace / story mémorielle"
+    },
+    {
+      "id": "cap-008",
+      "texte": "je paye des dîners à des gens qui ne viendraient pas à mon enterrement",
+      "theme": ["faux amis", "réussite vide"],
+      "ton": "sarcastique / lucide",
+      "forme": "paradoxe",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / accroche couplet"
+    },
+    {
+      "id": "cap-009",
+      "texte": "l'argent est arrivé, les proches sont devenus des inconnus",
+      "theme": ["réussite vide", "faux amis", "ghosting/absence"],
+      "ton": "amer / désenchanté",
+      "forme": "antithese",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "story réussite / caption fin de couplet"
+    },
+    {
+      "id": "cap-010",
+      "texte": "j'entends encore sa voix dans les chansons qu'elle aimait",
+      "theme": ["ghosting/absence", "cœur brisé", "le temps qui passe"],
+      "ton": "nostalgique / sensoriel",
+      "forme": "sensoriel",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "story / commentaire sous son son préféré"
+    },
+    {
+      "id": "cap-011",
+      "texte": "pourquoi les gens reviennent quand tu vas mieux ?",
+      "theme": ["faux amis", "ghosting/absence"],
+      "ton": "interrogatif / lucide",
+      "forme": "question",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "accroche frame 0 / caption story"
+    },
+    {
+      "id": "cap-012",
+      "texte": "vide à l'intérieur, plein en apparence",
+      "theme": ["faire semblant que ça va", "réussite vide"],
+      "ton": "minimaliste / brutal",
+      "forme": "antithese",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / fond noir texte blanc"
+    },
+    {
+      "id": "cap-013",
+      "texte": "ma mère a vieilli sans que je m'en rende compte",
+      "theme": ["la mère", "le temps qui passe"],
+      "ton": "coupable / tendre",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "story dédicace / caption fête des mères"
+    },
+    {
+      "id": "cap-014",
+      "texte": "les câlins qu'elle me donnait sentaient la lessive et le sacrifice",
+      "theme": ["la mère", "l'enfance volée"],
+      "ton": "poétique / sensoriel",
+      "forme": "sensoriel",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "story / fin de couplet dédié à la mère"
+    },
+    {
+      "id": "cap-015",
+      "texte": "j'ai grandi trop vite dans une maison trop petite",
+      "theme": ["l'enfance volée", "la mère"],
+      "ton": "nostalgique / douloureux",
+      "forme": "antithese",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / accroche narration"
+    },
+    {
+      "id": "cap-016",
+      "texte": "le succès goûte différemment quand tu fêtes seul",
+      "theme": ["réussite vide", "solitude nocturne"],
+      "ton": "amer / introspectif",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "story victoire solo / fin de couplet"
+    },
+    {
+      "id": "cap-017",
+      "texte": "j'ai bloqué son numéro, je l'ai pas désappris par cœur",
+      "theme": ["ghosting/absence", "cœur brisé"],
+      "ton": "lucide / douloureux",
+      "forme": "paradoxe",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / commentaire break-up"
+    },
+    {
+      "id": "cap-018",
+      "texte": "les gens disparaissent sans prévenir, c'est ça qui fait mal",
+      "theme": ["ghosting/absence", "faux amis"],
+      "ton": "cru / universel",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "story / accroche couplet ghosting"
+    },
+    {
+      "id": "cap-019",
+      "texte": "je rentre chez moi mais c'est pas chez moi",
+      "theme": ["solitude nocturne", "faire semblant que ça va"],
+      "ton": "perdu / intime",
+      "forme": "paradoxe",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / fond nuit urbaine"
+    },
+    {
+      "id": "cap-020",
+      "texte": "tu m'as manqué avant même de partir",
+      "theme": ["ghosting/absence", "cœur brisé", "le temps qui passe"],
+      "ton": "tendre / prémonitoire",
+      "forme": "paradoxe",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "story / fin de refrain / accroche frame 0"
+    },
+    {
+      "id": "cap-021",
+      "texte": "mes amis d'enfance sont devenus des inconnus en photo",
+      "theme": ["le temps qui passe", "faux amis", "l'enfance volée"],
+      "ton": "mélancolique / nostalgique",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption sous vieille photo / story throwback"
+    },
+    {
+      "id": "cap-022",
+      "texte": "pourquoi c'est toujours moi qui fais le premier pas ?",
+      "theme": ["faux amis", "ghosting/absence"],
+      "ton": "fatigué / universel",
+      "forme": "question",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / accroche débat TikTok"
+    },
+    {
+      "id": "cap-023",
+      "texte": "je mens bien, j'ai eu de bons profs",
+      "theme": ["faux amis", "faire semblant que ça va"],
+      "ton": "sarcastique / amer",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / punchline couplet"
+    },
+    {
+      "id": "cap-024",
+      "texte": "les nuits où je parle à personne sont les plus honnêtes",
+      "theme": ["solitude nocturne", "faire semblant que ça va"],
+      "ton": "introspectif / serein",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "story nuit / caption fond sombre"
+    },
+    {
+      "id": "cap-025",
+      "texte": "j'ai tout eu sauf quelqu'un à qui le dire",
+      "theme": ["réussite vide", "solitude nocturne", "ghosting/absence"],
+      "ton": "amer / poignant",
+      "forme": "antithese",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "fin de couplet / caption story victoire"
+    },
+    {
+      "id": "cap-026",
+      "texte": "elle a pas pleuré à mon départ, c'est ça qui m'a tué",
+      "theme": ["ghosting/absence", "cœur brisé"],
+      "ton": "brutal / précis",
+      "forme": "paradoxe",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption break-up / story nuit"
+    },
+    {
+      "id": "cap-027",
+      "texte": "les blessures d'enfance saignent à l'âge adulte",
+      "theme": ["l'enfance volée", "le temps qui passe"],
+      "ton": "universel / grave",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / accroche couplet introspectif"
+    },
+    {
+      "id": "cap-028",
+      "texte": "j'écoute sa playlist en boucle pour pas oublier sa voix",
+      "theme": ["ghosting/absence", "cœur brisé", "le temps qui passe"],
+      "ton": "nostalgique / douloureux",
+      "forme": "sensoriel",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "story music / caption sous post musique"
+    },
+    {
+      "id": "cap-029",
+      "texte": "c'est quoi grandir si c'est perdre tout le monde en chemin ?",
+      "theme": ["le temps qui passe", "faux amis", "l'enfance volée"],
+      "ton": "philosophique / amer",
+      "forme": "question",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "accroche frame 0 / caption story"
+    },
+    {
+      "id": "cap-030",
+      "texte": "ma mère priait pour moi le soir pendant que je faisais des erreurs",
+      "theme": ["la mère", "l'enfance volée"],
+      "ton": "coupable / tendre",
+      "forme": "paradoxe",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption dédicace / story couplet mère"
+    },
+    {
+      "id": "cap-031",
+      "texte": "trop fatigué pour pleurer, trop triste pour sourire",
+      "theme": ["faire semblant que ça va", "solitude nocturne"],
+      "ton": "épuisé / minimaliste",
+      "forme": "antithese",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption nuit / fond noir"
+    },
+    {
+      "id": "cap-032",
+      "texte": "je check mon téléphone en sachant qu'il y a rien",
+      "theme": ["ghosting/absence", "solitude nocturne"],
+      "ton": "cru / quotidien",
+      "forme": "paradoxe",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story relatable / accroche TikTok"
+    },
+    {
+      "id": "cap-033",
+      "texte": "on grandit ensemble puis on grandit séparément",
+      "theme": ["le temps qui passe", "faux amis", "l'enfance volée"],
+      "ton": "mélancolique / universel",
+      "forme": "antithese",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption throwback / story"
+    },
+    {
+      "id": "cap-034",
+      "texte": "le silence de sa part dit plus que ses mots",
+      "theme": ["ghosting/absence", "cœur brisé"],
+      "ton": "lucide / grave",
+      "forme": "antithese",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / punchline couplet"
+    },
+    {
+      "id": "cap-035",
+      "texte": "l'enfant que j'étais méritait mieux",
+      "theme": ["l'enfance volée", "la mère"],
+      "ton": "doux / douloureux",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / fin de couplet introspectif"
+    },
+    {
+      "id": "cap-036",
+      "texte": "je souris aux inconnus, je suis froid avec ceux qui me connaissent",
+      "theme": ["faire semblant que ça va", "faux amis"],
+      "ton": "ironique / précis",
+      "forme": "paradoxe",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / punchline relatable"
+    },
+    {
+      "id": "cap-037",
+      "texte": "les victoires sans partage deviennent des défaites",
+      "theme": ["réussite vide", "solitude nocturne"],
+      "ton": "philosophique / amer",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story victoire / fin de couplet"
+    },
+    {
+      "id": "cap-038",
+      "texte": "est-ce que quelqu'un pense à moi autant que je pense à eux ?",
+      "theme": ["ghosting/absence", "solitude nocturne"],
+      "ton": "vulnérable / universel",
+      "forme": "question",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "accroche nuit / caption story"
+    },
+    {
+      "id": "cap-039",
+      "texte": "ma mère a vieilli à force de travailler pour mes rêves",
+      "theme": ["la mère", "réussite vide"],
+      "ton": "reconnaissant / culpabilisant",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption dédicace / story success"
+    },
+    {
+      "id": "cap-040",
+      "texte": "je porte leurs absences comme des médailles",
+      "theme": ["ghosting/absence", "faux amis", "solitude nocturne"],
+      "ton": "ironique / fort",
+      "forme": "sensoriel",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption punchline / fin de couplet"
+    },
+    {
+      "id": "cap-041",
+      "texte": "elle a dit « prends soin de toi » comme si c'était au revoir",
+      "theme": ["ghosting/absence", "cœur brisé"],
+      "ton": "précis / douloureux",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story break-up / commentaire TikTok"
+    },
+    {
+      "id": "cap-042",
+      "texte": "on peut être seul dans une pièce pleine de monde",
+      "theme": ["solitude nocturne", "faux amis", "faire semblant que ça va"],
+      "ton": "universel / lucide",
+      "forme": "antithese",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / accroche frame 0"
+    },
+    {
+      "id": "cap-043",
+      "texte": "l'odeur de son manteau sur mon canapé un mois après",
+      "theme": ["ghosting/absence", "cœur brisé"],
+      "ton": "sensoriel / mélancolique",
+      "forme": "sensoriel",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / commentaire post break-up"
+    },
+    {
+      "id": "cap-044",
+      "texte": "j'ai construit quelque chose de grand sur une base brisée",
+      "theme": ["l'enfance volée", "réussite vide"],
+      "ton": "fort / douloureux",
+      "forme": "paradoxe",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / accroche couplet"
+    },
+    {
+      "id": "cap-045",
+      "texte": "les faux amis applaudissent jusqu'à ce que tu les dépasses",
+      "theme": ["faux amis", "réussite vide"],
+      "ton": "lucide / sarcastique",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / punchline couplet"
+    },
+    {
+      "id": "cap-046",
+      "texte": "j'ai plus peur de la solitude, j'ai peur du faux entourage",
+      "theme": ["faux amis", "solitude nocturne"],
+      "ton": "lucide / mature",
+      "forme": "antithese",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / fin de couplet"
+    },
+    {
+      "id": "cap-047",
+      "texte": "c'est quoi la maison quand t'as grandi dans le chaos ?",
+      "theme": ["l'enfance volée", "solitude nocturne"],
+      "ton": "philosophique / douloureux",
+      "forme": "question",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "accroche frame 0 / caption introspection"
+    },
+    {
+      "id": "cap-048",
+      "texte": "le temps efface les détails mais jamais la douleur",
+      "theme": ["le temps qui passe", "cœur brisé"],
+      "ton": "grave / universel",
+      "forme": "antithese",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / fin de couplet mélancolique"
+    },
+    {
+      "id": "cap-049",
+      "texte": "j'aurais voulu lui dire merci avant qu'il soit trop tard",
+      "theme": ["la mère", "le temps qui passe"],
+      "ton": "regret / tendre",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption dédicace / story souvenir"
+    },
+    {
+      "id": "cap-050",
+      "texte": "je fais bonne figure le jour, je compte les heures la nuit",
+      "theme": ["faire semblant que ça va", "solitude nocturne"],
+      "ton": "épuisé / précis",
+      "forme": "antithese",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption nuit / fond sombre"
+    },
+    {
+      "id": "cap-051",
+      "texte": "on s'est dit « à bientôt » et ça fait deux ans",
+      "theme": ["ghosting/absence", "le temps qui passe", "faux amis"],
+      "ton": "mélancolique / précis",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / commentaire TikTok relatable"
+    },
+    {
+      "id": "cap-052",
+      "texte": "les larmes de ma mère ont financé mes études",
+      "theme": ["la mère", "l'enfance volée"],
+      "ton": "brutal / reconnaissant",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story dédicace / punchline couplet mère"
+    },
+    {
+      "id": "cap-053",
+      "texte": "riches en photos, pauvres en vrais moments",
+      "theme": ["faire semblant que ça va", "réussite vide"],
+      "ton": "sarcastique / critique",
+      "forme": "antithese",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / accroche débat"
+    },
+    {
+      "id": "cap-054",
+      "texte": "est-ce que partir remet vraiment à zéro ?",
+      "theme": ["ghosting/absence", "le temps qui passe"],
+      "ton": "existentiel / doux",
+      "forme": "question",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "accroche frame 0 / caption introspection"
+    },
+    {
+      "id": "cap-055",
+      "texte": "j'ai appris la loyauté auprès de gens qui ne savaient pas ce que c'est",
+      "theme": ["faux amis", "l'enfance volée"],
+      "ton": "amer / fort",
+      "forme": "paradoxe",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / fin de couplet"
+    },
+    {
+      "id": "cap-056",
+      "texte": "son absence a une odeur, celle du lit vide le matin",
+      "theme": ["ghosting/absence", "cœur brisé"],
+      "ton": "sensoriel / précis",
+      "forme": "sensoriel",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story nuit / commentaire break-up"
+    },
+    {
+      "id": "cap-057",
+      "texte": "je vis bien mais je vis pas vraiment",
+      "theme": ["réussite vide", "faire semblant que ça va"],
+      "ton": "minimaliste / dépressif doux",
+      "forme": "antithese",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / fond blanc texte noir"
+    },
+    {
+      "id": "cap-058",
+      "texte": "les enfants du quartier ont tous vieilli trop tôt",
+      "theme": ["l'enfance volée", "le temps qui passe"],
+      "ton": "nostalgique / collectif",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story quartier / accroche couplet"
+    },
+    {
+      "id": "cap-059",
+      "texte": "je cache ma douleur sous des blagues que personne comprend vraiment",
+      "theme": ["faire semblant que ça va", "solitude nocturne"],
+      "ton": "précis / universel",
+      "forme": "paradoxe",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story relatable / commentaire TikTok"
+    },
+    {
+      "id": "cap-060",
+      "texte": "on parle de tout sauf de ce qui compte vraiment",
+      "theme": ["faux amis", "faire semblant que ça va"],
+      "ton": "lucide / mélancolique",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / accroche débat"
+    },
+    {
+      "id": "cap-061",
+      "texte": "j'ai survécu à des choses que je pourrai jamais raconter à table",
+      "theme": ["l'enfance volée", "faire semblant que ça va"],
+      "ton": "lourd / fort",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / fin de couplet introspectif"
+    },
+    {
+      "id": "cap-062",
+      "texte": "les numéros sauvegardés qui sonnent dans le vide",
+      "theme": ["ghosting/absence", "le temps qui passe", "faux amis"],
+      "ton": "mélancolique / sensoriel",
+      "forme": "sensoriel",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / image téléphone"
+    },
+    {
+      "id": "cap-063",
+      "texte": "être fort pour tout le monde fatigue plus vite qu'être seul",
+      "theme": ["faire semblant que ça va", "solitude nocturne"],
+      "ton": "épuisé / lucide",
+      "forme": "antithese",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / punchline couplet"
+    },
+    {
+      "id": "cap-064",
+      "texte": "ma mère savait pas tout mais elle priait pour tout",
+      "theme": ["la mère", "l'enfance volée"],
+      "ton": "tendre / reconnaissant",
+      "forme": "antithese",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption dédicace / fin de couplet"
+    },
+    {
+      "id": "cap-065",
+      "texte": "combien de personnes font semblant d'aller bien en ce moment ?",
+      "theme": ["faire semblant que ça va", "solitude nocturne"],
+      "ton": "universel / doux interpel",
+      "forme": "question",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "accroche frame 0 / engagementTikTok"
+    },
+    {
+      "id": "cap-066",
+      "texte": "j'ai grandi dans le bruit, je cherche le silence maintenant",
+      "theme": ["l'enfance volée", "solitude nocturne"],
+      "ton": "apaisé / nostalgique",
+      "forme": "antithese",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / couplet introspectif"
+    },
+    {
+      "id": "cap-067",
+      "texte": "les trophées font pas chaud la nuit",
+      "theme": ["réussite vide", "solitude nocturne"],
+      "ton": "brutal / minimaliste",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story victoire / fond nuit"
+    },
+    {
+      "id": "cap-068",
+      "texte": "je regarde les vieilles photos pour retrouver quelqu'un que j'ai perdu",
+      "theme": ["le temps qui passe", "ghosting/absence", "l'enfance volée"],
+      "ton": "nostalgique / intime",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption throwback / story"
+    },
+    {
+      "id": "cap-069",
+      "texte": "les « comment tu vas » sans attendre la réponse",
+      "theme": ["faux amis", "faire semblant que ça va"],
+      "ton": "sarcastique / précis",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story relatable / punchline"
+    },
+    {
+      "id": "cap-070",
+      "texte": "certains disparaissent sans claquer la porte, c'est pire",
+      "theme": ["ghosting/absence", "cœur brisé"],
+      "ton": "douloureux / précis",
+      "forme": "antithese",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story break-up / fin couplet"
+    },
+    {
+      "id": "cap-071",
+      "texte": "j'ai mis du temps à réaliser que j'étais entouré de murs",
+      "theme": ["faux amis", "solitude nocturne", "le temps qui passe"],
+      "ton": "lucide / tardif",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / punchline réalisation"
+    },
+    {
+      "id": "cap-072",
+      "texte": "heureuse en apparence, brisée dans le fond",
+      "theme": ["faire semblant que ça va", "cœur brisé"],
+      "ton": "universel / féminin / minimaliste",
+      "forme": "antithese",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / fond rose pâle"
+    },
+    {
+      "id": "cap-073",
+      "texte": "pourquoi les souvenirs heureux font encore plus mal ?",
+      "theme": ["cœur brisé", "le temps qui passe", "ghosting/absence"],
+      "ton": "paradoxal / douloureux",
+      "forme": "question",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "accroche frame 0 / caption story"
+    },
+    {
+      "id": "cap-074",
+      "texte": "j'ai appris à dormir avec le téléphone sur silencieux",
+      "theme": ["ghosting/absence", "solitude nocturne"],
+      "ton": "cru / quotidien",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption nuit / relatable story"
+    },
+    {
+      "id": "cap-075",
+      "texte": "le luxe extérieur cache souvent un désert intérieur",
+      "theme": ["réussite vide", "faire semblant que ça va"],
+      "ton": "critique / universel",
+      "forme": "antithese",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / punchline couplet"
+    },
+    {
+      "id": "cap-076",
+      "texte": "elle a tenu la maison debout quand tout s'effondrait",
+      "theme": ["la mère", "l'enfance volée"],
+      "ton": "admiratif / fort",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption dédicace / story fête des mères"
+    },
+    {
+      "id": "cap-077",
+      "texte": "j'efface les conversations mais pas les sensations",
+      "theme": ["cœur brisé", "ghosting/absence"],
+      "ton": "précis / poétique",
+      "forme": "antithese",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story break-up / commentaire TikTok"
+    },
+    {
+      "id": "cap-078",
+      "texte": "on est proches sur les réseaux, étrangers dans la vraie vie",
+      "theme": ["faux amis", "solitude nocturne"],
+      "ton": "sarcastique / actuel",
+      "forme": "antithese",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story / critique réseaux sociaux"
+    },
+    {
+      "id": "cap-079",
+      "texte": "j'aurais dû rester enfant un peu plus longtemps",
+      "theme": ["l'enfance volée", "le temps qui passe"],
+      "ton": "regret / doux",
+      "forme": "constat",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption throwback / story mémorielle"
+    },
+    {
+      "id": "cap-080",
+      "texte": "les câlins à 23h dans le noir valent plus que les mots",
+      "theme": ["solitude nocturne", "cœur brisé"],
+      "ton": "tendre / sensoriel",
+      "forme": "sensoriel",
+      "type": "caption",
+      "droits": "original",
+      "note_usage": "caption story nuit / commentaire doux"
+    }
+  ]
+}

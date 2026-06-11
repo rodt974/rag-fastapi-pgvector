@@ -1,0 +1,757 @@
+{
+  "module": "imagerie_moderne",
+  "langue_finale": "fr",
+  "fichier": "relatable_1.json",
+  "entrees": [
+    {
+      "id": "img-001",
+      "texte": "le 'vu' sans réponse",
+      "adaptation_fr": "T'as vu mon message à 23h, t'as rien dit, j'ai tout compris",
+      "theme": ["amour", "douleur"],
+      "ton": "froid / résigné",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour traduire le silence comme une réponse en soi"
+    },
+    {
+      "id": "img-002",
+      "texte": "les trois petits points qui s'allument puis s'éteignent",
+      "adaptation_fr": "Les trois points s'allument, j'attends, ils s'éteignent, j'avale",
+      "theme": ["amour", "douleur", "attente"],
+      "ton": "anxieux / suspendu",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour illustrer l'espoir brisé en temps réel, ultra cinématique"
+    },
+    {
+      "id": "img-003",
+      "texte": "lu à 21h47",
+      "adaptation_fr": "Lu à 21h47, le lendemain rien, j'ai dormi avec ça",
+      "theme": ["amour", "douleur", "solitude"],
+      "ton": "précis / blessé",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "l'heure exacte renforce la réalité du moment — très efficace en hook ou en clôture de couplet"
+    },
+    {
+      "id": "img-004",
+      "texte": "la story qu'elle poste mais répond pas",
+      "adaptation_fr": "Tu postes une story, tu réponds pas à mes textos, c'est bon j'ai compris le jeu",
+      "theme": ["amour", "douleur", "trahison"],
+      "ton": "amer / lucide",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "parfait pour montrer la contradiction entre présence numérique et absence réelle"
+    },
+    {
+      "id": "img-005",
+      "texte": "le snap ouvert sans réponse",
+      "adaptation_fr": "Mon snap ouvert depuis hier soir, t'as même pas eu la force d'écrire ok",
+      "theme": ["amour", "douleur"],
+      "ton": "blessé / direct",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "Snapchat spécifique, résonne chez 18-28 ans, moment de rejet passif"
+    },
+    {
+      "id": "img-006",
+      "texte": "le double-check bleu",
+      "adaptation_fr": "Double check bleu depuis midi, t'es en ligne mais mon nom t'intéresse plus",
+      "theme": ["amour", "douleur", "abandon"],
+      "ton": "froid / tranchant",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "WhatsApp / Messenger — symbole universel d'être ignoré délibérément"
+    },
+    {
+      "id": "img-007",
+      "texte": "bloqué puis débloqué",
+      "adaptation_fr": "Tu m'as débloqué à 2h du mat', j'aurais dû rester bloqué",
+      "theme": ["amour", "douleur", "cycle toxique"],
+      "ton": "ironique / triste",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "exprime le cycle toxique de la relation, parfait pour montrer la rechute"
+    },
+    {
+      "id": "img-008",
+      "texte": "le numéro effacé mais su par cœur",
+      "adaptation_fr": "J'ai effacé ton numéro mais mes doigts le tapent tout seuls à 3h",
+      "theme": ["amour", "douleur", "dépendance affective"],
+      "ton": "amer / honnête",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "image forte pour l'obsession post-rupture, très relatable"
+    },
+    {
+      "id": "img-009",
+      "texte": "tomber sur la messagerie",
+      "adaptation_fr": "J'appelle, ça tombe sur ta messagerie, je raccroche, je rappelle",
+      "theme": ["amour", "douleur", "désespoir"],
+      "ton": "désespéré / pudique",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "la messagerie = mur définitif, pour les scènes de rupture totale"
+    },
+    {
+      "id": "img-010",
+      "texte": "en ligne il y a 2 minutes",
+      "adaptation_fr": "Actif il y a 2 min sur Insta, mais mes DM restent gris",
+      "theme": ["amour", "douleur", "rejet"],
+      "ton": "froid / résigné",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "Instagram / WhatsApp, montre que le silence est un choix conscient"
+    },
+    {
+      "id": "img-011",
+      "texte": "scroller dans le noir à 3h du mat",
+      "adaptation_fr": "3h du mat je scrolle dans le noir, les pouces qui cherchent quoi",
+      "theme": ["solitude", "insomnie", "vide"],
+      "ton": "mélancolique / perdu",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "ouverture parfaite d'un couplet nocturne, très cinématique"
+    },
+    {
+      "id": "img-012",
+      "texte": "fixer le plafond sans dormir",
+      "adaptation_fr": "Les yeux sur le plafond, le même film tourne depuis minuit",
+      "theme": ["solitude", "insomnie", "douleur"],
+      "ton": "lent / contemplatif",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "image classique mais précise — à coupler avec une heure pour ancrer dans le réel"
+    },
+    {
+      "id": "img-013",
+      "texte": "fumer seul sur le toit la nuit",
+      "adaptation_fr": "Seul sur le toit avec ma clope, Paris qui dort, moi je peux pas",
+      "theme": ["solitude", "nuit", "mélancolie"],
+      "ton": "cinématique / poétique",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "image visuelle forte pour les refrains ou les ponts, sens du recul"
+    },
+    {
+      "id": "img-014",
+      "texte": "le réveil sans message",
+      "adaptation_fr": "Réveil à 8h, j'attrape le tel', écran vide, journée foutue",
+      "theme": ["solitude", "douleur", "espoir déçu"],
+      "ton": "morne / précis",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "début de journée post-rupture, très quotidien et relatable"
+    },
+    {
+      "id": "img-015",
+      "texte": "insomnie à rallonge",
+      "adaptation_fr": "Quatrième nuit blanche, le jour se lève, j'ai même plus envie de fermer l'œil",
+      "theme": ["solitude", "insomnie", "épuisement"],
+      "ton": "épuisé / honnête",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour exprimer l'usure émotionnelle sur la durée"
+    },
+    {
+      "id": "img-016",
+      "texte": "la luminosité du téléphone dans le noir complet",
+      "adaptation_fr": "Dans le noir complet, juste l'écran qui éclaire ma gueule défaite",
+      "theme": ["solitude", "nuit", "vide"],
+      "ton": "visuel / sombre",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "image très visuelle pour clip ou pour ancrer une ambiance nocturne"
+    },
+    {
+      "id": "img-017",
+      "texte": "2h du mat, les potes dorment tous",
+      "adaptation_fr": "2h du mat, tout le monde dort, moi j'envoie des vocaux dans le vide",
+      "theme": ["solitude", "nuit", "abandon"],
+      "ton": "mélancolique / honnête",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "solitude dans le groupe social, pour les passages introspectifs"
+    },
+    {
+      "id": "img-018",
+      "texte": "refaire le film de la relation",
+      "adaptation_fr": "Je refais le film depuis le début, je cherche où ça a merdé",
+      "theme": ["douleur", "rupture", "obsession"],
+      "ton": "analytique / douloureux",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour les couplets introspectifs post-rupture, posture réflexive"
+    },
+    {
+      "id": "img-019",
+      "texte": "garder ses photos dans un dossier caché",
+      "adaptation_fr": "Tes photos dans un dossier caché que j'ouvre quand je résiste plus",
+      "theme": ["rupture", "dépendance affective", "honte"],
+      "ton": "intime / honteux",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "image 2020s spécifique, très honnête sur l'incapacité à tourner la page"
+    },
+    {
+      "id": "img-020",
+      "texte": "son parfum qui reste sur le pull",
+      "adaptation_fr": "Ton parfum sur mon pull, j'aurais dû le laver mais je l'ai pas fait",
+      "theme": ["rupture", "douleur", "nostalgie"],
+      "ton": "sensible / avouant",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "très sensoriel, contraste avec l'esthétique froide du reste — impact émotionnel fort"
+    },
+    {
+      "id": "img-021",
+      "texte": "passer devant le resto où on allait",
+      "adaptation_fr": "Je prends plus cette rue, j'évite le resto où on allait le vendredi",
+      "theme": ["rupture", "douleur", "mémoire"],
+      "ton": "triste / concret",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "géographie émotionnelle de la ville — très efficace pour personnaliser"
+    },
+    {
+      "id": "img-022",
+      "texte": "l'anniversaire qu'on oublie pas malgré tout",
+      "adaptation_fr": "Ton anniversaire le 14, j'ai rien envoyé mais j'ai pensé à toi toute la journée",
+      "theme": ["rupture", "amour", "nostalgie"],
+      "ton": "doux / triste",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour montrer l'attachement silencieux qui survit à la séparation"
+    },
+    {
+      "id": "img-023",
+      "texte": "reécouter les vocaux qu'elle t'a envoyés",
+      "adaptation_fr": "Je réécoute tes vocaux d'il y a six mois, ta voix me manque plus que toi",
+      "theme": ["rupture", "nostalgie", "douleur"],
+      "ton": "intime / précis",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "spécifique à l'ère des messages vocaux WhatsApp, très personnel"
+    },
+    {
+      "id": "img-024",
+      "texte": "supprimer la conversation puis la regretter",
+      "adaptation_fr": "J'ai supprimé la conv', cinq secondes après j'aurais tout donné pour la retrouver",
+      "theme": ["rupture", "regret", "impulsivité"],
+      "ton": "impulsif / regrettant",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "capture l'impulsivité et le regret immédiat — très humain"
+    },
+    {
+      "id": "img-025",
+      "texte": "regarder son profil sans lui écrire",
+      "adaptation_fr": "Je visite ton profil en mode fantôme, je zappe pas, j'écris pas",
+      "theme": ["rupture", "dépendance affective", "honte"],
+      "ton": "obsessionnel / honteux",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "comportement ultra-contemporain, reconnu par toute une génération"
+    },
+    {
+      "id": "img-026",
+      "texte": "compte en banque à découvert",
+      "adaptation_fr": "Solde négatif depuis le 12, je commande quand même parce que j'ai plus la force",
+      "theme": ["galere", "quotidien", "dépression"],
+      "ton": "résigné / honnête",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "montre la galère financière sans glamour — authenticité classe"
+    },
+    {
+      "id": "img-027",
+      "texte": "le RER bondé le matin",
+      "adaptation_fr": "RER B à 8h, serré comme des sardines, personne se regarde, tout le monde survit",
+      "theme": ["galere", "quotidien", "solitude collective"],
+      "ton": "sociétal / désabusé",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "image forte de la galère parisienne / banlieue, universelle"
+    },
+    {
+      "id": "img-028",
+      "texte": "la chambre chez la daronne à 25 ans",
+      "adaptation_fr": "Toujours dans la chambre de la daronne à 25 ans, les rêves rangés sous le lit",
+      "theme": ["galere", "honte", "ambition"],
+      "ton": "autodérisoire / touchant",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "situation très répandue en banlieue — crée un lien immédiat avec l'audience"
+    },
+    {
+      "id": "img-029",
+      "texte": "les potes qui sont partis / qui ont changé",
+      "adaptation_fr": "Mes potes d'avant sont éparpillés, les groupes WhatsApp qui répondent plus",
+      "theme": ["galere", "solitude", "passage du temps"],
+      "ton": "nostalgique / lucide",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "thème universel du groupe qui se dissout avec l'âge adulte"
+    },
+    {
+      "id": "img-030",
+      "texte": "charbonner pour des clopinettes",
+      "adaptation_fr": "J'ai craché mes tripes ce mois-ci pour 1200 euros nets, j'en reviens pas",
+      "theme": ["galere", "injustice", "épuisement"],
+      "ton": "amer / révolté",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour les passages sur l'effort non récompensé, très relatable classe moyenne basse"
+    },
+    {
+      "id": "img-031",
+      "texte": "faire semblant que ça va sur les réseaux",
+      "adaptation_fr": "Story souriante à midi, à minuit je pleure dans les chiottes",
+      "theme": ["santé mentale", "façade", "solitude"],
+      "ton": "lucide / amer",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "contraste réseaux sociaux vs réalité — très fort en rupture de ton"
+    },
+    {
+      "id": "img-032",
+      "texte": "pleurer sous la douche",
+      "adaptation_fr": "Je pleure sous la douche pour que personne entende, l'eau qui couvre tout",
+      "theme": ["santé mentale", "solitude", "douleur"],
+      "ton": "intime / vulnérable",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "image forte de la dissimulation de la douleur — impact émotionnel immédiat"
+    },
+    {
+      "id": "img-033",
+      "texte": "dissocier en pleine conversation",
+      "adaptation_fr": "Tu me parles, je t'entends plus, j'suis ailleurs mais mon corps répond",
+      "theme": ["santé mentale", "dissociation", "épuisement"],
+      "ton": "flottant / inquiétant",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour les passages sur la dissociation et l'épuisement mental, flow ralenti"
+    },
+    {
+      "id": "img-034",
+      "texte": "le sourire de façade",
+      "adaptation_fr": "Je souris à tout le monde, à l'intérieur c'est silencieux et froid",
+      "theme": ["santé mentale", "façade", "douleur"],
+      "ton": "triste / contrôlé",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour les couplets sur la performance sociale, très relatable"
+    },
+    {
+      "id": "img-035",
+      "texte": "chercher de l'aide sans savoir comment",
+      "adaptation_fr": "J'ai ouvert l'appli psy trois fois, j'ai jamais appuyé sur réserver",
+      "theme": ["santé mentale", "peur", "blocage"],
+      "ton": "honnête / vulnérable",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "très contemporain, pour les passages sur la santé mentale sans dramatiser"
+    },
+    {
+      "id": "img-036",
+      "texte": "la notification qui arrive au mauvais moment",
+      "adaptation_fr": "Sa notif' arrive pendant que je commence à aller mieux, retour case départ",
+      "theme": ["rupture", "douleur", "rechute"],
+      "ton": "résigné / précis",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour les cycles émotionnels post-rupture, l'intrusion du passé"
+    },
+    {
+      "id": "img-037",
+      "texte": "liker accidentellement une vieille photo",
+      "adaptation_fr": "J'ai liké une photo de toi de 2022 par accident, j'ai retiré en deux secondes, trop tard",
+      "theme": ["rupture", "honte", "obsession"],
+      "ton": "comique / honteux",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "moment universel et ultra-contemporain, peut alléger un couplet dense"
+    },
+    {
+      "id": "img-038",
+      "texte": "regarder 'en ligne maintenant' à 4h du mat",
+      "adaptation_fr": "Actif maintenant à 4h du mat, toi aussi tu dors pas, mais on s'écrit plus",
+      "theme": ["rupture", "solitude", "connexion brisée"],
+      "ton": "doux / douloureux",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour exprimer la proximité numérique et la distance émotionnelle simultanées"
+    },
+    {
+      "id": "img-039",
+      "texte": "la batterie à 1% la nuit",
+      "adaptation_fr": "Batterie à 1%, j'attends son message, le téléphone s'éteint, c'est un signe",
+      "theme": ["attente", "solitude", "amour"],
+      "ton": "symbolique / doux",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "petite image quotidienne chargée de sens — excellente pour les ponts"
+    },
+    {
+      "id": "img-040",
+      "texte": "le mode avion pour disparaître",
+      "adaptation_fr": "Mode avion, j'existe plus pour personne, juste moi et le silence",
+      "theme": ["solitude", "fuite", "santé mentale"],
+      "ton": "introspectif / apaisé",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour les passages sur le besoin d'isolement, le retrait volontaire"
+    },
+    {
+      "id": "img-041",
+      "texte": "un groupe WhatsApp devenu silencieux",
+      "adaptation_fr": "Le groupe des potes a plus bougé depuis trois mois, personne ose constater",
+      "theme": ["solitude", "amitié perdue", "passage du temps"],
+      "ton": "mélancolique / lucide",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "la mort d'un groupe WhatsApp comme métaphore de la fin d'une époque"
+    },
+    {
+      "id": "img-042",
+      "texte": "les stories qu'elle regarde mais commente pas",
+      "adaptation_fr": "Elle regarde toutes mes stories, elle dit rien, c'est pire que le silence",
+      "theme": ["amour", "douleur", "jeu"],
+      "ton": "frustré / lucide",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "comportement passif-agressif des réseaux — très reconnaissable"
+    },
+    {
+      "id": "img-043",
+      "texte": "rouvrir une conversation pour rien envoyer",
+      "adaptation_fr": "J'ai ouvert notre conv' dix fois aujourd'hui, j'ai rien tapé, j'ai refermé",
+      "theme": ["rupture", "blocage", "douleur"],
+      "ton": "contenu / résigné",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour les passages sur l'incapacité à passer à l'acte, la paralysie"
+    },
+    {
+      "id": "img-044",
+      "texte": "la musique pour ne pas penser",
+      "adaptation_fr": "AirPods dans les oreilles pour pas entendre mes propres pensées",
+      "theme": ["solitude", "fuite", "quotidien"],
+      "ton": "universel / désabusé",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "très relatable — la musique comme anesthésique, bon pour auto-référence dans un titre"
+    },
+    {
+      "id": "img-045",
+      "texte": "dormir avec le son d'une série pour moins être seul",
+      "adaptation_fr": "Je lance une série que j'écoute pas, juste pour le bruit, pour pas être seul",
+      "theme": ["solitude", "nuit", "vide"],
+      "ton": "triste / intime",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "habitude nocturne très contemporaine — immédiatement reconnaissable"
+    },
+    {
+      "id": "img-046",
+      "texte": "les délivré/lu sur iMessage",
+      "adaptation_fr": "Delivered depuis hier, le 'lu' viendra pas, j'ai ma réponse",
+      "theme": ["amour", "rejet", "douleur"],
+      "ton": "froid / résigné",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "spécifique iPhone, très précis — les deux états successifs du silence"
+    },
+    {
+      "id": "img-047",
+      "texte": "changer de chanson vingt fois sans écouter",
+      "adaptation_fr": "Je passe les sons sans les écouter, rien convient à ce que je ressens",
+      "theme": ["solitude", "vide", "douleur"],
+      "ton": "agité / perdu",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour les états d'agitation intérieure, l'incapacité à se poser"
+    },
+    {
+      "id": "img-048",
+      "texte": "écrire un long message puis tout effacer",
+      "adaptation_fr": "J'ai tout écrit, trois paragraphes, j'ai tout effacé, t'aurais rien compris",
+      "theme": ["rupture", "blocage", "fierté"],
+      "ton": "retenu / amer",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "très fort pour montrer la retenue émotionnelle, l'orgueil qui parle"
+    },
+    {
+      "id": "img-049",
+      "texte": "le téléphone face contre la table pour résister",
+      "adaptation_fr": "Je pose le tel' face contre la table pour pas regarder, je tiens pas dix minutes",
+      "theme": ["dépendance affective", "rupture", "faiblesse"],
+      "ton": "autodérisoire / honnête",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "image du combat interne contre soi-même — très humain et relatable"
+    },
+    {
+      "id": "img-050",
+      "texte": "se lever à midi après une nuit blanche",
+      "adaptation_fr": "Levé à midi après une nuit blanche, les volets fermés, la journée foutue avant de commencer",
+      "theme": ["dépression", "solitude", "galere"],
+      "ton": "lourd / sans illusion",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour les passages sur l'apathie et la dépression douce, très quotidien"
+    },
+    {
+      "id": "img-051",
+      "texte": "manger seul en regardant son téléphone",
+      "adaptation_fr": "Je mange seul en fixant l'écran, même la nourriture a plus de goût",
+      "theme": ["solitude", "dépression", "quotidien"],
+      "ton": "vide / factuel",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "l'image de la solitude dans les gestes les plus basiques"
+    },
+    {
+      "id": "img-052",
+      "texte": "le Uber Eats à 23h parce que plus la force",
+      "adaptation_fr": "Commande Uber Eats à minuit parce que j'ai même plus la force de faire chauffer quoi que ce soit",
+      "theme": ["galere", "dépression", "quotidien"],
+      "ton": "résigné / sans gloire",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "image contemporaine de l'abandon de soi dans les petites choses"
+    },
+    {
+      "id": "img-053",
+      "texte": "le compte Spotify avec les playlists de l'époque",
+      "adaptation_fr": "Ta playlist partagée est encore dans mon Spotify, je la joue encore parfois",
+      "theme": ["rupture", "nostalgie", "musique"],
+      "ton": "nostalgique / doux",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "les playlists partagées Spotify comme archives émotionnelles"
+    },
+    {
+      "id": "img-054",
+      "texte": "voir ses réponses Spotify sur une musique triste",
+      "adaptation_fr": "T'es en train d'écouter la même chanson triste que moi à la même heure, c'est quoi ça",
+      "theme": ["rupture", "connexion brisée", "coïncidence"],
+      "ton": "étonné / douloureux",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "Spotify Friends Activity — image moderne et précise, très forte"
+    },
+    {
+      "id": "img-055",
+      "texte": "les photos suggérées par l'algorithme",
+      "adaptation_fr": "Google me ressort des photos de nous de l'année dernière, l'algo a pas compris",
+      "theme": ["rupture", "mémoire", "technologie"],
+      "ton": "amer / ironique",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "les rappels Google Photos comme intrusion involontaire du passé"
+    },
+    {
+      "id": "img-056",
+      "texte": "le 'cette semaine dans tes souvenirs'",
+      "adaptation_fr": "Facebook me dit 'il y a 3 ans vous étiez ensemble', merci l'algorithme",
+      "theme": ["rupture", "nostalgie", "technologie"],
+      "ton": "amer / ironique",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "les souvenirs automatiques comme cruauté moderne — très reconnaissable"
+    },
+    {
+      "id": "img-057",
+      "texte": "regarder ses nouveaux abonnés",
+      "adaptation_fr": "T'abonnes un nouveau gars, je vois, je dis rien, je range ça quelque part",
+      "theme": ["jalousie", "rupture", "réseaux sociaux"],
+      "ton": "calme / blessé",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "jalousie numérique silencieuse — très contemporaine"
+    },
+    {
+      "id": "img-058",
+      "texte": "son nouveau profil photo",
+      "adaptation_fr": "T'as changé ta photo de profil, nouvelle coupe, tu souris différemment, t'es passée à autre chose",
+      "theme": ["rupture", "douleur", "passage du temps"],
+      "ton": "résigné / observateur",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "le changement de photo de profil comme signal de nouveau départ de l'autre"
+    },
+    {
+      "id": "img-059",
+      "texte": "les notifications silencieuses pour elle",
+      "adaptation_fr": "J'ai mis tes notifs en silencieux mais je check quand même toutes les dix minutes",
+      "theme": ["dépendance affective", "amour", "mensonge à soi-même"],
+      "ton": "autodérisoire / honnête",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "image du mensonge à soi-même, très honnête et drôle en même temps"
+    },
+    {
+      "id": "img-060",
+      "texte": "écrire dans les notes du téléphone au lieu de lui envoyer",
+      "adaptation_fr": "Tout ce que j'aurais dû te dire est dans mes notes, 47 entrées non envoyées",
+      "theme": ["rupture", "douleur", "retenue"],
+      "ton": "triste / précis",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "les notes comme journal intime numérique adressé à quelqu'un — très fort"
+    },
+    {
+      "id": "img-061",
+      "texte": "la daronne qui remarque mais dit rien",
+      "adaptation_fr": "Ma mère me regarde, elle dit rien, mais elle a vu que je mange plus pareil",
+      "theme": ["famille", "douleur", "pudeur"],
+      "ton": "doux / touchant",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour les passages sur la relation mère-enfant, la douleur non dite"
+    },
+    {
+      "id": "img-062",
+      "texte": "le miroir dans la salle de bain à 7h",
+      "adaptation_fr": "Le miroir à 7h du mat, les yeux gonflés, je me reconnais plus vraiment",
+      "theme": ["dépression", "identité", "épuisement"],
+      "ton": "cru / honnête",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "image d'ouverture de journée, pour les passages sur l'identité abîmée"
+    },
+    {
+      "id": "img-063",
+      "texte": "le trajet en voiture seul la nuit",
+      "adaptation_fr": "Je roule seul à 2h du mat, les lampadaires défilent, les thoughts qui lâchent",
+      "theme": ["solitude", "nuit", "liberté mélancolique"],
+      "ton": "cinématique / libérateur",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "image forte de la liberté nocturne solitaire — parfaite pour les refrains planants"
+    },
+    {
+      "id": "img-064",
+      "texte": "les contacts qu'on a plus de raison d'appeler",
+      "adaptation_fr": "Des centaines de numéros et personne à appeler quand ça va vraiment pas",
+      "theme": ["solitude", "connexions perdues", "douleur"],
+      "ton": "lucide / sombre",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour pointer le paradoxe de la connectivité moderne et la solitude réelle"
+    },
+    {
+      "id": "img-065",
+      "texte": "la séparation dans le partage de localisation",
+      "adaptation_fr": "T'as désactivé le partage de localisation, c'est là que j'ai su que c'était fini",
+      "theme": ["rupture", "fin", "technologie"],
+      "ton": "froid / précis",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "très contemporain — le retrait de la localisation partagée comme acte de séparation"
+    },
+    {
+      "id": "img-066",
+      "texte": "demander si ça va par message alors qu'on devrait appeler",
+      "adaptation_fr": "Tu m'envoies 'ça va ?' par texto, t'aurais pu appeler mais t'as pas eu le courage non plus",
+      "theme": ["amitié", "distance", "communication moderne"],
+      "ton": "légèrement amer / lucide",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "critique douce de la communication superficielle à l'ère numérique"
+    },
+    {
+      "id": "img-067",
+      "texte": "le mois de loyer qui approche",
+      "adaptation_fr": "Le 1er qui approche, le compte qui fait peur, je dors mal depuis le 25",
+      "theme": ["galere", "stress financier", "quotidien"],
+      "ton": "anxieux / concret",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "stress du loyer — universel pour la classe populaire et les jeunes actifs"
+    },
+    {
+      "id": "img-068",
+      "texte": "manger des pâtes en fin de mois",
+      "adaptation_fr": "Pâtes beurre depuis trois jours, le compte est à zéro, j'attends le virement",
+      "theme": ["galere", "pauvreté", "quotidien"],
+      "ton": "factuel / sans apitoiement",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "image universelle de la galère de fin de mois — authenticité totale"
+    },
+    {
+      "id": "img-069",
+      "texte": "le boulot alimentaire qu'on supporte",
+      "adaptation_fr": "Je souris aux clients huit heures par jour, le soir je suis vide comme un sac",
+      "theme": ["galere", "épuisement", "ambition déçue"],
+      "ton": "résigné / fatigué",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "pour les passages sur le décalage entre les aspirations et la réalité du quotidien"
+    },
+    {
+      "id": "img-070",
+      "texte": "les candidatures sans réponse",
+      "adaptation_fr": "Quarante CV envoyés, deux réponses, les deux négatives, je recommence demain",
+      "theme": ["galere", "résilience", "injustice"],
+      "ton": "épuisé / têtu",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "très relatable pour la génération qui galère à s'insérer professionnellement"
+    },
+    {
+      "id": "img-071",
+      "texte": "l'anxiété du dimanche soir",
+      "adaptation_fr": "Dimanche 18h, l'angoisse qui remonte, le lundi qui pointe derrière le rideau",
+      "theme": ["santé mentale", "quotidien", "galere"],
+      "ton": "anxieux / universel",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "Sunday scaries — ressenti universel, parfait pour l'intro d'un titre introspectif"
+    },
+    {
+      "id": "img-072",
+      "texte": "vérifier son téléphone au réveil avant même de se lever",
+      "adaptation_fr": "Même pas debout, le tel' déjà en main, j'espère encore quelque chose",
+      "theme": ["dépendance affective", "espoir", "quotidien"],
+      "ton": "honnête / doux",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "réflexe matinal post-rupture, image d'ouverture très forte"
+    },
+    {
+      "id": "img-073",
+      "texte": "la sonnerie qui ne vient pas",
+      "adaptation_fr": "J'ai regardé l'écran tellement longtemps que j'ai cru qu'il vibrait",
+      "theme": ["attente", "douleur", "obsession"],
+      "ton": "précis / douloureux",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "hallucination de vibration — phénomène réel et très évocateur"
+    },
+    {
+      "id": "img-074",
+      "texte": "le silence dans l'appartement vide",
+      "adaptation_fr": "Le silence dans l'appart depuis que t'es partie, même les murs ont changé de tête",
+      "theme": ["rupture", "solitude", "espace"],
+      "ton": "lourd / poétique",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "l'absence physique qui transforme un espace — très sensoriel"
+    },
+    {
+      "id": "img-075",
+      "texte": "se réveiller et oublier une seconde que c'est fini",
+      "adaptation_fr": "Y'a deux secondes au réveil où j'oublie que c'est terminé, c'est les meilleures et les pires",
+      "theme": ["rupture", "douleur", "mémoire"],
+      "ton": "subtil / douloureux",
+      "type": "image",
+      "droits": "original",
+      "note_usage": "moment psychologique ultra-précis — très fort pour créer de l'empathie"
+    }
+  ]
+}

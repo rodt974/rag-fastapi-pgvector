@@ -1,67 +1,74 @@
-# VALENTINA
+# VALENTINA (version cloud rap planant)
 
-Vibe : mélodique afro-latino / reggaeton, sensuel, été. Hook = le prénom "Valentina" + "caramela" répétés (earworm).
-Code-switching FR/ES (dale, mami, corazón, reina, mamacita).
+Vibe : cloud rap planant / dreamy + autotune + vocalises + espace. Juste une TOUCHE afro-latino (pas un banger club).
+Hook = "Valentina" + "caramela" répétés (earworm). Code-switching FR/ES léger (mi corazón, mami, dale, mamacita).
 
 === PAROLES (champ Lyrics Suno) ===
 
 [Intro]
-eh... ouuh...
+ouuh... hannn...
 (Valentina...)
 ohhh-oh-oh...
 
 [Hook]
-Valentina... elle a la peau caramela
+Valentina... la peau caramela
 ouuh...
-Valentina... elle danse, j'perds la tête, ah
+elle plane dans ma tête... toute la nuit, ah
 hannn...
-elle me regarde une fois... mi corazón s'emballe
+un seul regard... mi corazón s'envole
 Valentina... caramela...
 ohhh-oh-oh...
 
 [Verse 1]
-yeux couleur miel... démarche de reina
-elle bouge les hanches... tout l'quartier s'arrête, eh
-parfum de vanille... un sourire qui désarme
-mami tu m'rends fou... donne-moi ton numéro, va
+yeux couleur miel... j'me noie dedans
+ouuh...
+elle bouge au ralenti... comme dans un rêve
+hannn...
+parfum de vanille... reste un peu, mami
+héééé...
+j'plane sur sa peau... loin, très loin d'ici
+ohhh...
 
 [Hook]
-Valentina... elle a la peau caramela
+Valentina... la peau caramela
 ouuh...
-Valentina... elle danse, j'perds la tête, ah
+elle plane dans ma tête... toute la nuit, ah
 hannn...
-elle me regarde une fois... mi corazón s'emballe
+un seul regard... mi corazón s'envole
 Valentina... caramela...
 ohhh-oh-oh...
 
 [Verse 2]
-elle vient pas pour rester... juste pour briser des cœurs
-caramela dehors... mais glacée à l'intérieur
-j'sais qu'elle joue avec moi... mais j'reviens quand même
-Valentina dis "dale"... et j'traverse la mer
+elle vient, elle s'en va... comme la fumée
+ouuh...
+caramela dehors... mais le cœur gelé
+hannn...
+j'le sais, elle me perd... mais j'reviens quand même
+héééé...
+Valentina dis "dale"... j'pars dans ton ciel
+ohhh...
 
 [Bridge]
-baila, baila... Valentina
-ouuh...
-sous la lune d'été... tu brilles, mamacita
-hannn...
+baila... tout doucement... Valentina
+ouuh... hannn...
+sous la lune... tu brilles, mamacita
 
 [Hook]
-Valentina... elle a la peau caramela
+Valentina... la peau caramela
 ouuh...
-Valentina... elle danse, j'perds la tête, ah
+elle plane dans ma tête... toute la nuit, ah
 hannn...
-elle me regarde une fois... mi corazón s'emballe
+un seul regard... mi corazón s'envole
 Valentina... caramela...
 ohhh-oh-oh...
 
 [Outro]
-eh... ouuh...
+ouuh... hannn...
 Valentina... caramela...
 ohhh-oh-oh...
 
 === STYLE PROMPT (champ Style Suno) ===
-french melodic rap, afro-latino, reggaeton dembow groove, summer sensual vibe, warm autotune male voice, catchy melodic hook, congas and guitar, smooth 808, 95 BPM, danceable, romantic
+french cloud rap, dreamy planant, melodic, warm autotune male voice, spacious airy, ambient reverb pads, smooth deep 808, half-time 130 BPM, hazy sensual romantic, subtle afro-latino touch, lots of vocal ad-libs
 
 === EXCLUDE STYLES ===
-hard drill, dark, aggressive, EDM, hardstyle
+EDM, electro, house, hard drill, aggressive, festive club, hardstyle

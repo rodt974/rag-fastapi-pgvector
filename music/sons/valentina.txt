@@ -67,8 +67,11 @@ ouuh... hannn...
 Valentina... caramela...
 ohhh-oh-oh...
 
-=== STYLE PROMPT (champ Style Suno) ===
-french cloud rap, afro-latino touch, dreamy sensual romantic, warm breathy autotune male vocals, ambient reverb pads, smooth deep 808, 130 BPM half-time feel, rap français, all lyrics in French, solo lead vocal
+=== STYLE PROMPT (champ Style Suno) — version groovy (moins lente) ===
+french melodic rap, afro-latino groove, dreamy sensual romantic, warm autotune male vocals, congas and guitar, smooth 808, groovy mid-tempo 100 BPM, danceable, rap français, all lyrics in French, solo lead vocal
+
+# (variante PLUS planante si tu préfères lent : remplace par)
+# french cloud rap, afro-latino touch, dreamy sensual, warm autotune male vocals, ambient pads, smooth 808, 95 BPM, rap français, all lyrics in French, solo lead vocal
 
 === EXCLUDE STYLES (max 5) ===
 EDM, electro, house, pop, festive club

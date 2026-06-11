@@ -1,6 +1,8 @@
 import React from 'react';
 import {Composition} from 'remotion';
 import {MasqueFissure, ClipProps} from './MasqueFissure';
+import {Valentina} from './Valentina';
+import valCaptions from '../public/captions_valentina.json';
 
 const FPS = 30;
 const f = (a: number, b: number) => Math.round((b - a) * FPS);
@@ -32,6 +34,14 @@ const clip4: ClipProps = {
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition
+        id="Valentina-Teaser"
+        component={Valentina}
+        fps={FPS}
+        width={1080}
+        height={1920}
+        durationInFrames={f(valCaptions.clipStart, valCaptions.clipEnd)}
+      />
       <Composition
         id="Clip1-Hook"
         component={MasqueFissure}

@@ -5,7 +5,7 @@ Hook = "Valentina" + "caramela" répétés (earworm). Code-switching FR/ES lége
 
 === PAROLES (champ Lyrics Suno) ===
 
-[Intro]
+[Short Intro]
 ouuh... hannn...
 (Valentina...)
 ohhh-oh-oh...
@@ -67,8 +67,15 @@ ouuh... hannn...
 Valentina... caramela...
 ohhh-oh-oh...
 
-=== STYLE PROMPT (champ Style Suno) ===
-french cloud rap, dreamy planant, melodic, warm autotune male voice, spacious airy, ambient reverb pads, smooth deep 808, half-time 130 BPM, hazy sensual romantic, subtle afro-latino touch, lots of vocal ad-libs
+=== STYLE PROMPT (champ Style Suno) — optimisé selon le guide ===
+french cloud rap, afro-latino touch, dreamy sensual romantic, warm breathy autotune male vocals, ambient reverb pads, smooth deep 808, 130 BPM half-time feel, rap français, all lyrics in French, solo lead vocal
 
-=== EXCLUDE STYLES ===
-EDM, electro, house, hard drill, aggressive, festive club, hardstyle
+=== EXCLUDE STYLES (max 5) ===
+EDM, electro, house, pop, festive club
+
+=== NOTES (règles du guide appliquées) ===
+- Langue déclarée (rap français / all lyrics in French) + male vocals + solo lead (voix stable).
+- "130 BPM half-time feel" (jamais "80 BPM half-time" = piège qui ralentit tout).
+- Ancrage hip-hop (808) + afro-latino en TOUCHE seulement (pas de banger club).
+- Essentiel en tête (les ~200 premiers caractères comptent le plus).
+- Génère 4-5x, garde le meilleur hook ; si voix change → sauve une Persona/Voice.

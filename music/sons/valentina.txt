@@ -1,7 +1,6 @@
-# VALENTINA (cloud rap planant — écriture montée d'un cran)
+# VALENTINA (version officielle — paroles user + voix signature RODT)
 
-Vibe : cloud rap planant + autotune + vocalises + touche afro-latino. Hook = "Valentina/caramela" (earworm).
-Couplets en MONORIME (V1 = -el, V2 = -eur) + images + double-sens planant. Code-switching FR/ES léger.
+Voix signature en tête du prompt (caractère A : velours -> falsetto). Afro-trap groove (rappé + groovy, pas lent).
 
 === PAROLES (champ Lyrics Suno) ===
 
@@ -12,9 +11,7 @@ ohhh-oh-oh...
 
 [Hook]
 Valentina... la peau caramela
-ouuh...
-elle danse dans mes rêves... me laisse à terre, ah
-hannn...
+elle danse dans mes rêves... me laisse à ahténa
 un seul de ses regards... et mon cœur se barre
 Valentina... caramela...
 ohhh-oh-oh...
@@ -22,7 +19,7 @@ ohhh-oh-oh...
 [Verse 1]
 ses yeux, deux gouttes de miel... la bouche en caramel
 ouuh...
-elle marche, le bitume tremble... démarche surnaturelle
+elle marche, le bitume fume... démarche surnaturelle
 hannn...
 peau dorée au soleil... un mirage qui paraît réel
 héééé...
@@ -31,9 +28,7 @@ ohhh...
 
 [Hook]
 Valentina... la peau caramela
-ouuh...
-elle danse dans mes rêves... me laisse à terre, ah
-hannn...
+elle danse dans mes rêves... me laisse à ahténa
 un seul de ses regards... et mon cœur se barre
 Valentina... caramela...
 ohhh-oh-oh...
@@ -43,7 +38,7 @@ caramela dehors... cœur de glace à l'intérieur
 ouuh...
 elle collectionne les cœurs... moi j'fais l'beau pour une heure
 hannn...
-elle m'dit "dale" en partant... j'la suis, je connais ma peur
+elle m'dit "dalé bb" en partant... j'la suis, je connais ma peur
 héééé...
 brûlé comme un soleil... j'retombe de toute ma hauteur
 ohhh...
@@ -55,9 +50,7 @@ même si tu m'détruis... j'en r'demande, mamacita
 
 [Hook]
 Valentina... la peau caramela
-ouuh...
-elle danse dans mes rêves... me laisse à terre, ah
-hannn...
+elle danse dans mes rêves... me laisse à ahténa
 un seul de ses regards... et mon cœur se barre
 Valentina... caramela...
 ohhh-oh-oh...
@@ -67,18 +60,12 @@ ouuh... hannn...
 Valentina... caramela...
 ohhh-oh-oh...
 
-=== STYLE PROMPT (champ Style Suno) — version groovy (moins lente) ===
-french melodic rap, afro-latino groove, dreamy sensual romantic, warm autotune male vocals, congas and guitar, smooth 808, groovy mid-tempo 100 BPM, danceable, rap français, all lyrics in French, solo lead vocal
+=== STYLE PROMPT (champ Style Suno — voix signature A) ===
+deep velvet male voice flipping to soaring emotional falsetto, breathy distinctive grain, melodic autotune, french rap, afro-trap groove, melodic piano lead, rapped verses melodic hook, punchy 808, fast hi-hats, upbeat danceable, 100 BPM, rap français, all lyrics in French
 
-# (variante PLUS planante si tu préfères lent : remplace par)
-# french cloud rap, afro-latino touch, dreamy sensual, warm autotune male vocals, ambient pads, smooth 808, 95 BPM, rap français, all lyrics in French, solo lead vocal
+=== EXCLUDE STYLES ===
+slow, cloud rap, ambient, lo-fi, pure singing
 
-=== EXCLUDE STYLES (max 5) ===
-EDM, electro, house, pop, festive club
-
-=== L'ÉCRITURE (ce qui a été musclé) ===
-- V1 monorime -el : miel / caramel / surnaturelle / réel / le ciel (images sensuelles + "touche le ciel" = planant).
-- V2 monorime -eur : intérieur / une heure / ma peur / ma hauteur (la meuf qui brise les cœurs + "retombe de toute ma hauteur" = chute planante).
-- Double-sens : "j'touche le ciel" (extase + élévation), "retombe de toute ma hauteur" (chute amoureuse + altitude).
-- Mélancolie sous le sucre : "caramela dehors, cœur de glace à l'intérieur".
-- Code-switching gardé léger : caramela, mi nada, dale, mamacita, baila.
+=== MÉTHODE VOIX SIGNATURE ===
+1. Génère 8-10x. 2. Garde la prise où le falsetto file des frissons (la voix WOUAH).
+3. Sauve-la en Persona/Voice (Suno Pro). 4. Teste la MÊME Persona sur un son cloud (MASQUE) -> si ça tient sur les 2 = ta signature.

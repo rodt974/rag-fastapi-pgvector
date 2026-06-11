@@ -1,0 +1,156 @@
+{
+  "module": "structures_courtes",
+  "langue_finale": "fr",
+  "entrees": [
+    {
+      "id": "str-001",
+      "nom": "Le Classique TikTok",
+      "structure": "Intro 4s → Hook → V1 → Hook x2 → Outro 6s",
+      "details_sections": {
+        "intro": "4s – beat seul + vocalise ouuh d'entrée",
+        "hook_1": "20s – 4 lignes + vocalises, pose l'état",
+        "v1": "32s – 8 lignes, développe sans résoudre",
+        "hook_2_3": "40s – hook x2 enchaîné sans break",
+        "outro": "6s – dernière ligne du hook en fade + sss"
+      },
+      "duree_cible": "1:42",
+      "moment_tiktok": "Les 3 premières secondes du premier Hook (ligne 1 = accroche verticale)",
+      "point_de_clip": "00:04 – premier mot du hook",
+      "type": "blueprint",
+      "droits": "original",
+      "note_usage": "Structure la plus sûre pour l'algorithme. Le hook doit être en place avant 0:10. Pas de couplet avant le hook."
+    },
+    {
+      "id": "str-002",
+      "nom": "Le Drop Émotionnel",
+      "structure": "Pré-hook 8s → Hook → V1 → Pre-hook 4s → Hook x2 → Outro 4s",
+      "details_sections": {
+        "pre_hook_1": "8s – 2 lignes en tension montante, voix seule ou beat minimal",
+        "hook_1": "20s – explosion du beat au premier mot",
+        "v1": "30s – 8 lignes, intimité, beat plus doux",
+        "pre_hook_2": "4s – 1 ligne de rappel de tension",
+        "hook_2_3": "40s – hook plein x2",
+        "outro": "4s – beat seul puis coupure nette"
+      },
+      "duree_cible": "1:46",
+      "moment_tiktok": "Le drop : 0:08 exact – quand le beat entre avec le hook",
+      "point_de_clip": "00:08 – drop du beat",
+      "type": "blueprint",
+      "droits": "original",
+      "note_usage": "Le contraste pré-hook/hook est tout. Le silence avant le drop doit être physiquement ressenti. Suno : utiliser [Build] puis [Drop] comme balises."
+    },
+    {
+      "id": "str-003",
+      "nom": "Le Monologue Cloud",
+      "structure": "Intro parlée 6s → V1 → Hook → V2 → Hook x2 → Outro vocalise 8s",
+      "details_sections": {
+        "intro_parlee": "6s – 1-2 phrases parlées sur beat ambient, euh... inclus",
+        "v1": "35s – 10 lignes, mood setting, cloud planant",
+        "hook_1": "20s – révélation émotionnelle",
+        "v2": "30s – 8 lignes, profondeur supplémentaire",
+        "hook_2_3": "40s – hook x2",
+        "outro": "8s – vocalise seule aaah long, fade progressif"
+      },
+      "duree_cible": "2:19",
+      "moment_tiktok": "Premier hook à 0:41 – le contraste parlé→chanté est la clé",
+      "point_de_clip": "00:41 – entrée du hook après le couplet",
+      "type": "blueprint",
+      "droits": "original",
+      "note_usage": "Format story-telling. L'intro parlée crée de l'intimité immédiate. Léger risque TikTok si l'intro passe 8s – rester strict sur 6s."
+    },
+    {
+      "id": "str-004",
+      "nom": "Le Minimaliste 90s",
+      "structure": "Intro 3s → Hook → V1 → Hook → Outro 5s",
+      "details_sections": {
+        "intro": "3s – coupure nette, beat démarre sec",
+        "hook_1": "18s – 4 lignes épurées, mot-sticky dominant",
+        "v1": "28s – 8 lignes, flow économe",
+        "hook_2": "18s – hook identique, une vocalise en plus",
+        "outro": "5s – dernière ligne a cappella + fade"
+      },
+      "duree_cible": "1:12",
+      "moment_tiktok": "Tout le morceau est un potentiel clip – idéal pour boucle TikTok sans fin visible",
+      "point_de_clip": "00:03 – dès le premier mot du hook",
+      "type": "blueprint",
+      "droits": "original",
+      "note_usage": "Format le plus court. Puissance par l'épure totale. Suno risque de vouloir rallonger – forcer la structure courte dans le prompt."
+    },
+    {
+      "id": "str-005",
+      "nom": "Le Bridge Révélation",
+      "structure": "Intro 4s → Hook → V1 → Hook → Bridge → Hook x2 → Outro 4s",
+      "details_sections": {
+        "intro": "4s – ambient, vocalise ouuh seule",
+        "hook_1": "20s – état posé",
+        "v1": "30s – développement",
+        "hook_2": "20s – renforcement",
+        "bridge": "16s – 4 lignes, rupture harmonique ou rythmique, moment le plus honnête du morceau",
+        "hook_3_4": "40s – hook x2 avec nouvel éclairage grâce au bridge",
+        "outro": "4s – coupure + 1 vocalise finale"
+      },
+      "duree_cible": "2:14",
+      "moment_tiktok": "Le Bridge : 1:14 – là où tout change, le moment à clipper pour l'émotion",
+      "point_de_clip": "01:14 – début du bridge",
+      "type": "blueprint",
+      "droits": "original",
+      "note_usage": "Le bridge doit apporter une information nouvelle – pas une répétition. Harmoniquement : descendre d'un ton ou changer de mode. C'est le cœur du morceau."
+    },
+    {
+      "id": "str-006",
+      "nom": "Le Inversé (Hook First)",
+      "structure": "Hook x2 → V1 → Hook → V2 → Hook → Outro 6s",
+      "details_sections": {
+        "hook_1_2": "40s – hook x2 en ouverture totale, pose TOUT l'état",
+        "v1": "30s – explique ou approfondit ce que le hook a posé",
+        "hook_3": "20s – confirmation",
+        "v2": "25s – dernier élément narratif",
+        "hook_4": "20s – hook final, légèrement varié vocalement",
+        "outro": "6s – mot-sticky seul murmuré + silence"
+      },
+      "duree_cible": "2:21",
+      "moment_tiktok": "Dès 0:00 – le hook ouvre le morceau, structure parfaite pour TikTok car le meilleur est immédiat",
+      "point_de_clip": "00:00 – le premier son",
+      "type": "blueprint",
+      "droits": "original",
+      "note_usage": "Contre-intuitif mais très efficace sur TikTok : on donne le meilleur en premier. Les couplets deviennent des extensions, pas des introductions."
+    },
+    {
+      "id": "str-007",
+      "nom": "Le Une-Vague",
+      "structure": "Intro 5s → V1 long → Mini-hook → V2 → Hook plein → Outro 4s",
+      "details_sections": {
+        "intro": "5s – ambient seul, pas de voix",
+        "v1_long": "45s – 12-14 lignes, build progressif, pas de répétition",
+        "mini_hook": "10s – 2 lignes seulement, aperçu du hook à venir",
+        "v2": "25s – 8 lignes, accélération narrative",
+        "hook_plein": "20s – le hook arrive et fait tout son effet après l'attente",
+        "outro": "4s – 1 ligne a cappella"
+      },
+      "duree_cible": "1:49",
+      "moment_tiktok": "Arrivée du Hook plein : 1:25 – la tension est enfin résolue, moment de libération",
+      "point_de_clip": "01:25 – explosion du hook après le build",
+      "type": "blueprint",
+      "droits": "original",
+      "note_usage": "Structure à risque : les premières secondes sont sans hook. Ne fonctionne que si V1 est captivant dès la ligne 1. Idéal pour les artistes avec un flow fort."
+    },
+    {
+      "id": "str-008",
+      "nom": "Le Boucle Fermée",
+      "structure": "Intro vocalise 4s → Hook → V1 → Hook → Outro = Intro (boucle)",
+      "details_sections": {
+        "intro_vocalise": "4s – ouuh seul sur le beat, identique à l'outro",
+        "hook_1": "20s – état central du morceau",
+        "v1": "30s – développement unique",
+        "hook_2": "20s – hook identique ou quasi-identique",
+        "outro_boucle": "6s – exactement la même vocalise qu'en intro, le morceau semble ne jamais finir"
+      },
+      "duree_cible": "1:20",
+      "moment_tiktok": "Boucle TikTok parfaite : l'outro repart sur l'intro, l'algorithme loop sans coupure visible",
+      "point_de_clip": "00:04 – premier mot du hook / ou 01:14 – l'intro de la boucle",
+      "type": "blueprint",
+      "droits": "original",
+      "note_usage": "Format conçu pour le loop infini TikTok. L'outro doit être identique à 100% à l'intro. Suno : répéter le même prompt de section pour intro et outro. Format le plus court et le plus viral potentiellement."
+    }
+  ]
+}

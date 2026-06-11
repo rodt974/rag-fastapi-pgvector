@@ -105,6 +105,29 @@ export const Valentina: React.FC = () => {
         }}
       />
 
+      {/* accroche en haut — visible dès la frame 1 */}
+      <AbsoluteFill
+        style={{justifyContent: 'flex-start', alignItems: 'center', paddingTop: '6.5%'}}
+      >
+        <div
+          style={{
+            maxWidth: '86%',
+            textAlign: 'center',
+            fontFamily: "'Arial Black', 'Montserrat', sans-serif",
+            fontWeight: 900,
+            fontSize: 52,
+            lineHeight: 1.18,
+            whiteSpace: 'pre-line',
+            color: '#ffffff',
+            WebkitTextStroke: '5px #000000',
+            paintOrder: 'stroke fill',
+            textShadow: '0 0 24px rgba(255,178,71,0.45), 0 4px 12px rgba(0,0,0,0.9)',
+          }}
+        >
+          {'Caramela dehors…\ncœur de glace à l’intérieur 🥀'}
+        </div>
+      </AbsoluteFill>
+
       <Captions />
 
       <Audio

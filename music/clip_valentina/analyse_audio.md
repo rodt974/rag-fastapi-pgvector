@@ -1,24 +1,26 @@
-# 🎬 VALENTINA — Analyse audio (pour le clip)
+# 🎬 VALENTINA — Analyse audio (NOUVELLE version pour le clip)
 
-Fichier source : Valentina_Caramela.wav · 1:57 (117.3s) · 48kHz stéréo · ~120 BPM.
+Source : 205ea531-Valentina_caramel.wav · 2:07 (127.4s) · 48kHz stéréo · ~120 BPM.
+(Ancienne version remplacée.)
 
-## Structure (sections, par analyse d'énergie)
-| Section | Timecode | Énergie | Contenu lyrique |
+## Structure (sections, par énergie)
+| Section | Timecode | Énergie | Contenu |
 |---|---|---|---|
-| Intro | 0:00–0:06 | basse | ouuh... hannn... (Valentina...) |
-| Hook 1 | 0:06–0:22 | montante | "Valentina... la peau caramela..." |
-| Verse 1 | 0:22–0:44 | moyenne | "ses yeux deux gouttes de miel..." |
-| **Hook 2** | **0:44–1:00** | **HAUTE (60+)** | "Valentina... la peau caramela..." |
-| Verse 2 | 1:00–1:20 | moyenne | "caramela dehors, cœur de glace..." |
-| Bridge | 1:20–1:28 | creux | "baila... rien qu'pour moi..." |
-| **Hook final + Outro** | **1:28–1:57** | **HAUTE soutenue (climax ~1:36)** | "Valentina... caramela..." |
+| Intro + Hook 1 | 0:00–0:30 | montante | ouuh / "Valentina la peau caramela" |
+| Build / drop 1 | 0:30–0:36 | pic (63) | premier gros moment |
+| Couplet 1 / hook | 0:36–0:50 | haute | "ses yeux deux gouttes de miel..." |
+| **Hook 2** | **0:52–1:06** | **HAUTE (62-67)** | "Valentina la peau caramela" |
+| Couplet 2 | 1:10–1:22 | haute/moy | "caramela dehors, cœur de glace..." |
+| Bridge | 1:22–1:28 | creux | "baila... rien qu'pour moi" |
+| **Climax final** | **1:28–1:56** | **MAX (jusqu'à 72)** | hooks finaux |
+| Outro | 1:56–2:07 | calme + hit à 2:04 | "Valentina... caramela..." |
 
 ## Moments à clipper pour TikTok
-1. **Hook 2 (0:44–1:00)** — le plus haut, le refrain qui claque → teaser principal.
-2. **Climax final (1:28–1:57)** — énergie soutenue, bon pour un montage qui explose.
-3. **Hook 1 (0:06–0:22)** — l'intro du refrain, bon pour un POV d'ouverture.
+1. **Hook 2 (0:52–1:06)** — refrain qui claque → teaser principal.
+2. **Climax (1:28–1:56)** — énergie max → montage qui explose.
+3. **Build/drop 1 (0:30–0:36)** — bon "moment" pour un cut.
 
-## Pour le clip (mapping énergie → montage)
-- Plans CALMES/sensuels sur l'intro + couplets (énergie basse/moyenne).
-- Plans RYTHMÉS / cuts rapides sur les Hooks (énergie haute) — surtout Hook 2 et le climax final.
-- Le Bridge (1:20) = respiration / plan contemplatif avant l'explosion finale.
+## Mapping énergie → montage clip
+- Plans CALMES/sensuels : intro + bridge (énergie basse).
+- Cuts RYTHMÉS / transitions : sur les drops (0:30, le hit à 2:04) et les hooks.
+- EXPLOSION visuelle : le climax 1:28–1:56 (le plus d'énergie).

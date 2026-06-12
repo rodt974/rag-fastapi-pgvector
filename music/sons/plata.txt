@@ -1,0 +1,56 @@
+# RODT — PLATA (vibe ambition/confiance : la plume comme arme. Ta punch dedans. Dico miné, arabe dosé léger)
+
+Concept : le rap me sort de la rue. La plume > le calibre. Énergie fière/déterminée (pas sad).
+
+=== PAROLES (Suno) ===
+
+[Short Intro]
+ouuh...
+(plata...)
+
+[Hook]
+j'sors la plume, pas le plomo (pas le plomo)
+j'transforme l'encre en plata
+ils tirent dans l'vide... moi j'vise le sommet
+j'sors la plume, pas le plomo
+ouuh...
+
+[Verse 1]
+né dans la zone... où on compte les douilles
+moi j'compte mes mots... chaque rime, un fusil
+j'écris pour la plata... le plomo, c'est pour ceux qui visent mal avec les mots
+personne y croyait... maintenant ils retiennent mon blaze
+
+[Hook]
+j'sors la plume, pas le plomo (pas le plomo)
+j'transforme l'encre en plata
+ils tirent dans l'vide... moi j'vise le sommet
+j'sors la plume, pas le plomo
+ouuh...
+
+[Verse 2]
+j'ai troqué l'calibre... contre un stylo, même portée
+ma plume saigne de l'or... eux ils saignent pour rien
+ils veulent la guerre... moi j'veux la paye, sortir par le haut
+mon nom sur les affiches... pas dans les faits divers
+
+[Bridge]
+ouuh...
+la rue voulait ma peau...
+j'lui ai répondu en rimes
+
+[Hook]
+j'sors la plume, pas le plomo (pas le plomo)
+j'transforme l'encre en plata
+ils tirent dans l'vide... moi j'vise le sommet
+j'sors la plume, pas le plomo
+ouuh...
+
+[Outro]
+ouuh...
+j'sors la plume... pas le plomo...
+
+=== STYLE PROMPT ===
+french melodic rap, cloud trap, confident determined, warm autotune male vocals, catchy melody, hard 808, crisp hi-hats, 130 BPM, rap français, all lyrics in French, male vocals
+=== EXCLUDE === EDM, electro, house, pop, festive
+=== TIKTOK === Accroche frame 0 : « le plomo c'est pour ceux qui visent mal avec les mots 🖊️ » · quotable : "j'sors la plume, pas le plomo"

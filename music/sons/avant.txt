@@ -1,0 +1,58 @@
+# RODT — AVANT (planant mais CONCRET : les potes / le quartier d'avant. Zéro "j'plane")
+
+Style planant (espace, mantra, simple) MAIS une vraie scène, des détails concrets, pas d'abstraction stoner.
+
+=== PAROLES (Suno) ===
+
+[Short Intro]
+ouuh...
+(avant...)
+mmh...
+
+[Hook]
+on était les mêmes, avant... (avant)
+même banc, même galère... (avant)
+maintenant chacun sa route... y'en a qui sont plus là
+on était les mêmes, avant...
+ouuh...
+
+[Verse 1]
+le terrain est vide... où sont passées les soirées
+le grand est au mitard... le p'tit a déménagé
+on jurait sur nos vies... qu'on lâcherait jamais rien
+la vie nous a séparés... sans même nous prévenir
+
+[Hook]
+on était les mêmes, avant... (avant)
+même banc, même galère... (avant)
+maintenant chacun sa route... y'en a qui sont plus là
+on était les mêmes, avant...
+ouuh...
+
+[Verse 2]
+j'passe devant l'immeuble... j'entends encore nos rires
+les murs ont pas changé... c'est nous qu'on reconnaît plus
+j'voulais qu'on monte ensemble... j'suis le seul qui rêve encore
+j'lève mon verre au quartier... à ceux qui répondent plus
+
+[Bridge]
+mmh... ouuh...
+si vous m'entendez d'là-haut...
+gardez-moi une place
+
+[Hook]
+on était les mêmes, avant... (avant)
+même banc, même galère... (avant)
+maintenant chacun sa route... y'en a qui sont plus là
+on était les mêmes, avant...
+ouuh...
+
+[Outro]
+ouuh...
+on était les mêmes... avant...
+mmh...
+
+=== STYLE PROMPT ===
+french cloud rap, dreamy nostalgic, warm melodic, autotune male vocals legato, soft piano, ambient pads, deep 808, soft hi-hats, hazy melancholic, 125 BPM half-time feel, rap français, all lyrics in French, male vocals, vocal ad-libs
+=== EXCLUDE === EDM, electro, house, pop, festive, aggressive
+=== TIKTOK === Accroche frame 0 : « on était les mêmes... maintenant y'en a qui sont plus là 🥀 » · quotable : "les murs ont pas changé, c'est nous qu'on reconnaît plus"

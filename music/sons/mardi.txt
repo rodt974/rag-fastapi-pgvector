@@ -1,4 +1,4 @@
-# RODT — MARDI (v3 : nettoyé, vocalises espacées, ça flow)
+# RODT — MARDI (v4 : hook earworm + paroles musclées (dico) + prompt TikTokable)
 
 === PAROLES (Suno) ===
 
@@ -7,40 +7,40 @@ ouuh...
 (depuis mardi...)
 
 [Hook]
-elle répond plus depuis mardi
-j'relis nos messages... j'deviens fou
-"lu"... mais jamais d'réponse
+elle répond plus depuis mardi (depuis mardi)
+j'écris dans l'vide depuis mardi (depuis mardi)
+elle a tourné la page, moi j'suis resté
 elle répond plus depuis mardi
 ouuh...
 
 [Verse 1]
-les trois petits points s'allument... puis s'éteignent
-mon cœur fait pareil à chaque fois que j'attends
-j'attends un message... que t'enverras plus
-tu postes ta vie... t'as l'air si bien sans moi
+elle m'a lu... mais jamais vu
+les trois points clignotent... mon cœur en pointillés
+j'ai capté son silence... mieux que tout c'qu'elle disait
+elle poste sa vie... moi j'fais que la relire
 
 [Hook]
-elle répond plus depuis mardi
-j'relis nos messages... j'deviens fou
-"lu"... mais jamais d'réponse
+elle répond plus depuis mardi (depuis mardi)
+j'écris dans l'vide depuis mardi (depuis mardi)
+elle a tourné la page, moi j'suis resté
 elle répond plus depuis mardi
 ouuh...
 
 [Verse 2]
-t'as fini par "ok"... j'ai relu ça dix fois
-"ok" ça veut dire quoi... quand c'est la fin de nous
-j'écris quand il est tard... comme si la nuit pardonnait
-toi t'as tourné la page... moi j'suis resté mardi
+"ok" en un mot... elle a résumé deux ans
+j'ai plus d'réseau pour son cœur... même avec toutes les barres
+elle a tourné la page... moi j'corne encore la mienne
+j'suis sur messagerie... de ma propre vie
 
 [Bridge]
 ouuh... ahhh...
-j'devrais arrêter d'écrire dans l'vide...
-mais c'soir... un dernier message
+j'devrais la bloquer... mais j'préfère me faire mal
+encore un dernier message...
 
 [Hook]
-elle répond plus depuis mardi
-j'relis nos messages... j'deviens fou
-"lu"... mais jamais d'réponse
+elle répond plus depuis mardi (depuis mardi)
+j'écris dans l'vide depuis mardi (depuis mardi)
+elle a tourné la page, moi j'suis resté
 elle répond plus depuis mardi
 ouuh...
 
@@ -48,7 +48,9 @@ ouuh...
 elle répond plus... depuis mardi...
 ouuh...
 
-=== STYLE PROMPT ===
-french cloud rap, melodic trap, emotional heartbreak melancholic, warm raspy breathy autotune male vocals, deep 808, soft hi-hats, ambient piano, 130 BPM half-time feel, rap français, all lyrics in French, male vocals, solo lead vocal
-=== EXCLUDE === EDM, electro, house, pop, festive
-=== TIKTOK === Accroche frame 0 : « Elle répond plus depuis mardi 🥀 » · quotable : "moi j'suis resté mardi"
+=== STYLE PROMPT (TikTokable) ===
+french melodic cloud rap, catchy memorable melody, emotional heartbreak, warm autotune male vocals, simple piano riff hook, bouncy deep 808, crisp hi-hats, earworm topline, 130 BPM, rap français, all lyrics in French, male vocals
+=== EXCLUDE === EDM, electro, house, pop, festive, ambient
+=== TIKTOK ===
+Accroche frame 0 : « elle m'a lu mais jamais vu 🥀 »
+Quotables : "elle a résumé deux ans en un mot : ok" · "j'suis sur messagerie de ma propre vie"

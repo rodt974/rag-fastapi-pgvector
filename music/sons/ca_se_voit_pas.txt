@@ -1,0 +1,58 @@
+# RODT — ÇA S'VOIT PAS (notre grain : dico miné à fond, darija À NOUS, pas les mots de Paqueta)
+
+Construit en piochant : code_switching (miskine/hchouma/khoya/hamdoulah), wordplay (serrer les dents / du nez),
+métaphores (saigner proprement / l'œuvre qu'on achète pas / locataire / couteau qui reste chaud), antithèses (feu/glace).
+Émotion brute + le mec qui cache. Mais 100% notre vocabulaire.
+
+=== PAROLES (Suno) ===
+
+[Short Intro]
+ouuh...
+(ça s'voit pas...)
+
+[Hook]
+je saigne... mais ça s'voit pas (ça s'voit pas)
+j'serre les dents... pas pour sourire, pour pas crier
+elle m'a r'gardé... comme un truc qu'on achète pas
+je saigne... mais ça s'voit pas
+ouuh...
+
+[Verse 1]
+elle m'aimait à moitié... wesh, moi j'aimais en entier
+la douleur s'est installée... locataire jamais invité
+miskine, j'fais le fort... hchouma de montrer qu'j'ai mal
+j'ai du nez pour la traîtrise... j'la sens avant qu'elle frappe
+
+[Hook]
+je saigne... mais ça s'voit pas (ça s'voit pas)
+j'serre les dents... pas pour sourire, pour pas crier
+elle m'a r'gardé... comme un truc qu'on achète pas
+je saigne... mais ça s'voit pas
+ouuh...
+
+[Verse 2]
+hamdoulah j'tiens debout... mais dedans, feu sous la glace
+khoya, on m'a trahi en souriant... couteau qui reste chaud
+j'pousse mes mots dans l'béton... comme une graine cherche le jour
+elle voulait pas m'acheter... maintenant j'me vends à personne
+
+[Bridge]
+ouuh...
+j'ai appris à saigner proprement...
+pas de traces, pas de bruit
+
+[Hook]
+je saigne... mais ça s'voit pas (ça s'voit pas)
+j'serre les dents... pas pour sourire, pour pas crier
+elle m'a r'gardé... comme un truc qu'on achète pas
+je saigne... mais ça s'voit pas
+ouuh...
+
+[Outro]
+ouuh...
+je saigne... mais ça s'voit pas...
+
+=== STYLE PROMPT ===
+french cloud rap, melodic trap, emotional cold melancholic, warm autotune male vocals, deep 808, soft hi-hats, ambient piano, 125 BPM half-time feel, rap français, slight north african influence, all lyrics in French, male vocals
+=== EXCLUDE === EDM, electro, house, pop, festive
+=== TIKTOK === Accroche frame 0 : « je saigne, mais ça s'voit pas 🥀 » · quotable : "elle m'a r'gardé comme un truc qu'on achète pas"

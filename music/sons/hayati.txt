@@ -1,0 +1,57 @@
+# RODT — HAYATI (écrit dans le grain réel Paquetá : darija + émotion brute/numb + paradoxe du silence)
+
+Grain : darija naturel (hayati, khos, nia, matrixer, wAllah), émotion BRUTE pas poétique,
+le paradoxe "elle a besoin d'aide mais j'lui dis pas", 70% rappé, lignes simples 8-12 syll.
+
+=== PAROLES (Suno) ===
+
+[Short Intro]
+ouuh...
+(hayati...)
+
+[Hook]
+hayati... j'ressens plus rien (plus rien)
+mon cœur est à sec... il bat plus bien
+tu m'parles d'amour... wallah j'sais plus c'que c'est
+hayati... j'ressens plus rien
+ouuh...
+
+[Verse 1]
+trop d'nia avant... maintenant j'fais l'méfiant
+elle veut mon cœur... y'a plus personne dedans
+elle a besoin d'moi... mais j'lui dis pas, j'me tais
+on m'a trop matrixé... j'crois plus c'qu'on m'dit
+
+[Hook]
+hayati... j'ressens plus rien (plus rien)
+mon cœur est à sec... il bat plus bien
+tu m'parles d'amour... wallah j'sais plus c'que c'est
+hayati... j'ressens plus rien
+ouuh...
+
+[Verse 2]
+j'souris devant elle... les khos cachés dedans
+j'ai trop donné gamin... aujourd'hui j'donne plus rien
+elle mérite un vrai... moi j'suis cassé depuis longtemps
+hayati pardonne... j't'aime mais j'sais pas l'dire
+
+[Bridge]
+ouuh...
+elle a besoin d'aide... et moi aussi
+mais on s'le dit jamais...
+
+[Hook]
+hayati... j'ressens plus rien (plus rien)
+mon cœur est à sec... il bat plus bien
+tu m'parles d'amour... wallah j'sais plus c'que c'est
+hayati... j'ressens plus rien
+ouuh...
+
+[Outro]
+ouuh...
+hayati... j'ressens plus rien...
+
+=== STYLE PROMPT ===
+french cloud rap, melodic trap, emotional cold numb, warm autotune male vocals, deep 808, soft hi-hats, ambient piano, 125 BPM half-time feel, rap français, slight north african influence, all lyrics in French, male vocals
+=== EXCLUDE === EDM, electro, house, pop, festive
+=== TIKTOK === Accroche frame 0 : « elle a besoin d'aide, et moi aussi, mais on s'le dit jamais 🥀 » · quotable : "j't'aime mais j'sais pas l'dire"
